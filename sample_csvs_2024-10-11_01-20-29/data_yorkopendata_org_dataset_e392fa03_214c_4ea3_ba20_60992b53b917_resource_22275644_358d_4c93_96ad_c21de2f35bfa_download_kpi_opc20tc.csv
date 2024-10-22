@@ -1,0 +1,8 @@
+"KpiId","KpiName","Value","DataType","Period","StartDate","EndDate","CollectionFrequency"
+"OPC20TC","Car Club - Total - CO2e (000's)","0.00 Number","Number","2014/2015","2014-04-01","2015-03-31","Annual"
+"OPC20TC","Car Club - Total - CO2e (000's)","27.71 Number","Number","2017/2018","2017-04-01","2018-03-31","Annual"
+"OPC20TC","Car Club - Total - CO2e (000's)","30.27 Number","Number","2018/2019","2018-04-01","2019-03-31","Annual"
+"OPC20TC","Car Club - Total - CO2e (000's)","29.62 Number","Number","2019/2020","2019-04-01","2020-03-31","Annual"
+"OPC20TC","Car Club - Total - CO2e (000's)","9.76 Number","Number","2020/2021","2020-04-01","2021-03-31","Annual"
+"OPC20TC","Car Club - Total - CO2e (000's)","26.40 Number","Number","2021/2022","2021-04-01","2022-03-31","Annual"
+"OPC20TC","Car Club - Total - CO2e (000's)","33.59 Number","Number","2022/2023","2022-04-01","2023-03-31","Annual"

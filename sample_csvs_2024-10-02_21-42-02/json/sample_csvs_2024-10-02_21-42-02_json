@@ -1,0 +1,568 @@
+{
+    "https://www.dropbox.com/s/wu2sik1yrzgvw1j/Contracts%20Finder%20OCDS%202022-01-01.csv?dl=1": {
+        "file_name": "dropbox_com_s_wu2sik1yrzgvw1j_Contracts_20Finder_20OCDS_202022_01_01.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1172375/Cabinet_Office_special_advisers_meetings__January_to_March_2023.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1172375_Cabinet_Office_special_advisers_meetings__January_to_March_2023.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/860000/dwp-special-advisers-meetings-jul-sep-2019.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_860000_dwp_special_advisers_meetings_jul_sep_2019.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/0jppzoiuuj0m4jb/Contracts%20Finder%20OCDS%202022-03-28.csv?dl=1": {
+        "file_name": "dropbox_com_s_0jppzoiuuj0m4jb_Contracts_20Finder_20OCDS_202022_03_28.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/342137/HMRC_GPC_spends_over__500_July_2012.csv": {
+        "file_name": "gov_uk_government_uploads_system_uploads_attachment_data_file_342137_HMRC_GPC_spends_over__500_July_2012.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/calves-born-by-dam-breed-type_april-to-june-2015.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_data_defra_gov_uk_AnimalWelfare_calves_born_by_dam_breed_type_april_to_june_2015.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/datagovuk-production-ckan-organogram/legacy/organogram/transport-focus/31/3/2013/passenger-focus__31-03-2013__dft_PF-Transparency-Final-Return-31-03-13-senior.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_datagovuk_production_ckan_organogram_legacy_organogram_transport_focus_31_3_2013_passenger_focus__31_03_2013__dft_PF_Transparency_Final_Return_31_03_13_senior.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://admin.opendatani.gov.uk/dataset/242527e9-eeb7-4993-a63b-33e1600ddf08/resource/1d2e4318-9d29-4bd3-81f3-c1e3c8e9a1f0/download/ukhsa-coverage-report-2024-03-21.csv": {
+        "file_name": "admin_opendatani_gov_uk_dataset_242527e9_eeb7_4993_a63b_33e1600ddf08_resource_1d2e4318_9d29_4bd3_81f3_c1e3c8e9a1f0_download_ukhsa_coverage_report_2024_03_21.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://data.yorkopendata.org/dataset/08a8e8e6-bbe3-4284-90f9-50ad3d3cfdc2/resource/c5cf2b5a-8ea5-44be-a587-29f1869eb8d5/download/kpi-ig01l.csv": {
+        "file_name": "data_yorkopendata_org_dataset_08a8e8e6_bbe3_4284_90f9_50ad3d3cfdc2_resource_c5cf2b5a_8ea5_44be_a587_29f1869eb8d5_download_kpi_ig01l.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://admin.opendatani.gov.uk/dataset/a7b76920-bc0a-48fd-9abf-dc5ad0999886/resource/78e6e832-c46a-406f-b530-7dbce77dc9f5/download/gp-prescribing---march-2019.csv": {
+        "file_name": "admin_opendatani_gov_uk_dataset_a7b76920_bc0a_48fd_9abf_dc5ad0999886_resource_78e6e832_c46a_406f_b530_7dbce77dc9f5_download_gp_prescribing___march_2019.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "http://data.defra.gov.uk/ops/government_procurement_card/over_%C2%A3500_gpc_june_2014.csv": {
+        "file_name": "data_defra_gov_uk_ops_government_procurement_card_over__C2_A3500_gpc_june_2014.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://data.yorkopendata.org/dataset/a8bc90ca-6915-4576-a6a2-f1d45ce8bf76/resource/d79379d9-5a84-4523-b989-d830dedfd741/download/kpi-can008c.csv": {
+        "file_name": "data_yorkopendata_org_dataset_a8bc90ca_6915_4576_a6a2_f1d45ce8bf76_resource_d79379d9_5a84_4523_b989_d830dedfd741_download_kpi_can008c.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/897879/April_2020_Over_25K_FC.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_897879_April_2020_Over_25K_FC.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/permanent-milk-quota-by-county_2003-to-2004.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_data_defra_gov_uk_AnimalWelfare_permanent_milk_quota_by_county_2003_to_2004.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.manchester.gov.uk/open/downloads/file/1026/grant_payments_july_2021.csv": {
+        "file_name": "manchester_gov_uk_open_downloads_file_1026_grant_payments_july_2021.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/j7fzk7hgcavr2zo/Contracts%20Finder%20OCDS%202017-11-19.csv?dl=1": {
+        "file_name": "dropbox_com_s_j7fzk7hgcavr2zo_Contracts_20Finder_20OCDS_202017_11_19.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/datagovuk-production-ckan-organogram/ministry-of-defence-police-organogram-of-staff-roles-salaries/resources/2023-07-27T12-48-54Z-2023-06-30-organogram-senior.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_datagovuk_production_ckan_organogram_ministry_of_defence_police_organogram_of_staff_roles_salaries_resources_2023_07_27T12_48_54Z_2023_06_30_organogram_senior.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://fsadata.github.io/directors-and-board-members-expenses/data/directors-expenses-july-2018-september-2018.csv": {
+        "file_name": "fsadata_github_io_directors_and_board_members_expenses_data_directors_expenses_july_2018_september_2018.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/93kfph64mjajpfl/Contracts%20Finder%20OCDS%202022-05-23.csv?dl=1": {
+        "file_name": "dropbox_com_s_93kfph64mjajpfl_Contracts_20Finder_20OCDS_202022_05_23.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/datagovuk-production-ckan-organogram/organogram-joint-forces-command/resources/2022-08-11T17-15-52Z-2022-08-11-organogram-senior.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_datagovuk_production_ckan_organogram_organogram_joint_forces_command_resources_2022_08_11T17_15_52Z_2022_08_11_organogram_senior.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "http://www.shropscommunityhealth.nhs.uk/content/doclib/11550_1.csv": {
+        "file_name": "shropscommunityhealth_nhs_uk_content_doclib_11550_1.csv",
+        "status_code": 403,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": false,
+        "error": null
+    },
+    "http://data.defra.gov.uk/Agriculture/APHA0414-Summary_of_Inspection_Statistics-Mandatory_Goods_2015.csv": {
+        "file_name": "data_defra_gov_uk_Agriculture_APHA0414_Summary_of_Inspection_Statistics_Mandatory_Goods_2015.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.covwarkpt.nhs.uk/download.cfm?doc=docm93jijm4n3446.csv&ver=4654": {
+        "file_name": "covwarkpt_nhs_uk_download_cfm.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/age-at-death-for-cattle-born-and-reared-in-wales-slaughtered-in-great-britain_2008.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_data_defra_gov_uk_AnimalWelfare_age_at_death_for_cattle_born_and_reared_in_wales_slaughtered_in_great_britain_2008.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/9peafuqtqeth9h8/Contracts%20Finder%20OCDS%202018-03-24.csv?dl=1": {
+        "file_name": "dropbox_com_s_9peafuqtqeth9h8_Contracts_20Finder_20OCDS_202018_03_24.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.nationalarchives.gov.uk/documents/spend-over-10k-2019-04.csv": {
+        "file_name": "nationalarchives_gov_uk_documents_spend_over_10k_2019_04.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://data.yorkopendata.org/dataset/107b55fe-a63d-4d47-8643-2c12f3ae1731/resource/59249b2f-0baa-490c-8b54-a3b4f30455b3/download/plosjunior2024.csv": {
+        "file_name": "data_yorkopendata_org_dataset_107b55fe_a63d_4d47_8643_2c12f3ae1731_resource_59249b2f_0baa_490c_8b54_a3b4f30455b3_download_plosjunior2024.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/cattle-imports-by-country-breed-type-age-and-sex_july-2013.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_data_defra_gov_uk_AnimalWelfare_cattle_imports_by_country_breed_type_age_and_sex_july_2013.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.nhsbsa.nhs.uk/sites/default/files/2019-04/11%20-%20February.csv": {
+        "file_name": "nhsbsa_nhs_uk_sites_default_files_2019_04_11_20__20February.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://data.yorkopendata.org/dataset/ef0199a4-e878-45ca-8b3b-62ecb4c0862f/resource/160aaf90-0a6e-4be4-bf0c-bc590e950b4f/download/plosprimary2023.csv": {
+        "file_name": "data_yorkopendata_org_dataset_ef0199a4_e878_45ca_8b3b_62ecb4c0862f_resource_160aaf90_0a6e_4be4_bf0c_bc590e950b4f_download_plosprimary2023.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/670843/dft-hospitality-return-q3-2017.csv": {
+        "file_name": "gov_uk_government_uploads_system_uploads_attachment_data_file_670843_dft_hospitality_return_q3_2017.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/piqyvziovtghn8b/Contracts%20Finder%20OCDS%202016-09-14.csv?dl=1": {
+        "file_name": "dropbox_com_s_piqyvziovtghn8b_Contracts_20Finder_20OCDS_202016_09_14.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/scl/fi/z2ryp0vznlf2zsik512k0/Contracts-Finder-OCDS-2024-05-31.csv?rlkey=an4qnmaqhdsemr7eawxnxpf2d&dl=1": {
+        "file_name": "dropbox_com_scl_fi_z2ryp0vznlf2zsik512k0_Contracts_Finder_OCDS_2024_05_31.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://data.yorkopendata.org/dataset/aae6de11-9fda-44ca-9ee9-715ec368074f/resource/0dfcfbf8-ff71-4012-8f40-e9ace1bd1303/download/kpi-cfc04.csv": {
+        "file_name": "data_yorkopendata_org_dataset_aae6de11_9fda_44ca_9ee9_715ec368074f_resource_0dfcfbf8_ff71_4012_8f40_e9ace1bd1303_download_kpi_cfc04.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/cattle-movements-from-high-risk-tuberculosis-areas_may-2010.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_data_defra_gov_uk_AnimalWelfare_cattle_movements_from_high_risk_tuberculosis_areas_may_2010.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/2nuju2a2mv3xjnn/Contracts%20Finder%20OCDS%202022-09-19.csv?dl=1": {
+        "file_name": "dropbox_com_s_2nuju2a2mv3xjnn_Contracts_20Finder_20OCDS_202022_09_19.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/xwmqj13zewhn8o7/Contracts%20Finder%20OCDS%202017-01-19.csv?dl=1": {
+        "file_name": "dropbox_com_s_xwmqj13zewhn8o7_Contracts_20Finder_20OCDS_202017_01_19.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/717925/workforce-management-information-dft_201804.csv": {
+        "file_name": "gov_uk_government_uploads_system_uploads_attachment_data_file_717925_workforce_management_information_dft_201804.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://live-iag-static-assets.s3.eu-west-1.amazonaws.com/pdf/Transparency/businessRates/All+Business+Rates+(excluding+void+properties)+-+January+2022.csv": {
+        "file_name": "live_iag_static_assets_s3_eu_west_1_amazonaws_com_pdf_Transparency_businessRates_All_Business_Rates__excluding_void_properties____January_2022.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1064083/october-december-2021-disclosure-ministerial-meetings.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1064083_october_december_2021_disclosure_ministerial_meetings.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/scl/fi/a1qw3t0bmxwl42p72mi25/Contracts-Finder-OCDS-2024-06-18.csv?rlkey=mio3i3i6jcdkya5db5vj9zeb3&dl=1": {
+        "file_name": "dropbox_com_scl_fi_a1qw3t0bmxwl42p72mi25_Contracts_Finder_OCDS_2024_06_18.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/186443/workforce-management-2012-sep.csv": {
+        "file_name": "gov_uk_government_uploads_system_uploads_attachment_data_file_186443_workforce_management_2012_sep.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1055151/Meetings-July-Sept-2021.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1055151_Meetings_July_Sept_2021.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1090309/dft-permanent-secretaries-meetings-january-to-march-2022.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1090309_dft_permanent_secretaries_meetings_january_to_march_2022.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://live-iag-static-assets.s3.eu-west-1.amazonaws.com/pdf/Transparency/Tenders/Invitations+to+Tender+-+July+to+September+2023.csv": {
+        "file_name": "live_iag_static_assets_s3_eu_west_1_amazonaws_com_pdf_Transparency_Tenders_Invitations_to_Tender___July_to_September_2023.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://admin.opendatani.gov.uk/dataset/e37520b0-ddb4-4cfa-b53f-a9c50ef21965/resource/d16d6808-9e48-4b42-a617-e26093df34f7/download/noids-week-17-20-2024-csv.csv": {
+        "file_name": "admin_opendatani_gov_uk_dataset_e37520b0_ddb4_4cfa_b53f_a9c50ef21965_resource_d16d6808_9e48_4b42_a617_e26093df34f7_download_noids_week_17_20_2024_csv.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://data.london.gov.uk/download/modelled-estimates-of-recent-births/9698d0b1-663c-4594-8687-67469ce07e6d/actual_and_predicted_births.csv": {
+        "file_name": "data_london_gov_uk_download_modelled_estimates_of_recent_births_9698d0b1_663c_4594_8687_67469ce07e6d_actual_and_predicted_births.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://admin.opendatani.gov.uk/dataset/e37520b0-ddb4-4cfa-b53f-a9c50ef21965/resource/62f55697-ffb5-4655-bd91-91f5ab67d2e4/download/noids-report-2015-week-7.csv": {
+        "file_name": "admin_opendatani_gov_uk_dataset_e37520b0_ddb4_4cfa_b53f_a9c50ef21965_resource_62f55697_ffb5_4655_bd91_91f5ab67d2e4_download_noids_report_2015_week_7.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "http://www.derbyandderbyshireccg.nhs.uk/_resources/assets/attachment/full/0/8009.csv": {
+        "file_name": "derbyandderbyshireccg_nhs_uk__resources_assets_attachment_full_0_8009.csv",
+        "status_code": null,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": false,
+        "error": "Exception error: HTTPSConnectionPool(host='www.derbyandderbyshireccg.nhs.uk', port=443): Max retries exceeded with url: /_resources/assets/attachment/full/0/8009.csv (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))"
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1065313/dwp-special-advisers-meetings-oct-dec-2021.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1065313_dwp_special_advisers_meetings_oct_dec_2021.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://webarchive.nationalarchives.gov.uk/20180601151923/https://www.forestry.gov.uk/pdf/December25KFINAL.csv/$FILE/December25KFINAL.csv": {
+        "file_name": "webarchive_nationalarchives_gov_uk_20180601151923_https___forestry_gov_uk_pdf_December25KFINAL_csv__FILE_December25KFINAL.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/milk-quota-purchaser-sizes-and-amounts-purchased_1994-to-2013.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_data_defra_gov_uk_AnimalWelfare_milk_quota_purchaser_sizes_and_amounts_purchased_1994_to_2013.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.norfolkcommunityhealthandcare.nhs.uk/download.cfm?doc=docm93jijm4n3007.csv&ver=3899": {
+        "file_name": "norfolkcommunityhealthandcare_nhs_uk_download_cfm.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "http://www.nationalgallery.org.uk/upload/csv/transparency-return-february-2019.csv": {
+        "file_name": "nationalgallery_org_uk_upload_csv_transparency_return_february_2019.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/datagovuk-production-ckan-organogram/organogram-nhs-blood-and-transplant/resources/2023-04-21T12-58-07Z-2023-04-21-organogram-junior.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_datagovuk_production_ckan_organogram_organogram_nhs_blood_and_transplant_resources_2023_04_21T12_58_07Z_2023_04_21_organogram_junior.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/rzc42x7yk4k1zei/Contracts%20Finder%20OCDS%202016-11-07.csv?dl=1": {
+        "file_name": "dropbox_com_s_rzc42x7yk4k1zei_Contracts_20Finder_20OCDS_202016_11_07.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/p60mvh6t38b1ntx/Contracts%20Finder%20OCDS%202016-07-06.csv?dl=1": {
+        "file_name": "dropbox_com_s_p60mvh6t38b1ntx_Contracts_20Finder_20OCDS_202016_07_06.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://webarchive.nationalarchives.gov.uk/20180601151923/https://www.forestry.gov.uk/pdf/june10over25k.csv/$FILE/june10over25k.csv": {
+        "file_name": "webarchive_nationalarchives_gov_uk_20180601151923_https___forestry_gov_uk_pdf_june10over25k_csv__FILE_june10over25k.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/datagovuk-production-ckan-organogram/legacy/organogram/british-transport-police-authority/30/9/2017/20170930%20BTPA%20staff%20and%20salary%20data%20blank%20template-junior.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_datagovuk_production_ckan_organogram_legacy_organogram_british_transport_police_authority_30_9_2017_20170930_20BTPA_20staff_20and_20salary_20data_20blank_20template_junior.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/491268/dwp-cmg-spend-1115.csv": {
+        "file_name": "gov_uk_government_uploads_system_uploads_attachment_data_file_491268_dwp_cmg_spend_1115.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "http://webarchive.nationalarchives.gov.uk/+/http://www.porthosp.nhs.uk/Downloads/Finance/2012%20Sep%20Return.csv": {
+        "file_name": "webarchive_nationalarchives_gov_uk___http___porthosp_nhs_uk_Downloads_Finance_2012_20Sep_20Return.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/media/649eb8cc06179b00113f7620/FCDO_s_ministerial_hospitality__January_to_March_2023.csv": {
+        "file_name": "assets_publishing_service_gov_uk_media_649eb8cc06179b00113f7620_FCDO_s_ministerial_hospitality__January_to_March_2023.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/vi2q9z7kq7g1urb/Contracts%20Finder%20OCDS%202016-10-04.csv?dl=1": {
+        "file_name": "dropbox_com_s_vi2q9z7kq7g1urb_Contracts_20Finder_20OCDS_202016_10_04.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://admin.opendatani.gov.uk/dataset/242527e9-eeb7-4993-a63b-33e1600ddf08/resource/64a47132-0ec5-486d-a5ce-208744b09d2f/download/ukhsa-coverage-report-2023-05-11.csv": {
+        "file_name": "admin_opendatani_gov_uk_dataset_242527e9_eeb7_4993_a63b_33e1600ddf08_resource_64a47132_0ec5_486d_a5ce_208744b09d2f_download_ukhsa_coverage_report_2023_05_11.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://fsadata.github.io/approved-food-establishments/data/approved-food-establishments-as-at-1-january-2021.csv": {
+        "file_name": "fsadata_github_io_approved_food_establishments_data_approved_food_establishments_as_at_1_january_2021.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.dropbox.com/s/el5vwbsbhy6poyw/Contracts%20Finder%20OCDS%202017-07-17.csv?dl=1": {
+        "file_name": "dropbox_com_s_el5vwbsbhy6poyw_Contracts_20Finder_20OCDS_202017_07_17.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/405908/HMRC_exceptions_to_the_Government_spending_moratorium_1_Oct_2014_-_31_Dec_2014_-_Recruitment.csv": {
+        "file_name": "gov_uk_government_uploads_system_uploads_attachment_data_file_405908_HMRC_exceptions_to_the_Government_spending_moratorium_1_Oct_2014___31_Dec_2014___Recruitment.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://www.plymouthhospitals.nhs.uk/download.cfm?doc=docm93jijm4n2658.csv&ver=3376": {
+        "file_name": "plymouthhospitals_nhs_uk_download_cfm.csv",
+        "status_code": 200,
+        "is_csv": false,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1127304/beis-workforce-mgmt-info-oct-22.csv": {
+        "file_name": "assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1127304_beis_workforce_mgmt_info_oct_22.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "https://s3-eu-west-1.amazonaws.com/datagovuk-production-ckan-organogram/organogram-maritime-and-coastguard-agency/resources/2022-10-31T08-17-52Z-2022-10-31-organogram-senior.csv": {
+        "file_name": "s3_eu_west_1_amazonaws_com_datagovuk_production_ckan_organogram_organogram_maritime_and_coastguard_agency_resources_2022_10_31T08_17_52Z_2022_10_31_organogram_senior.csv",
+        "status_code": 200,
+        "is_csv": true,
+        "is_csv_Al_code": true,
+        "downloaded": true,
+        "error": null
+    },
+    "metadata": {
+        "csvs": 68,
+        "xls": 5,
+        "badfiles": 2,
+        "non_csvs": 25
+    }
+}

@@ -1,0 +1,60 @@
+Invoice No.,Payment Date,Supplier,Supplier's Invoice Number, Line Amount Spend , Invoice Amount Spend ,Spend Type,Directorate,Cost Centre Type
+SIV-000627,05/10/2023,The Stationery Office Ltd,36164046," 24,565 "," 30,025 ",Infrastructure/Platform development,Digital,Programme
+SIV-000627,05/10/2023,The Stationery Office Ltd,36164046," 5,460 "," 30,025 ",Infrastructure/Platform development,Digital,Programme
+SIV-000754,10/10/2023,Cabinet Office,3832085," 40,800 "," 40,800 ",Security,Corporate Services,Programme
+SIV-000786,10/10/2023,Zaizi Limited,INV-097081," 53,215 "," 53,215 ",ICT Systems AUC,Digital,Programme
+SIV-000792,05/10/2023,CRAYON LTD,2303026902," 18,000 "," 181,885 ",Infrastructure/Platform development,Digital,Programme
+SIV-000792,05/10/2023,CRAYON LTD,2303026902," 163,885 "," 181,885 ",PSI Website Hosting,Digital,Programme
+SIV-000809,05/10/2023,Ivy Rock Partners Limited,1717," 3,882 "," 15,529 ",Agency Staff,Corporate Services,Administration
+SIV-000809,05/10/2023,Ivy Rock Partners Limited,1717," 3,882 "," 15,529 ",Agency Staff,Corporate Services,Administration
+SIV-000809,05/10/2023,Ivy Rock Partners Limited,1717," 3,882 "," 15,529 ",Agency Staff,Corporate Services,Administration
+SIV-000809,05/10/2023,Ivy Rock Partners Limited,1717," 3,882 "," 15,529 ",Agency Staff,Corporate Services,Administration
+SIV-000817,05/10/2023,London Borough Of Richmond,210009486 -Oct-2023," 340,480 "," 340,480 ",Business Rates,Corporate Services,Programme
+SIV-000818,05/10/2023,The Stationery Office Ltd,36164054," 10,560 "," 10,560 ",Product/Service Research,Digital,Programme
+SIV-000819,05/10/2023,Leidos Pty Ltd,INV04-000177015," 26,793 "," 26,793 ",Product/Service Development,Digital,Programme
+SIV-000826,10/10/2023,CERIUM LEVEL 5 LTD,0268/0168," 19,800 "," 19,800 ",Contingent Labour (Contractor) Project,Digital,Programme
+SIV-000839,01/10/2023,B W Interiors Limited,16545," 13,051 "," 13,051 ",Plant & Equipment,Corporate Services,Programme
+SIV-000844,31/10/2023,Insight Direct (UK) Ltd,2100726684," 6,343 "," 206,521 ",IT Maintenance & Support - Software,Corporate Services,Administration
+SIV-000844,31/10/2023,Insight Direct (UK) Ltd,2100726684," 57,329 "," 206,521 ",IT Maintenance & Support - Software,Corporate Services,Administration
+SIV-000844,31/10/2023,Insight Direct (UK) Ltd,2100726684," 10,330 "," 206,521 ",IT Maintenance & Support - Software,Corporate Services,Administration
+SIV-000844,31/10/2023,Insight Direct (UK) Ltd,2100726684," 63,430 "," 206,521 ",IT Maintenance & Support - Software,Corporate Services,Administration
+SIV-000844,31/10/2023,Insight Direct (UK) Ltd,2100726684," 57,329 "," 206,521 ",IT Maintenance & Support - Software,Corporate Services,Administration
+SIV-000844,31/10/2023,Insight Direct (UK) Ltd,2100726684," 11,760 "," 206,521 ",Contracted Services,Corporate Services,Administration
+SIV-000847,10/10/2023,The Dextrous Web Ltd T/A Dxw,83215," 54,510 "," 54,510 ",Product/Service Development,Digital,Programme
+SIV-000856,05/10/2023,Htp Architecture Llp,PO 000461 / 03," 15,300 "," 15,300 ",Contracted Services,Corporate Services,Programme
+SIV-000870,10/10/2023,Kainos Worksmart Limited,KWUK02745," 79,380 "," 79,380 ",IT Maintenance & Support - Software,Corporate Services,Administration
+SIV-000872,10/10/2023,Edf Energy,000016769814," 110,021 "," 110,021 ",Electricity,Corporate Services,Programme
+SIV-000876,19/10/2023,Slack Technologies Limited,SBIE-4625785," 11,244 "," 11,244 ",Subscriptions,Digital,Programme
+SIV-000887,10/10/2023,The New Forest Heritage Trust,3184," 17,065 "," 17,065 ",Grants Paid - Competed,Research and Commercial Development,Programme
+SIV-000892,10/10/2023,Deepstore (Compass Minerals Storage & Archives Ltd T/A),0152665," 46,904 "," 46,904 ",Records Storage Space Rental,Public Access and Government Services,Programme
+SIV-000897,10/10/2023,Deepstore (Compass Minerals Storage & Archives Ltd T/A),0152670," 10,440 "," 10,440 ",Records Storage Space Rental,Public Access and Government Services,Programme
+SIV-000898,10/10/2023,Deepstore (Compass Minerals Storage & Archives Ltd T/A),0152669," 13,826 "," 13,826 ",Records Storage Space Rental,Public Access and Government Services,Programme
+SIV-000904,10/10/2023,Zaizi Limited,INV-097103," 38,117 "," 38,117 ",ICT Systems AUC,Digital,Programme
+SIV-000942,19/10/2023,Mercator It Solutions Ltd,28712," 16,200 "," 16,200 ",ICT Systems AUC,Digital,Programme
+SIV-000949,17/10/2023,Amazon Web Services Inc,EUINGB23-4748342  EUINGB23-5142772   EUCNGB23-107697," 81,445 "," 81,445 ",IT Data Storage,Digital,Programme
+SIV-000956,19/10/2023,Mercator It Solutions Ltd,28713," 25,740 "," 25,740 ",Contingent Labour (Contractor) Project,Digital,Programme
+SIV-000966,19/10/2023,Royal Bank Of Scotland Plc,13102023," 25,691 "," 25,691 ",GPC Card Spend,Corporate Services,Administration
+SIV-000969,19/10/2023,City of Doncaster Council,29322951," 10,000 "," 10,000 ",Grants Paid - Competed,Research and Commercial Development,Programme
+SIV-000972,19/10/2023,Odgers Berndtson t/a IRG Advisors LLP,23001893 AD 89811," 12,000 "," 12,000 ",Recruitment Agency Fees,"People, Inclusion and Change",Administration
+SIV-000974,19/10/2023,BATH & N.E. SOMERSET COUNCIL,7869381," 33,085 "," 33,085 ",New Burdens,Public Engagement and Sector Leadership,Programme
+SIV-000981,19/10/2023,Elmwood Projects Ltd,2612," 33,222 "," 33,222 ",Exhibitions Build,Public Engagement and Sector Leadership,Programme
+SIV-000982,19/10/2023,City Of London,4348177," 92,943 "," 92,943 ",New Burdens,Public Engagement and Sector Leadership,Programme
+SIV-000983,31/10/2023,British Film Institute,4000025434," 21,599 "," 21,599 ",Film Archive,Research and Commercial Development,Programme
+SIV-000988,31/10/2023,Htp Architecture Llp,PO 000498 / 02," 17,340 "," 17,340 ",Contracted Services,Corporate Services,Programme
+SIV-000994,31/10/2023,Archives And Records,ARA23 4778," 70,000 "," 70,000 ",Grants Paid - Non Competed,Public Engagement and Sector Leadership,Programme
+SIV-001000,31/10/2023,Scottish Government,1022577," 14,486 "," 14,486 ",External Salary Costs,Digital,Programme
+SIV-001011,31/10/2023,Ivy Rock Partners Limited,2073," 3,882 "," 11,647 ",Agency Staff,Corporate Services,Administration
+SIV-001011,31/10/2023,Ivy Rock Partners Limited,2073," 3,882 "," 11,647 ",Agency Staff,Corporate Services,Administration
+SIV-001011,31/10/2023,Ivy Rock Partners Limited,2073," 3,882 "," 11,647 ",Agency Staff,Corporate Services,Administration
+SIV-001029,31/10/2023,The Stationery Office Ltd,36353949," 21,500 "," 43,000 ",PSI Website Hosting,Digital,Programme
+SIV-001029,31/10/2023,The Stationery Office Ltd,36353949," 21,500 "," 43,000 ",PSI Website Hosting,Digital,Programme
+SIV-001063,31/10/2023,The Stationery Office Ltd,36362956," 83,249 "," 83,249 ",Infrastructure/Platform development,Digital,Programme
+SIV-001086,31/10/2023,Worcestershire Archive And Archaeology Service,IN00426673," 43,024 "," 43,024 ",New Burdens,Public Engagement and Sector Leadership,Programme
+SIV-001087,31/10/2023,The Stationery Office Ltd,36371548," 14,298 "," 14,298 ",Data Development & Transformation,Digital,Programme
+SIV-001088,31/10/2023,The Stationery Office Ltd,36371556," 19,337 "," 19,337 ",Data Development & Transformation,Digital,Programme
+SIV-001089,31/10/2023,The Stationery Office Ltd,36371564," 23,897 "," 23,897 ",Editorial Services,Digital,Programme
+SIV-001090,31/10/2023,The Stationery Office Ltd,36371572," 11,040 "," 11,040 ",Subscriptions,Digital,Programme
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

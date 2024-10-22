@@ -1,0 +1,487 @@
+﻿"Senior Officials Name
+(Firstname and Surname of PermSecs or SCS2/3 Official, exclude titles, honorifics or post nominals e.g. Sir, Captain, MBE, PhD)  ","Start date of trip
+(Use the date format: 
+YYYY-MM-DD i.e. 2017-11-01)","Duration of Visit (Days)
+(Include number of days for the visit,
+from departure to arrival)","Destination
+(Include trip destination for both domestic and international journeys, e.g. Manchester, UK or Brussels, Belgium)","Purpose of trip
+(State a clear purpose, e.g. site visit to locally based staff; Senior Leadership meeting; please avoid abbreviations or acronyms)","Mode of transport
+(State if either Rail, Car, Air, Sea, Taxi)
+","Class of travel
+(i.e. Standard, Economy, Business, First or other)","Accommodation/Meals (£)
+(Please include any associated costs relating to accommodation or meals)","Other (including hospitality given)
+(State Nil Return if none received)","Total cost, including all visas, accommodation, travel, meals etc. (£)
+(This amount should reflect the total cost of the trip, including all visas, additional travel meals etc.)",Total Cost of Use of Official Secure Car (state cost except where officials are accompanying a Minister or Nil Return when not used)
+Aiden Reilly,03/11/2022,1,"Birmingham, UK",Site visit and Senior Leadership Team team meeting ,Rail,Standard,Nil Return,Nil Return,69,Nil Return
+Aiden Reilly,15/11/2022,2,"Birmingham, UK",Senior Leadership Event,"Rail, Taxi",Standard,74,Nil Return,153,Nil Return
+Alan Evans,11/10/2022,1,"Manchester, UK",Executive Committee Board Event,Rail,Standard,163,Nil Return,399,Nil Return
+Alan Evans,27/10/2022,1,"Leeds, UK",Executive Committee Board Event,Rail,Standard,Nil Return,Nil Return,128,Nil Return
+Andres Honeywell,12/05/2022,3,"London, UK",Extended Leadership Group and RADA Training,"Air, Rail, Taxi","Economy, Standard",868,Nil Return,1314.48,Nil return
+Andres Honeywell,03/10/2022,4,"London, UK",SAP Rise & Soar Customer Forum/Enterprise Leadership Group Meeting,Rail,Standard,350.99,Nil return,423.95,Nil return
+Andres Honeywell,10/10/2022,4,"London, Manchester, UK",Data Warehouses Workshop with Site visit ,"Air, Rail, Taxi","Economy, Standard,",304,Nil return,987.62,Nil return
+Andres Honeywell,18/10/2022,2,"Newcastle upon Tyne, UK",Black History Month Town Hall speaker ,Rail,Standard,206.7,Nil return,206.7,Nil return
+Andres Honeywell,26/10/2022,3,"London, UK",Peer Learning Group/SAP Customer Forum,"Air, Rail, Taxi","Economy, Standard",354,Nil return,751.39,Nil return
+Andres Honeywell,16/11/2022,2,"London, UK",Team Signavio and Palantir Meetings,"Air, Rail, Taxi","Economy, Standard",204.52,Nil return,714.51,Nil return
+Andres Honeywell,21/11/2022,3,"London, UK",Senior leadership conference,"Air, Rail","Economy, Standard",270,Nil Return,857.54,Nil return
+Andres Honeywell,27/11/2022,2,"Birmingham, UK ",UK Industries SAP User Group Conference,"Air, Rail","Economy, Standard",292.2,Nil Return,550.17,Nil return
+Andres Honeywell,29/11/2022,3,"London, UK",Enterprise Tax Management Platform Future Workshop,"Air, Rail, Taxi","First, Standard",653.87,Nil Return,1050.58,Nil return
+Andres Honeywell,12/12/2022,1,"London, UK",HMRC People Awards 2022 ,"Air, Rail ","Economy, Standard",130,Nil Return,510.14,Nil return
+Andrew Pemberton,04/10/2022,3,"London, UK",Office visit and senior leadership meetings ,Rail,Standard,403.3,Nil Return ,580.4,Nil Return 
+Andrew Pemberton,10/10/2022,1,"Manchester, UK",Executive Committee meeting,Rail,Standard,142.69,Nil Return ,236.74,Nil Return 
+Andrew Pemberton,11/10/2022,2,"York, UK",Office visit and director induction ,Rail,Standard,224,Nil Return ,309,Nil Return 
+Andrew Pemberton,17/10/2022,2,"London, UK",Office visit and Executive Committee meeting,Rail,Standard,30.75,Nil Return ,189.75,Nil Return 
+Andrew Pemberton,19/10/2022,2,"Leeds, UK",Senior Leadership meeting,Rail,Standard,127.54,Nil Return ,204.69,Nil Return 
+Andrew Pemberton,27/10/2022,2,"Leeds, UK",Executive Committee Board Event,Rail,Standard,Nil Return,Nil Return ,121.15,Nil Return 
+Andrew Pemberton,01/11/2022,1,"London, UK",Site visit to locally based Senior Leadership Team,Rail,Standard,Nil Return,Nil Return ,165.2,Nil Return 
+Andrew Pemberton,16/11/2022,1,"London, UK",Site visit to locally based Senior Leadership Team,Rail,Standard,Nil Return,Nil Return ,165.2,Nil Return 
+Andrew Pemberton,30/11/2022,2,"Birmingham, UK",Senior Leadership meeting,Rail,Standard,13.78,Nil Return ,119.93,Nil Return 
+Andrew Pemberton,06/12/2022,2,"London, UK",Site visit to locally based Senior Leadership Team,Rail,Standard,129.02,Nil Return ,300.17,Nil Return 
+Andrew Pemberton,12/12/2022,1,"Manchester, UK",People awards ceremony visit,Rail,Standard,Nil Return,Nil Return ,202.2,Nil Return 
+Andrew Pemberton,20/12/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return ,171.15,Nil Return 
+Andy Leggett,06/10/2022,1,"London, UK",Enterprise Leadership Group  meeting,Rail,Standard,10.4,Nil Return,394.85,Nil Return
+Andy Leggett,21/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,182.05,Nil Return,471.8,Nil Return
+Andy Leggett,07/12/2022,1,"London, UK",Customer Compliance group Senior Leadership meeting,Rail,Standard,249,Nil Return,707.24,Nil Return
+Angela Macdonald,06/10/2022,1,"London, UK",Enterprise Leadership Meeting,Rail,Standard,Nil Return,Nil Return,238,Nil Return
+Angela Macdonald,11/10/2022,2,"Manchester, UK",Executive Committee Meeting ,Rail,Standard,431.05,Nil Return,208,Nil Return
+Angela Macdonald,12/10/2022,2,"London, UK",Key Note Speech at Business and Accounting Software Developers Association Conference,Rail,Standard,189,Nil Return,483,Nil Return
+Angela Macdonald,19/10/2022,1,"Belfast, UK",Erskine House - UK Government Hub official opening event ,"Taxi, Bus",Standard,Nil Return,Nil Return,301.7,Nil Return
+Angela Macdonald,20/10/2022,1,"London,UK",Public Accounts Committee. House of Commons,Rail,Standard,105,Nil Return,251,Nil Return
+Angela Macdonald,25/10/2022,1,"London, UK",Executive Committee Meeting ,Rail,Standard,Nil Return,Nil Return,238,Nil Return
+Angela Macdonald,02/11/2022,1,"Newcastle upon Tyne, UK",Visit to Operational Delivery profession in North East,Car,Economy,Nil Return,Nil Return,39,Nil Return
+Angela Macdonald,22/11/2022,2,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,131,Nil Return,369,Nil Return
+Angela Macdonald,29/11/2022,3,"London, UK","Executive Committee Meeting, Business Lunch with Australian Tax Commissioner",Rail,Standard,262,Nil Return,790,Nil Return
+Angela Macdonald,07/12/2022,2,"London, UK",Interviews for Director General,Rail,Standard,131,Nil Return,385.25,Nil Return
+Angela Macdonald,12/12/2022,4,"London, UK",Executive Committee Meetings and Customer Experience Committee,Rail,Standard,316.93,Nil Return,554.93,Nil Return
+Anita Holmes,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group Meeting ,"Rail, taxi",Standard,Nil Return,Nil Return,238,Nil Return
+Anita Holmes,18/10/2022,1,"Manchester, UK",Team development session,Rail,Standard,Nil Return,Nil Return,37,Nil Return
+Anita Holmes,19/10/2022,2,"Belfast, UK",Senior Leadership Team meeting,,,6,Nil Return,6,Nil Return
+Anita Holmes,30/10/2022,6,"Oxford, UK",Major Projects Leadership Academy residential,Car ,Car Hire,Nil Return,Nil Return,193.92,Nil Return
+Anita Holmes,17/11/2022,2,"London, UK",Senior Leadership Team meeting,Rail,Standard,47.08,Nil Return,398.08,Nil Return
+Anita Holmes,22/11/2022,2,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,29.94,Nil Return,431.29,Nil Return
+Anita Holmes,19/12/2022,2,"Birmingham, UK",Senior Leadership Team meeting,Rail,Standard,146,Nil Return,296,Nil Return
+Ann Conway-Hughes,12/10/2022,1,"Birmingham, UK",Protect Connect Programme Board meeting,Rail,Standard,Nil Return,Nil Return,66,Nil Return
+Ann Conway-Hughes,10/11/2022,2,"Manchester, UK",Transformation Directorate Event,Rail,Standard,98,Nil Return,236,Nil Return
+Ann Conway-Hughes,30/11/2022,2,"Nottingham, UK",Beacon Event,Rail,Standard,99,Nil Return,309,Nil Return
+Ann Conway-Hughes,06/12/2022,1,"Bristol, UK",Site visit to Bristol Office,Rail,Standard,Nil Return,Nil Return,95,Nil Return
+Aydin Sheibani ,12/10/2022,1,"Manchester, UK","Manchester site visit with Director General, Daljit Rehal",Rail ,Standard,110,Nil Return,462,Nil Return
+Aydin Sheibani ,14/11/2022,1,"Manchester, UK",Chief Data Office All Staff Event,Rail ,Standard,139,Nil Return,371,Nil Return
+Bal Moore,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group Event ,Rail,Standard,Nil Return,Nil Return,8.95,Nil Return
+Bal Moore,13/10/2022,2,"York, UK",Senior Leadership Team Meeting,Rail,Standard,13.1,Nil Return,229.1,Nil Return
+Bal Moore,17/10/2022,2,"Leeds, UK",Deputy Director Interview panel,Rail,Standard,77,Nil Return,249.95,Nil Return
+Bal Moore,20/10/2022,1,"London, UK",Working from 100 parliament St,Rail,Standard,Nil Return,Nil Return,6.2,Nil Return
+Bal Moore,26/10/2022,1,"London, UK",Senior Leaders meeting,Rail,Standard,Nil Return,Nil Return,20,Nil Return
+Bal Moore,27/10/2022,1,"Birmingham, UK",Workshop on Self Assessment Delivery,Rail,Standard,15.35,Nil Return,213.35,Nil Return
+Bal Moore,02/11/2022,1,"Nottingham, UK",Senior Leadership Team Community Visit,Rail,Standard,Nil Return,Nil Return,245,Nil Return
+Bal Moore,14/11/2022,2,"Leeds, UK",Senior Leadership Team Event,Rail,Standard,85,Nil Return,233,Nil Return
+Bal Moore,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,20,Nil Return
+Bal Moore,24/11/2022,1,"Birmingham, UK",Peer Leadership Group ,Rail,Standard,Nil Return,Nil Return,287,Nil Return
+Bal Moore,19/12/2022,1,"London, UK",Working from 100 parliament St,Rail,Standard,Nil Return,Nil Return,11.4,Nil Return
+Brian Redford,04/10/2022,1,"London, UK",Customer Compliance Group Awards,"Air, Rail","Economy, Standard",Nil Return,Nil Return,289.18,Nil Return
+Brian Redford,11/10/2022,1,"Edinburgh, UK ",Senior Sponsor Event,Rail,Standard,Nil Return,Nil Return,20,Nil Return
+Brian Redford,20/10/2022,1,"Edinburgh, UK ",Senior Sponsor Event,Rail,Standard,Nil Return,Nil Return,20,Nil Return
+Brian Redford,11/11/2022,1,"Edinburgh, UK ",Senior Sponsor Event,Rail,Standard,Nil Return,Nil Return,20,Nil Return
+Brian Redford,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,"Air, Rail","Economy, Standard",Nil Return,Nil Return,307.08,Nil Return
+Brian Redford,28/11/2022,1,"Edinburgh, UK ",Senior Sponsor Event,Rail,Standard,Nil Return,Nil Return,20,Nil Return
+Carol Bristow,11/10/2022,1,"Manchester, UK",Executive Committee Meeting and Engagement Event,Rail,Standard,87.75,Nil Return,226.3,Nil Return
+Carol Bristow,26/10/2022,1,"Leeds, UK",Board Event,Rail,Standard,153,Nil Return,362.05,Nil Return
+Carol Bristow,15/11/2022,1,"Birmingham, UK",Senior Leadership Team Event ,Rail,Standard,65,Nil Return,127.97,Nil Return
+Carol Bristow,28/11/2022,1,"Oxford, UK",Major Projects Leadership - Residual Module ,Rail,Standard,Nil Return,Nil Return,60.05,Nil Return
+Cath Rollo,03/10/2022,2,"London, UK",Shared Services Programme Roadmap follow up,"Air, Car",Economy,Nil Return,Nil Return,975.2,Nil Return
+Cath Rollo,11/10/2022,1,"Glasgow, UK",Senior meetings,Car,,15.65,Nil Return,15.65,Nil Return
+Cath Rollo,12/10/2022,1,"Glasgow, UK",Senior meetings,Car,,15.65,Nil Return,15.65,Nil Return
+Cath Rollo,21/11/2022,1,"London, UK",Senior meetings,Air,Economy,244.49,Nil Return,244.49,Nil Return
+Cath Rollo,29/11/2022,3,"Nottingham, UK",Senior Leadership Team meeting,Car,Private,Nil Return,Nil Return,275.79,Nil Return
+Catherine Blair,20/10/2022,2,"Belfast, UK",Senior Leadership Meeting,"Air, Rail, Bus",Economy,164.53,Nil Return,344.49,Nil Return
+Catherine Blair,26/10/2022,1,"London, UK",Training course,Rail,Standard,Nil Return,Nil Return,5.8,Nil Return
+Catherine Blair,26/10/2022,1,"London, UK",Training course,Rail,Standard,Nil Return,Nil Return,5.8,Nil Return
+Catherine Blair,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,5.1,Nil Return
+Catherine Blair,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,5.1,Nil Return
+Catherine Blair,23/11/2022,1,"London, UK",Government Finance Leadership Event,Rail,Standard,Nil return,Nil Return,4.15,Nil Return
+Catherine Blair,23/11/2022,1,"London, UK",Government Finance Leadership Event,Rail,Standard,Nil return,Nil Return,4.15,Nil Return
+Catherine Blair,28/11/2022,1,"London, UK",Training course,Rail,Standard,Nil return,Nil Return,11.6,Nil Return
+Catherine Blair,28/11/2022,1,"London, UK",Training course,Rail,Standard,Nil return,Nil Return,11.6,Nil Return
+Catherine Blair,08/12/2022,2,"Leeds, UK",Directorate Engagement Event,Rail,Standard,111,Nil Return,247,Nil Return
+Catherine Blair,19/12/2022,2,"Birmingham, UK",Senior Leadership Meeting,Rail,Standard,132.5,Nil Return,182.5,Nil Return
+Cerys McDonald,06/10/2022,1,"London, UK",Enterprise Leadership Group Meeting,Car,Private,Nil Return,Nil Return,157,Nil Return
+Cerys McDonald,12/10/2022,3,"London, UK",Awards Event,Rail,Standard,390,Nil Return,655,Nil Return
+Cerys McDonald,21/11/2022,2,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,141,Nil Return,406,Nil Return
+Cerys McDonald,29/11/2022,1,"Manchester, UK",Heads of Profession Design Workshop,Rail,Standard,Nil Return,Nil Return,99,Nil Return
+Cerys McDonald,08/12/2022,1,"London, UK",Senior Leadership Team Event,Rail,Standard,Nil Return,Nil Return,265,Nil Return
+Chris Southworth ,30/11/2022,2,"Belfast, UK ",Beacon Event,"Air, Taxi  ",Economy ,84,Nil Return,289.74,Nil Return
+Claire Dartington,14/11/2022,2,"Birmingham, UK",Senior Leadership Team Event,Rail,Standard,180.34,Nil Return,316.93,Nil Return
+Claire McGuckin,12/10/2022,1,"London, UK",Coaching Session,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,13/10/2022,1,"London, UK",Workshop,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,20/10/2022,2,"Belfast, UK",Senior Leadership Meeting,"Air, Car","Economy, Private",114.75,Nil Return,334.96,Nil Return
+Claire McGuckin,25/10/2022,1,"London, UK",Site Visit and Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,30.4,Nil Return
+Claire McGuckin,26/10/2022,2,"Leeds, UK",Site Visit and Senior Leadership meetings,"Rail, Car","Standard, private",85,Nil Return,363,Nil Return
+Claire McGuckin,31/10/2022,1,"London, UK",Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,30.4,Nil Return
+Claire McGuckin,01/11/2022,1,"Birmingham, UK",Senior Leadership Event ,Rail,Standard,Nil Return,Nil Return,56,Nil Return
+Claire McGuckin,03/11/2022,1,"London, UK",Site visit and Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,08/11/2022,1,"London, UK",Workshop ,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,17/11/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,21/11/2022,1,"London, UK",Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,30.4,Nil Return
+Claire McGuckin,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,24/11/2022,1,"London, UK",Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,29/11/2022,2,"Newcastle upon Tyne, UK",Senior Leadership meeting,Rail,Standard,89,Nil Return,354,Nil Return
+Claire McGuckin,07/12/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,30.4,Nil Return
+Claire McGuckin,08/12/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,14/12/2022,1,"London, UK",Women in Leadership Event,Rail,Standard,Nil Return,Nil Return,43,Nil Return
+Claire McGuckin,19/12/2022,2,"Birmingham, UK",Senior Leadership meetings,Rail,Standard,90,Nil Return,186.75,Nil Return
+Claire Walsh,10/10/2022,1,"Liverpool, UK",Customer Insights and Design Roadshows,Rail,Standard,87,Nil Return,254,Nil Return
+Colin Casse,04/10/2022,3,"London, UK",Official visits and SCS1 interviews,"Rail, Underground",Standard,29.19,Nil Return,307.49,Nil Return
+Colin Casse,10/10/2022,3,"London, Manchester, UK",Senior Civil Service interviews & official visits,"Rail, Underground",Standard,75.8,Nil Return,430.8,Nil Return
+Colin Casse,02/11/2022,1,"London, UK",Public Sector Proptec Conference,Rail,Standard,Nil Return,Nil Return,72,Nil Return
+Colin Casse,21/11/2022,2,"Oxford, UK",Major Projects Leadership Academy,Car,Private,Nil Return,Nil Return,290.6,Nil Return
+Colin Casse,28/11/2022,4,"Nottingham, UK",Official visits and senior meetings,Rail,Standard,61.15,Nil Return,454.15,Nil Return
+Colin Casse,05/12/2022,2,"Cardiff, UK",Site visits,Rail,Standard,32.04,Nil Return,238.04,Nil Return
+Colin Casse,08/12/2022,1,"London, UK",Smart Asset Conference,Rail,Standard,Nil Return,Nil Return,72,Nil Return
+Colin Casse,12/12/2022,3,"Birmingham, UK",Senior Meetings,Car,Private,56.79,Nil Return,248.68,Nil Return
+Craig Ogilvie,06/10/2022,1,"London, UK",Senior leader meeting,"Air, Taxi, Rail","Economy, Standard",Nil Return,Nil Return,178.98,Nil return
+Craig Ogilvie,20/10/2022,2,"Belfast, UK",Transformation Senior Leader Meeting,"Air, Taxi",Economy,114.75,Nil Return,260.08,Nil return
+Craig Ogilvie,01/11/2022,1,"London, UK",Major Projects Leadership Academy session,"Air, Rail","Economy, Standard",Nil Return,Nil Return,182.1,Nil return
+Craig Ogilvie,17/11/2022,2,"London, UK",Transformation Senior Leader Meeting,"Air, Taxi, Rail",Economy,175.4,Nil Return,433.88,Nil return
+Craig Ogilvie,29/11/2022,1,"Manchester, UK",Data & International Transformation meeting,Rail,Standard,Nil Return,Nil Return,90,Nil return
+Craig Ogilvie,12/12/2022,1,"Telford, UK",Workshop,Car,Private,Nil Return,Nil Return,167.94,Nil return
+Craig Ogilvie,12/12/2022,1,"Manchester, UK",Team Event,Rail,Standard,Nil Return,Nil Return,43,Nil return
+Craig Ogilvie,19/12/2022,2,"Birmingham, UK",Transformation Senior Leader Meeting,Air,Economy,90,Nil Return,202.98,Nil return
+Daljit Rehal,10/10/2022,3,"Manchester, UK",Executive Committee Meetings,Rail,Standard,260,Nil Return,610,Nil return
+Daljit Rehal,28/10/2022,2,"Leeds, UK",HMRC Board Event,Rail,Standard,82,Nil Return,379,Nil return
+Daljit Rehal,01/11/2022,1,"London, Birmingham, UK",Chief Digital and Information Office Internal engagement,Rail,Standard,Nil Return,Nil Return,212,Nil return
+David Cooper,03/10/2022,1,"London, UK",Attending full Non-executive directors conference,Rail,Standard,Nil Return,Nil Return,43.7,Nil Return
+David Cooper,27/10/2022,2,"Leeds, UK",Attending the HMRC Strategy Conference,Rail,Standard,Nil Return,Nil Return,178,Nil Return
+David Cooper,28/11/2022,1,"London, UK",Attending November Board meeting,Rail,Standard,Nil Return,Nil Return,18.85,Nil Return
+David Swainston,06/10/2022,1,"London, UK",HMRC Extended Leadership Group ,"Rail, Taxi, Underground ",Standard,23.94,Nil Return,318.58,Nil Return
+David Swainston,12/10/2022,2,"Manchester, UK",CDIO Senior Leadership Team ,"Rail, Taxi, ",Standard,140.5,Nil Return,273.86,Nil Return
+David Swainston,19/10/2022,1,"Leeds, UK",CDIO Finance All Team Annual Event ,"Rail, Taxi",Standard,Nil Return,Nil Return,104.41,Nil Return
+David Swainston,15/11/2022,1,"London, UK",Supplier Event and Line Management ,"Rail, Underground, Taxi",Standard,14.95,Nil Return,275.7,Nil Return
+David Swainston,22/11/2022,2,"London, UK",HMRC Senior Civil Service Leadership Conference,"Rail, Underground, Taxi ",Standard,217,Nil Return,430.63,Nil Return
+David Swainston,02/12/2022,1,"Darlington, UK",North East Finance Senior Leaders Meeting,Rail,Standard,6.35,Nil Return,26.85,Nil Return
+David Swainston,07/12/2022,2,"London, UK ",Chief Digital and Information Office Extended Leadership Quarterly Event ,"Rail, Underground, Taxi",Standard ,252.1,Nil Return,530.73,Nil Return
+Emily Antcliffe,31/10/2022,1,"Coventry, UK",Future Leaders Scheme Event,Rail,Standard,7.45,Nil return,62,Nil return
+Emily Antcliffe,01/11/2022,1,"East Kilbride, UK",Attending team event and visiting local staff,"Rail, Taxi",Standard,Nil return,Nil return,212.3,Nil return
+Emily Antcliffe,17/11/2022,2,"Nottingham, Birmingham, UK",Site Visits to locally based staff and attending team event,Rail,Standard,76.2,Nil return,167.85,Nil return
+Emma Court,05/10/2022,2,"London, UK",Enterprise Leadership Group Meeting,Car,Private,261,Nil return,412.49,Nil return
+Emma Court,13/10/2022,2,"London, UK",Senior Leadership meeting,Rail,Standard,130,Nil return,299,Nil return
+Emma Court,26/10/2022,3,"Leeds, UK",Board Away Day,"Rail, Car, Taxi",Standard,142.51,Nil return,724.37,Nil return
+Emma Court,22/11/2022,1,"London, UK",Permanent Secretary Architecture meeting,Rail,Standard,131,Nil return,131,Nil return
+Emma Court,28/11/2022,3,"London, UK",Senior Leadership Team Objectives workshop,"Rail, Underground, Car","Standard, Private",349.82,Nil return,610.82,Nil return
+Emma Court,08/12/2022,2,"London, UK",Borders Design Workshop,"Rail, car","Standard, Private",122,Nil return,340.6,Nil return
+Emma Court,12/12/2022,2,"London, UK",Policy Partnership Awards 2022,"Rail, Underground, Car","Standard, Private",130,Nil return,265,Nil return
+Esther Wallington,09/10/2018,1,"Manchester, UK",Executive Committee Site Visit ,Rail,Standard,78,Nil Return,174,Nil Return
+Esther Wallington,17/10/2018,1,"Belfast, UK",Regional Centre opening with visit,Air,Economy,92,Nil Return,302.66,Nil Return
+Esther Wallington,04/12/2018,1,"Manchester, UK",Senior Leadership Team Meeting ,Rail,Standard,90,Nil Return,198,Nil Return
+Esther Wallington,08/12/2018,1,"Nottingham, UK",Regional Centre opening with visit,Rail,Standard,Nil Return,Nil Return,84,Nil Return
+Giles McCallum,03/10/2022,1,"London, UK",Face to Face Interviews,"Rail, Parking",Standard,22.1,Nil Return,174.35,Nil Return
+Giles McCallum,06/10/2022,1,"London, UK",HMRC Leadership Event ,"Rail, Parking",Standard,Nil Return,Nil Return,185.9,Nil Return
+Giles McCallum,11/10/2022,1,"London, UK",Senior Leadership Team,Rail,Standard,212,Nil Return,341,Nil Return
+Giles McCallum,13/10/2022,1,"London, UK",Stakeholder meetings,Rail,Standard,Nil Return,Nil Return,48,Nil Return
+Giles McCallum,20/10/2022,2,"Belfast, UK",Senior Leadership Team,Air,Economy ,0,Nil Return,190,Nil Return
+Giles McCallum,26/10/2022,1,"Birmingham, UK",Other HMRC dept meeting,Rail,Standard,22,Nil Return,22,Nil Return
+Giles McCallum,31/10/2022,1,"London, UK",Senior Leadership Team,Rail,Standard,129,Nil Return,199,Nil Return
+Giles McCallum,01/11/2022,1,"Leeds, UK",Software Strategy workshop,Rail,Standard,182,Nil Return,182,Nil Return
+Giles McCallum,09/11/2022,1,"Manchester, UK",Senior Leadership Team,Rail,Standard,17,Nil Return,17,Nil Return
+Giles McCallum,14/11/2022,1,"London, UK",External consultants workshop,Rail,Standard,176,Nil Return,176,Nil Return
+Giles McCallum,17/11/2022,1,"London, UK",Senior Leadership Team,Rail,Standard,129,Nil Return,246,Nil Return
+Giles McCallum,29/11/2022,1,"London, UK",Team meeting - Stratford RC,Rail,Standard,178,Nil Return,178,Nil Return
+Giles McCallum,06/12/2022,1,"Newcastle upon Tyne, UK",Senior Leadership Team,"Rail, Car ",Standard,103,Nil Return,197,Nil Return
+Giles McCallum,07/12/2022,1,"London, UK",Senior Leadership Team,Rail,Standard,122,Nil Return,129,Nil Return
+Giles McCallum,08/12/2022,1,"Derby, UK",Lessons Learned workshop,Rail,Standard,Nil Return,Nil Return,106,Nil Return
+Giles McCallum,22/12/2022,1,"Birmingham, UK",Senior Leadership Team,"Rail, Car ",Standard,Nil Return,Nil Return,52.75,Nil Return
+Gill Evans,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group and McKinsey & Company meetings,Rail,Standard,107,Nil Return,359,Nil Return
+Gill Evans,25/10/2022,1,"London, UK",Leadership within the Enterprise Peer Learning Group,Rail,Standard,Nil Return,Nil Return,385,Nil Return
+Gill Evans,27/10/2022,1,"London, UK",Intelligent Client Workshop,Rail,Standard,Nil Return,Nil Return,305,Nil Return
+Gill Evans,14/11/2022,1,"London, UK",Senior Oversight Review Session,Rail,Standard,Nil Return,Nil Return,368,Nil Return
+Gill Evans,15/11/2022,1,"Birmingham, UK",Senior Leadership Team event,Rail,Standard,65,Nil Return,139,Nil Return
+Gill Evans,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,385,Nil Return
+Gill Evans,23/11/2022,1,"Birmingham, UK",Directorate Senior Leadership Team Event,Rail,Standard,118,Nil Return,219,Nil Return
+Gill Evans,28/11/2022,1,"London, UK",Senior Leadership Workshop,Rail,Standard,100,Nil Return,271,Nil Return
+Gill Evans,07/12/2022,1,"Birmingham, UK",Project Delivery Steering Group meeting,Rail,Standard,Nil Return,Nil Return,76,Nil Return
+Gill Evans,08/12/2022,1,"London, UK",Border Design Workshop,Rail,Standard,99,Nil Return,404,Nil Return
+Hannah Watson,06/10/2022,1,"London, UK",ELG event - lunch with new starter,Rail,Standard,8.25,Nil Return,290.25,Nil Return
+Hannah Watson,12/10/2022,1,"Manchester, UK",2 day enterprise learning group,Car,Private ,60,Nil Return,97.5,Nil Return
+Hannah Watson,19/10/2022,1,"Nottingham, UK",Senior Leadership Team meeting,Rail,Standard,3.54,Nil Return,27.54,Nil Return
+Hannah Watson,01/11/2022,1,"Nottingham, UK",New starter meeting with Senior Leadership Team,Car,Private ,Nil Return,Nil Return,24,Nil Return
+Hannah Watson,04/11/2022,1,"London, UK",CPO Senior Leadership Team,"Rail, Taxi",Standard,Nil Return,Nil Return,236.5,Nil Return
+Hannah Watson,09/11/2022,1,,,Car,Private ,Nil Return,Nil Return,33,Nil Return
+Hannah Watson,22/11/2022,1,"London, UK",Senior Civil Service conference,Rail,Standard,5.29,Nil Return,239.79,Nil Return
+Hannah Watson,05/12/2022,1,,,Car,Private ,Nil Return,Nil Return,33,Nil Return
+Hitesh Patel,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference ,Rail,Economy,Nil Return,Nil Return,246,Nil Return
+Ian Clarke,30/11/2022,1,"Nottingham, UK",Senior Leadership Event,Rail,Standard,Nil Return,Nil Return,64,Nil Return
+James Mitton,04/10/2022,1,"Preston, UK",Planning meeting,Car,Private,8.13,Nil Return,72.13,Nil Return
+James Mitton,06/10/2022,1,"London, UK",Enterprise Leadership Group meeting,Rail,Standard,4.99,Nil Return,289.99,Nil Return
+James Mitton,11/10/2022,1,"Preston, UK",Senior Leadership Team meeting with site visit,Car,Private,5.94,Nil Return,298.12,Nil Return
+James Mitton,12/10/2022,1,"York, UK",Customer Service Group 2 Event,Car,Hire,Nil Return,Nil Return,122.26,Nil Return
+James Mitton,18/10/2022,1,"Washington, UK",Leadership Event ,Car,Hire,74,Nil Return,263.32,Nil Return
+James Mitton,27/10/2022,1,"Preston, UK",Site visibility,Car,Private,2.59,Nil Return,20.84,Nil Return
+James Mitton,07/11/2022,1,"Preston, UK",Site visibility,Car,Private,Nil Return,Nil Return,18.25,Nil Return
+James Mitton,14/11/2022,2,"Washington, UK",Senior Leadership Team meeting with site visit,Car,Hire,74,Nil Return,317.36,Nil Return
+James Mitton,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,3.7,Nil Return,255.7,Nil Return
+James Mitton,29/11/2022,1,"Preston, UK",Senior Leadership Team meeting,Car,Private ,Nil Return,Nil Return,18.25,Nil Return
+James Mitton,05/12/2022,2,"Manchester, UK",RADA Training,Rail,Standard,81,Nil Return,190,Nil Return
+James Mitton,13/12/2022,2,"Manchester, UK",Senior Leadership Team Meeting,Car,Hire,118,Nil Return,298.05,Nil Return
+Janet Alexander,04/10/2022,1,"London, Manchester, UK",Customer Compliance Group Awards Ceremony,"Rail, Air","Standard, Economy ",328.5,Nil Return,740.96,Nil Return
+Janet Alexander,05/10/2022,1,"Edinburgh, UK ",Compliance Operations Directorate Working Group,Taxi ,,Nil Return,Nil Return,30,Nil Return
+Janet Alexander,06/10/2022,1,"London, Manchester, UK",Enterprise Leadership Group,"Rail, Air ","Standard, Economy ",Nil Return,Nil Return,353.03,Nil Return
+Janet Alexander,19/10/2022,1,"London, UK",Compliance Operations Directorate Working Group,"Rail, Taxi",Standard ,379.8,Nil Return,596.8,Nil Return
+Janet Alexander,24/10/2022,1,"London, UK",Directorate meetings,"Rail, Underground ",Standard ,2.6,Nil Return,191.6,Nil Return
+Janet Alexander,09/11/2022,1,"London, UK ",Beacon Event ,Rail,Standard,Nil Return,Nil Return,198,Nil Return
+Janet Alexander,16/11/2022,3,"London, UK",Public Accounts Committee - COVID Employment Support Schemes,"Rail, Underground",Standard,355,Nil Return,634.4,Nil Return
+Janet Alexander,22/11/2022,1,"London, UK ",HMRC Senior Civil Service Leadership Conference ,Rail,Standard,197,Nil Return,394.8,Nil Return
+Janet Alexander,25/11/2022,1,"Birmingham, UK ",Compliance Capability Workshop,Rail,Standard,17.5,Nil Return,67.7,Nil Return
+Janet Alexander,30/11/2022,2,"London, UK",IT Workshop and Beacon Event,Rail ,Standard,2.6,Nil Return,523.1,Nil Return
+Janet Alexander,07/12/2022,3,"London, UK",Directorate meetings,"Rail, Taxi",Standard,444,Nil Return,627,Nil Return
+Jayne-Anne Gadhia ,26/10/2022,2,"Leeds, UK ",HMRC Board Event ,Rail,Standard,Nil Return,Nil Return,291,Nil Return
+Jim Harra ,11/10/2022,2,"Manchester, UK ",Executive Committee Event ,Rail,Standard,141.95,Nil Return,334.7,Nil Return
+Jim Harra ,19/10/2022,1,"Belfast, UK",Erskine House - UK Government Hub official opening event,Air ,Economy ,Nil Return,Nil Return,183.27,Nil Return
+Jim Harra ,27/10/2022,1,"Leeds, UK",HMRC Board Event,Rail ,Standard,Nil Return,Nil Return,89.7,Nil Return
+Jim Harra ,08/11/2022,1,"Cardiff, UK ",Executive Committee Regional meeting ,Rail,Standard ,Nil Return,Nil Return,164,Nil Return
+Joanna Greenidge ,28/11/2022,1,"Leeds, UK",HMRC Crown Prosecution Services Senior Leadership Team Workshop ,Rail ,Standard ,92,Nil Return,92,Nil Return 
+Joanna Greenidge ,28/11/2022,2,"Manchester, UK",Office Site Visit ,Rail ,Standard ,103,Nil Return,174,Nil Return 
+Joanna Greenidge ,12/10/2202,2,"York, UK",Director Induction Conference Stage 3   ,"Rail, Taxi ",Standard ,Nil Return,Nil Return,145,Nil Return
+Joanna Rowland,06/10/2022,1,"London, UK",Programme Workshop,Rail,Standard,Nil Return,Nil Return,54,Nil Return
+Joanna Rowland,11/10/2022,1,"Manchester, UK",Executive Committee Meeting,"Air, Taxi ",Economy,40,Nil Return,251.25,Nil Return
+Joanna Rowland,12/10/2022,1,"London, UK",Executive Committee Meeting,Rail,Standard,Nil Return,Nil Return,94,Nil Return
+Joanna Rowland,19/10/2022,2,"Belfast, UK",Transformation Senior Leadership Team meeting,Air,Economy,Nil Return,Nil Return,241.15,Nil Return
+Joanna Rowland,26/10/2022,1,"Leeds, UK",HMRC Board meeting,Rail,Standard,129,Nil Return,273,Nil Return
+Joanna Rowland,28/10/2022,1,"Ely, UK",HMRC Board meeting,Rail,Standard,43,Nil Return,43,Nil Return
+Joanna Rowland,10/11/2022,1,"London, UK",Major Projects Event ,Rail,Standard,Nil Return,Nil Return,84,Nil Return
+Joanna Rowland,15/11/2022,1,"London, UK",External Supplier Event ,Rail,Standard,Nil Return,Nil Return,84,Nil Return
+Joanna Rowland,17/11/2022,1,"London, UK",Transformation Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,84,Nil Return
+Joanna Rowland,18/11/2022,1,"London, UK",Transformation Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,84,Nil Return
+Joanna Rowland,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,94,Nil Return
+Joanna Rowland,23/11/2022,1,"London, UK",Programme Closure Event ,Rail,Standard,Nil Return,Nil Return,84,Nil Return
+Joanna Rowland,28/11/2022,1,"Oxford, UK",Major Projects Event ,Rail,Standard,Nil Return,Nil Return,40,Nil Return
+Joanna Rowland,30/11/2022,1,"Portsmouth, UK",Major Projects Event ,Rail,Standard,Nil Return,Nil Return,48.15,Nil Return
+Joanna Rowland,07/12/2022,1,"London, UK",Director General face to face meeting,Rail,Standard,Nil Return,Nil Return,81,Nil Return
+Joanna Rowland,08/12/2022,1,"London, UK",Programme Closure Event ,Rail,Standard,Nil Return,Nil Return,85,Nil Return
+Joanna Rowland,19/12/2022,1,"Birmingham, UK",Transformation Senior Leadership meeting,Rail,Standard,116,Nil Return,266,Nil Return
+Joanna Rowland,20/12/2022,1,"Southampton, UK",Transformation Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,104,Nil Return
+John Evans,24/11/2022,1,"Bristol, UK",Office visit with senior meetings,Rail,Standard,8.25,Nil Return,8.25,Nil Return
+Jon Sherman,18/10/2022,2,"Birmingham, UK",Meetings with Senior Leadership and staff; external speaking engagement,Rail ,Standard,112.54,Nil Return,149.09,Nil Return
+Jonathan Athow,11/10/2022,1,"Manchester, UK",Opening of 'Three New Bailey' office,Rail,Standard,131.75,Nil Return,323.75,Nil Return
+Jonathan Athow,11/10/2022,1,"Manchester, UK",Opening of 'Three New Bailey' office,Rail,Standard,131.75,Nil Return,323.75,Nil Return
+Jonathan Athow,27/10/2022,1,"Leeds, UK",Board meeting,Rail,Standard,Nil Return,Nil Return,185,Nil Return
+Jonathan Athow,27/10/2022,1,"Leeds, UK",Board meeting,Rail,Standard,Nil Return,Nil Return,185,Nil Return
+Julie Etheridge,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group Meeting ,Rail,Standard,Nil Return,Nil Return,97,Nil Return
+Julie Etheridge,13/10/2022,1,"London, UK",Customs Declaration update meeting ,Rail,Standard,Nil Return,Nil Return,97,Nil Return
+Julie Etheridge,24/10/2022,1,"London, UK",Joint Customs Consultative Committee Group Meeting and Borders and Trade Senior Leadership Team Meeting,Rail,Standard,Nil Return,Nil Return,97,Nil Return
+Julie Etheridge,07/12/2022,1,"London, UK",Senior oversight review session for Computerised Transit System ,Rail,Standard,Nil Return,Nil Return,97,Nil Return
+Juliette Scott,27/10/2022,2,"Leeds, UK ",HMRC Board Event ,Rail,Standard,Nil Return,Nil Return,238,Nil Return
+Justin Holliday,26/10/2022,1,"York, UK",Board Event,Rail,Standard,Nil Return,Nil Return,145.75,Nil Return
+Justin Holliday,28/10/2022,1,"London, UK",Board Event,Rail,Standard,Nil Return,Nil Return,145.75,Nil Return
+Justin Holliday,31/10/2022,1,"Worthing, UK",Worthing Regional Centre official opening,Rail,Standard,Nil Return,Nil Return,72.25,Nil Return
+Justin Holliday,30/11/2022,1,"Nottingham, UK",Chief Finance Office Senior Leadership Team Event,Rail,Standard,Nil Return,Nil Return,201.75,Nil Return
+Kate Tilley,27/10/2022,1,"Leeds, UK",HMRC Board Away Day,Rail,Standard,Nil Return,Nil Return,140,Nil Return
+Kate Tilley,30/11/2022,1,"Manchester, UK",Heads of Professsions Workshop,"Rail, Car",Standard,Nil Return,Nil Return,117,Nil Return
+Kate Tilley,06/12/2022,1,"Manchester, UK",Chief People Office Senior Leadership Team Day,"Rail, car",Standard,Nil Return,Nil Return,105,Nil Return
+Kelly Paterson ,04/10/2022,1,"London, UK",Security Operating Model Event ,"Air, Rail","Economy, Standard",7.75,Nil Return,381.53,Nil Return
+Kelly Paterson ,26/10/2022,1,"London, UK",HMRC Security All Staff Event ,"Air, Rail","Economy, Standard",9.89,Nil Return,298.38,Nil Return
+Kelly Paterson ,30/10/2022,5,"Oxford, UK",Major Projects Leadership Academy Course ,"Air, Rail, Taxi","Economy, Standard",77.55,Nil Return,495.15,Nil Return
+Kelly Paterson ,14/11/2022,2,"London, UK",Workshop held externally,"Air, Rail","Economy, Standard",107,Nil Return,436.78,Nil Return
+Kelly Paterson ,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Air,Economy,Nil Return,Nil Return,349.48,Nil Return
+Kelly Paterson ,07/12/2022,2,"London, UK",Extended Leadership and Senior Leadership meetings,"Air, Rail","Economy, Standard",244.69,Nil Return,705.87,Nil Return
+Lucy Pink ,11/10/2022,1,"Manchester, UK",Executive Committee - Senior leadership Meeting  ,Rail,Standard,Nil Return ,Nil Return ,182,Nil Return 
+Lucy Pink ,26/10/2022,3,"Leeds, UK",HMRC Board and Senior Leadership Event ,Rail ,Standard ,Nil Return ,Nil Return ,155,Nil Return 
+Lucy Pink ,01/11/2022,1,"Manchester, UK",Site visit to meet staff ,Rail ,Standard ,Nil Return ,Nil return ,113,Nil Return 
+Marc Gill,04/10/2022,2,"London, UK",Customer Compliance Group Awards,Rail,Standard,380,Nil Return,689,Nil Return
+Marc Gill,17/10/2022,1,"Birmingham, UK",Individuals and Small Business Compliance Leadership Event,Rail,Standard,11,Nil Return,181,Nil Return
+Marc Gill,01/11/2022,1,"Darlington, UK",Site visit,Rail,Standard,Nil Return,Nil Return,35,Nil Return
+Marc Gill,09/11/2022,1,"Leeds, UK",Site Visit,Rail,Standard,3.99,Nil Return,113.15,Nil Return
+Marc Gill,24/11/2022,2,"London, UK",Conference,Rail,Standard,117,Nil Return,505,Nil Return
+Marc Gill,28/11/2022,1,"Leeds, UK",Customer Compliance Group Event,Rail,Standard,10,Nil Return,108.06,Nil Return
+Mark Wilson,11/10/2022,1,"Leeds, UK",Legal Operations Senior Leadership Team Meeting,Rail,Standard,Nil Return,Nil Return,68,Nil Return
+Mary Aiston,08/11/2022,1,"Leeds, UK",Human Resources meeting,Rail,Standard,Nil Return,Nil Return,122,Nil Return
+Mary Aiston,22/11/2022,1,"Manchester, UK",Human Resources meeting,Rail,Standard,Nil Return,Nil Return,116,Nil Return
+Mary Aiston,28/11/2022,1,"Bristol, UK",Beacon Event,Rail,Standard,Nil Return,Nil Return,143,Nil Return
+Mary Aiston,05/12/2022,1,"Cardiff, UK",Cardiff Office Visit  ,Rail,Standard,Nil Return,Nil Return,106,Nil Return
+Mary Aiston,07/12/2022,1,"Portsmouth, UK",Listening to You Event,Rail,Standard,Nil Return,Nil Return,44,Nil Return
+Mary Barber,06/10/2022,1,"Manchester, UK",Team meeting,Rail,Standard,Nil Return,Nil Return,108,Nil Return
+Mary Barber,13/10/2022,1,"London, UK",Team Meeting,Rail,Standard,Nil Return,Nil Return,209,Nil Return
+Mary Barber,18/10/2022,2,"Newcastle upon Tyne, UK",Channel Optimisation team meeting,Rail,Standard,133,Nil Return,281,Nil Return
+Mary Barber,19/10/2022,2,"Belfast, UK",Team meetings and Senior Leadership Team,"Air, Rail","Economy, Standard",16,Nil Return,171.7,Nil Return
+Mary Barber,15/11/2022,3,"London, UK",Team Meeting,Rail,Standard,565.96,Nil Return,780.46,Nil Return
+Mary Barber,18/11/2022,1,"Manchester, UK",Senior Leadership Team and meetings,Rail,Standard,20,Nil Return,242,Nil Return
+Max Hacon,20/10/2022,2,"Belfast, UK",Transformation Group Senior Leadership Team Meeting ,Air,Economy,Nil Return,Nil Return,221.46,Nil Return
+Max Hacon,27/10/2022,1,"London, UK",Single Trade Window meeting,Rail,Standard,Nil Return,Nil Return,309,Nil Return
+Max Hacon,17/11/2022,1,"London, UK",Transformation Group Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,332,Nil Return
+Max Hacon,21/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,149.91,Nil Return,414.51,Nil Return
+Mike Shipp,30/11/2022,1,"Nottingham, UK",Senior leadership meeting,Rail,Standard,Nil Return,Nil Return,49,Nil Return
+Myrtle Lloyd,03/10/2022,1,London,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£311.00,Nil Return
+Myrtle Lloyd,04/10/2022,1,North West,"Conferences, meetings, site visits",Car,Hire,Nil Return,Nil Return,£104.26,Nil Return
+Myrtle Lloyd,05/10/2022,1,Newport,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£139.00,Nil Return
+Myrtle Lloyd,06/10/2022,1,London,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£311.00,Nil Return
+Myrtle Lloyd,07/10/2022,1,Manchester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£21.00,Nil Return
+Myrtle Lloyd,07/10/2022,1,Manchester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£39.00,Nil Return
+Myrtle Lloyd,11/10/2022,1,Chester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£20.00,Nil Return
+Myrtle Lloyd,11/10/2022,1,Manchester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£40.00,Nil Return
+Myrtle Lloyd,12/10/2022,1,Manchester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£20.00,Nil Return
+Myrtle Lloyd,17/10/2022,2,London,"Conferences, meetings, site visits",Rail,Standard,130,Nil Return,£199.00,Nil Return
+Myrtle Lloyd,18/10/2022,2,Newcastle upon Tyne,"Conferences, meetings, site visits",Rail,Standard,140,Nil Return,£315.00,Nil Return
+Myrtle Lloyd,20/10/2022,1,Chester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£90.00,Nil Return
+Myrtle Lloyd,27/10/2022,1,Leeds,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,£82.00,Nil Return
+Myrtle Lloyd,30/10/2022,1,Newport,"Conferences, meetings, site visits",Taxi,Hire,6,Nil Return,£96.16,Nil Return
+Myrtle Lloyd,12/11/2022,2,London,"Rememberance Day Service, OpDel Excel Residential and SLC","Rail, Taxi",Standard,190,Nil Return,£354.35,Nil Return
+Myrtle Lloyd,13/11/2022,1,Exeter,OpDel Excel Residential and SLC,"Rail, Taxi",Standard,Nil return,Nil Return,£153.00,Nil Return
+Myrtle Lloyd,17/11/2022,1,Chester,SLC,"Rail, Taxi",Standard,Nil return,Nil Return,£168.70,Nil Return
+Myrtle Lloyd,22/11/2022,1,London,SLC,"Rail, Taxi",Standard,Nil return,Nil Return,316.8,Nil Return
+Myrtle Lloyd,09/12/2022,2,London,Civil Service Awards,"Rail, Taxi",Standard,128,Nil Return,453,Nil Return
+Myrtle Lloyd,12/12/2022,1,Manchester,"Conferences, meetings, site visits",Rail,Standard,Nil Return,Nil Return,21,Nil Return
+Nic Bourven,11/10/2022,2,"Newcastle, Manchester, UK",Workshop and senior meeting,Rail,Standard,197.6,Nil return,440.25,Nil Return
+Nic Bourven,15/11/2022,2,"Birmingham, UK",Senior Leadership Meeting,Rail,Standard,106,Nil return,233.95,Nil Return
+Nic Bourven,23/11/2022,2,"Southend, UK",Site closure and staff relocation visit,Rail,Standard,105.5,Nil return,176.95,Nil Return
+Nic Bourven,13/12/2022,3,"Newcastle upon Tyne, UK","Site visit, Senior Leadership meeting",Air,Economy,108,Nil return,564.3,Nil Return
+Nic Harrison,11/10/2022,2,"Manchester, UK",CDIO Senior Leadership meeting and Regional Centre visit,Rail,Standard,205,Nil Return,626,Nil Return
+Nicole Newbury,04/10/2022,1,"London, UK",Customer Compliance Group Awards ,Rail,Standard,Nil Return,Nil Return,170,Nil Return
+Nicole Newbury,06/10/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,153,Nil Return
+Nicole Newbury,21/10/2022,1,"Cardiff, UK",Tax Conference,Rail,Standard,Nil Return,Nil Return,122,Nil Return
+Nicole Newbury,26/10/2022,1,"London, UK",Peer Leadership Group meeting,Rail,Standard,Nil Return,Nil Return,174,Nil Return
+Nicole Newbury,11/11/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,170,Nil Return
+Nicole Newbury,13/11/2022,3,"Newcastle upon Tyne, UK",Senior Leadership meeting,Rail,Standard,215,Nil Return,493,Nil Return
+Nicole Newbury,21/11/2022,2,"London, UK",Senior Leadership meeting,Rail,Standard,143,Nil Return,313,Nil Return
+Nicole Newbury,01/12/2022,1,"Cardiff, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,122,Nil Return
+Nicole Newbury,02/12/2022,1,"Nottingham, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,36,Nil Return
+Nicole Newbury,21/12/2022,1,"Nottingham, UK",Internal meetings,Rail,Standard,Nil Return,Nil Return,36,Nil Return
+Oliver Fisher,04/10/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,64,Nil Return
+Oliver Fisher,06/10/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,62,Nil Return
+Oliver Fisher,11/10/2022,1,"London, UK",Senior Leadership team Event,Rail,Standard,Nil return,Nil Return,62,Nil Return
+Oliver Fisher,12/10/2022,1,"London, UK",Directorate staff event,Rail,Standard,Nil return,Nil Return,84,Nil Return
+Oliver Fisher,13/10/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,110,Nil Return,130,Nil Return
+Oliver Fisher,19/10/2022,3,"Belfast, UK",Senior Leadership team and Board meeting,Air,Economy ,229,Nil Return,450,Nil Return
+Oliver Fisher,26/10/2022,3,"Leeds, UK",Board Event,Rail,Standard,218,Nil Return,400,Nil Return
+Oliver Fisher,31/10/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,85,Nil Return
+Oliver Fisher,15/11/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,84,Nil Return
+Oliver Fisher,17/11/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,128,Nil Return
+Oliver Fisher,18/11/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,19,Nil Return
+Oliver Fisher,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil return,Nil Return,85,Nil Return
+Oliver Fisher,30/11/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,64,Nil Return
+Oliver Fisher,05/12/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,64,Nil Return
+Oliver Fisher,09/12/2022,1,"London, UK",Official visit and senior meetings,Rail,Standard,Nil return,Nil Return,62,Nil Return
+Oliver Fisher,19/12/2022,1,"Birmingham, UK",Senior Leadership Team meeting,Air,Economy ,116,Nil Return,314,Nil Return
+Patricia Gallan,27/10/2022,1,"Leeds, UK",Meeting,Rail,Standard,Nil Return,Nil Return,108,Nil return
+Patricia Gallan,28/10/2022,1,"London, UK",Meeting,Rail,Standard,Nil Return,Nil Return,146,Nil return
+Patrick Whittome,01/11/2022,1,"Worthing, UK",Attending Grade 7 Event and Group Controller meeting,Car,Private ,Nil Return,Nil Return,24,Nil Return
+Patrick Whittome,22/11/2022,1,"London, UK",Senior Leaders Meetings,Rail,Standard,Nil Return,Nil Return,28,Nil Return
+Patrick Whittome,30/11/2022,2,"Nottingham, UK",Chief Finance Officer Senior Leadership Event,Rail,Standard,Nil return,Nil Return,95,Nil Return
+Paul Morton,27/10/2022,1,"Leeds, UK",HMRC Board Meeting Event,Rail,Standard,Nil return,Nil Return,267,Nil return
+Paul Riley,06/10/2022,1,"London, UK",Senior leaders conference,Rail,Standard,Nil Return,Nil Return,225,Nil Return
+Paul Riley,25/10/2022,1,"London, UK",Senior Leadership meeting,Rail,Standard,Nil Return,Nil Return,327,Nil Return
+Paul Riley,14/11/2022,2,"Glasgow, UK",Tax Administration all staff conference,Rail,Standard,75,Nil Return,104,Nil Return
+Paul Riley,21/11/2022,2,"London, UK",Senior Leaders meeting and HMRC conference,Rail,Standard,141,Nil Return,468,Nil Return
+Penny Ciniewicz,26/10/2022,2,"Leeds, UK",Executive Committee Board Event,Rail,Standard,Nil Return,Nil Return,159,Nil Return
+Penny Ciniewicz,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,14,Nil Return
+Penny Ciniewicz,05/12/2022,1,"Cardiff, UK",Official Opening of the Cardiff Regional Centre,Rail,Standard,Nil Return,Nil Return,172,Nil Return
+Rachel Nixon,25/10/2022,1,"London, UK",Site visit to locally based staff,Rail,Standard,Nil Return,Nil Return,6.8,Nil Return
+Rachel Nixon,02/11/2022,2,"Manchester, UK",Site visit to locally based staff,Rail,Standard,130,Nil Return,366,Nil Return
+Rachel Nixon,06/12/2022,2,"Liverpool, UK",Conference and visit to locally based staff,Rail,Standard,80.15,Nil Return,97.15,Nil Return
+Richard Forster,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group Meeting,"Rail, Underground",Standard,88.9,Nil Return,130.05,Nil Return
+Richard Forster,12/10/2022,1,"York, UK",Customer Service Group Internal Conference,Car,Private,8.25,Nil Return,218.45,Nil Return
+Richard Forster,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,"Rail, Underground",Standard,5.55,Nil Return,101.55,Nil Return
+Richard Forster,23/11/2022,1,"Manchester, UK",Continuous Improvement Cross Government conference,Rail ,Standard,109.72,Nil Return,208.72,Nil Return
+Richard Forster,29/11/2022,1,"Cardiff, UK",Operational Excellence Senior Leadership Team meeting,Rail,Standard,95,Nil Return,164,Nil Return
+Richard Hawthorn,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group Meeting ,Rail,Standard,24.41,Nil Return,270.01,Nil Return
+Richard Hawthorn,07/10/2022,1,"Birmingham, UK",Mentee Induction Meeting,Rail,Standard,Nil Return,Nil Return,9,Nil Return
+Richard Hawthorn,12/10/2022,2,"York, UK",Customer Service Group Senior Leadership Team Away Day,Car,Private,Nil Return,Nil Return,227.05,Nil Return
+Richard Hawthorn,14/11/2022,4,"Glasgow, UK",Operational Excellence Senior Leadership Team Event,Rail,Standard,367.03,Nil Return,517.03,Nil Return
+Richard Hawthorn,21/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,126.58,Nil Return,315.58,Nil Return
+Richard Hawthorn,29/11/2022,1,"Cardiff, UK",Operational Excellence Senior Leadership Team Event,Rail,Standard,Nil Return,Nil Return,66,Nil Return
+Richard Hawthorn,05/12/2022,1,"Manchester, UK",RADA Training,Rail,Standard,Nil Return,Nil Return,39,Nil Return
+Richard Las,01/10/2022,90,UK ,Operational Activity,"Rail, Air","Standard, First, Economy",127,Nil Return,1226,Nil Return
+Richard Las,01/10/2022,2,Amsterdam,Meeting at Europol,Air,Economy,205.66,Nil Return,380,Nil Return
+Richard West,13/10/2022,1,"York, UK ",Senior Leadership Team Event,Car,Hire,Nil Return,Nil Return,118.25,Nil Return
+Richard West,13/10/2022,1,"York, UK ",Senior Leadership Team Event,Car,Hire ,Nil Return,Nil Return,118.25,Nil Return
+Richard West,27/10/2022,1,"Birmingham, UK",Self Assessment Performance Workshop,"Rail, Taxi",Standard,4,Nil Return,178.37,Nil Return
+Richard West,01/11/2022,1,"Bradford, UK",Office Visit ,Taxi,car,6.28,Nil Return,41.84,Nil Return
+Richard West,09/11/2022,2,"Glasgow, UK",East Kilbride office visit,Car,Hire,174,Nil Return,359.59,Nil Return
+Richard West,14/11/2022,1,"York, UK ",Senior Leadership Team Event,Car,Hire ,Nil Return,Nil Return,135.76,Nil Return
+Richard West,14/11/2022,1,"York, UK ",Senior Leadership Team Event,Car,Hire ,Nil Return,Nil Return,135.76,Nil Return
+Rob Jones,31/10/2022,1,"Leeds, UK",Intermediaries software strategy workshop,Rail,Standard,111,Nil Return,269.85,Nil Return
+Saghir Akbar,06/10/2022,1,"London, UK",Extended Leadership Group meeting and External Organisation Sustainability session ,Car,Private,96.48,Nil Return,238.42,Nil Return
+Saghir Akbar,13/10/2022,2,"Manchester, UK",Chief Digital and Information Office Senior Leadership Team Meeting with site visit,Car,Private,186,Nil Return,335.86,Nil Return
+Saghir Akbar,17/10/2022,2,"London, UK",Meeting with Director and Chief Digital and Information Officer,Car,Private,173.33,Nil Return,312.13,Nil Return
+Saghir Akbar,26/10/2022,2,"Bristol, UK",Senior Leadership Meeting with site visit,Rail,Standard,125.5,Nil Return,325,Nil Return
+Saghir Akbar,06/11/2022,2,"London, UK",Planning session ,Car,Private,115,Nil Return,132.1,Nil Return
+Saghir Akbar,16/11/2022,2,"Worthing, UK",Systems Applications and Processes Senior Leadership meeting,Car,Private,174.88,Nil Return,354.88,Nil Return
+Saghir Akbar,23/11/2022,3,"London, UK",HMRC Senior Civil Service Leadership Conference and Supplier meeting,Car,Private,58.25,Nil Return,239.58,Nil Return
+Saghir Akbar,08/12/2022,3,"London, UK",Extended Leadership Team and Senior Leadership Team meetings,Car,Private,452.05,Nil Return,654.47,Nil Return
+Saghir Akbar,19/12/2022,3,"London, UK",Planning Session,Car,Private,299.25,Nil Return,433.99,Nil Return
+Samantha Pullin,08/12/2022,1,"London, UK",Leadership within the Enterprise Event,Rail,Standard,Nil Return,Nil Return,14.85,Nil Return
+Sarah Hartley,06/10/2022,1,"London, UK",Enterprise Leadership Group Meeting,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah Hartley,07/10/2022,1,"London, UK",Senior Leadership Meeting,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah Hartley,10/10/2022,1,"London, UK",Senior Civil Service New Starter Event,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah Hartley,12/10/2022,2,"Newcastle upon Tyne, UK",Planning Workshop,"Rail, Air","Standard, Economy",105,Nil Return,428.34,Nil Return
+Sarah Hartley,17/10/2022,1,"London, UK",Face to face session with team members,Rail,Standard,3.9,Nil Return,89.9,Nil Return
+Sarah Hartley,20/10/2022,1,"London, UK",Face to face session with team members,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah Hartley,24/10/2022,1,"London, UK",Joint Customs Consultative Committee Group 6 Monthly Review Meeting,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah Hartley,27/10/2022,1,"London, UK",Senior Leadership Meeting,Rail,Standard,2.9,Nil Return,88.9,Nil Return
+Sarah Hartley,31/10/2022,1,"London, UK",Face to face session with team members,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah Hartley,08/11/2022,3,"Manchester, UK",Induction - Customer Service Group Show and Tell,Car,Private,3.5,Nil Return,152,Nil Return
+Sarah Hartley,11/11/2022,1,"London, UK",Meeting with External supplier,Rail,Standard,5.9,Nil Return,91.9,Nil Return
+Sarah Hartley,14/11/2022,1,"London, UK",Planning Workshop,Rail,Standard,3.9,Nil Return,81.9,Nil Return
+Sarah Hartley,15/11/2022,2,"Birmingham, UK",Senior Leadership Meeting,Rail,Standard,5.29,Nil Return,190.29,Nil Return
+Sarah Hartley,23/11/2022,2,"Leeds, UK",Programme Team Event,Car,Private,Nil Return,Nil Return,150.75,Nil Return
+Sarah Hartley,29/11/2022,1,"London, UK",Planning Workshop,Rail,Standard,Nil Return,Nil Return,78,Nil Return
+Sarah Hartley,07/12/2022,1,"London, UK",Planning Workshop,Rail,Standard,Nil Return,Nil Return,78,Nil Return
+Sarah Hartley,08/12/2022,1,"London, UK",Borders Design Workshop,Rail,Standard,Nil Return,Nil Return,86,Nil Return
+Sarah McMann,06/10/2022,1,"North East, UK",Income Tax Service Transformation meeting,Car,Hire,Nil Return,Nil Return,133.68,Nil Return
+Sarah McMann,11/10/2022,1,"North East, UK",Income Tax Service Transformation meeting,Car,Hire,221.28,Nil Return,221.28,Nil Return
+Sarah McMann,12/10/2022,1,"Manchester, UK",Senior Leadership Team Site visit,Car,Private,Nil Return,Nil Return,121.6,Nil Return
+Sarah McMann,19/10/2022,1,"North East, UK",Senior Leadership Team meeting,Car,Hire,Nil Return,Nil Return,134.26,Nil Return
+Sarah McMann,31/10/2022,1,"North East, UK",Strategy workshop,Car,Hire,102.11,Nil Return,102.11,Nil Return
+Sarah McMann,07/11/2022,1,"North East, UK",Income Tax Service Transformation meeting,Car,Hire,Nil Return,Nil Return,106.58,Nil Return
+Sarah McMann,16/11/2022,1,"Leeds, UK",Supplier Meeting,"Rail, Car","Standard, Private",Nil Return,Nil Return,139.65,Nil Return
+Sarah McMann,17/11/2022,2,"London, UK",Complex Evasion Programme Closure ,"Rail, Taxi",Standard,183.5,Nil Return,372.6,Nil Return
+Sarah McMann,22/11/2022,2,"London, UK",HMRC Senior Civil Service Leadership conference,Rail,Standard,101,Nil Return,484,Nil Return
+Sarah McMann,29/11/2022,2,"Paris, France","Supplier visit, meeting and workshop","Air, Rail","Economy, Standard",Nil Return,Nil Return,281.93,Nil Return
+Sarah McMann,07/12/2022,2,"London, UK",Digital Government Ignition Event,Rail,Standard,282,Nil Return,743,Nil Return
+Sarah McMann,12/12/2022,2,"Leeds, UK",Senior Leadership Team meeting,Car,Hire,26,Nil Return,358.24,Nil Return
+Simon Fryer,06/12/2022,1,"Manchester, UK",Chief People Officer Senior Leadership Event,Rail,Standard,Nil Return,Nil Return,224,Nil Return
+Simon York,01/10/2022,90,Various UK,Operational Activity,"Rail, Taxi, Car",Standard,1084.6,Nil Return,2148.1,Nil Return
+Simon York,01/10/2022,2,New York,Global Financial Institutions Summit,Air,Premium Economy,353.91,Nil Return,4457.47,Nil Return
+Steve Long,13/10/2022,1,"York, UK ",Senior meeting ,Rail ,Standard,Nil Return,Nil Return,68,Nil Return
+Steve Long,13/10/2022,1,"York, UK ",Senior meeting ,Rail ,Standard,Nil return,Nil Return,68,Nil Return
+Steve Long,17/10/2022,2,"London, UK ",Interviews ,Rail ,Standard,148.96,Nil Return,334.98,Nil Return
+Steve Long ,18/10/2022,2,"London, UK ",Interviews ,Rail ,Standard,148.96,Nil Return,334.96,Nil Return
+Steve Long ,04/11/2022,1,"Manchester, UK ",Senior meeting ,Rail ,Standard,Nil Return,Nil Return,11,Nil Return
+Steve Long ,04/11/2022,1,"Manchester, UK ",Senior meeting ,Rail ,Standard,Nil return,Nil Return,11,Nil Return
+Steve Long ,09/11/2022,1,"Manchester, UK ",Senior meeting ,Rail ,Standard,Nil Return,Nil Return,11,Nil Return
+Steve Long ,09/11/2022,1,"Manchester, UK ",Senior meeting ,Rail ,Standard,Nil return,Nil Return,11,Nil Return
+Sue Young,13/10/2022,2,"York, UK",Management Development Course,"Rail, Taxi",Standard,Nil Return,Nil Return,229.2,Nil Return
+Sue Young,13/11/2022,3,"Glasgow, UK",Debt Management Operational Delivery meeting,"Rail, Taxi, Air, Tram",Standard,170,Nil Return,327.97,Nil Return
+Sue Young,15/11/2022,1,"London, UK",Debt Leadership Team and Operational Visit,"Rail, Taxi, Air","Standard, Economy",Nil Return,Nil Return,140.47,Nil Return
+Sue Young,29/11/2022,1,"Worthing, UK",Debt Management Site Visit,Rail,Standard,Nil Return,Nil Return,80,Nil Return
+Tim Addison,03/10/2022,1,"London, UK",Audit and Risk Committee meeting,Rail,Standard,78,Nil Return,304.9,Nil Return
+Tim Addison,30/11/2022,1,"Nottingham, UK",Chief Finance Office Event and team hub meeting,Rail,Standard,Nil Return,Nil Return,56,Nil Return
+Tim Addison,01/12/2022,1,"Manchester, UK",Chief Finance Office Event and team hub meeting,Rail,Standard,Nil Return,Nil Return,16,Nil Return
+Tim Addison,05/12/2022,1,"London, UK",Audit and Risk Committee meeting,Rail,Standard,76,Nil Return,157.3,Nil Return
+Timothy East,03/10/2022,1,"Manchester, UK","Programme planning event, SAS Offices, ",Rail,Standard,102,Nil Return,153,Nil Return
+Timothy East,06/10/2022,1,"London, UK",Directorate Senior Leaders Team Meeting,Rail,Standard,126,Nil Return,288.9,Nil Return
+Timothy East,07/10/2022,1,"London, UK",Joint Directorates Senior Leaders meetings,Rail ,Standard,Nil Return,Nil Return,19.3,Nil Return
+Timothy East,09/10/2022,2,"London, UK",Data Foundation Training,"Rail, Car ",Standard,90,Nil Return,202.9,Nil Return
+Timothy East,12/10/2022,1,"Manchester, UK",Chief Digital Information Office Site visit ,Rail,Standard,133,Nil Return,160,Nil Return
+Timothy East,31/10/2022,1,"Birmingham, UK","Programme Planning Event, Capgemini offices ",Car,Private ,Nil Return,Nil Return,36.8,Nil Return
+Timothy East,01/11/2022,1,"Birmingham, UK","Programme Planning Event, Capgemini offices ",Car,Private ,Nil Return,Nil Return,36.8,Nil Return
+Timothy East,08/11/2022,1,"London, UK",Joint Directorate Senior Leaders meetings,Rail,First,189,Nil Return,245,Nil Return
+Timothy East,22/11/2022,2,"London, UK",HMRC Senior Civil Service Leadership Conference ,Rail,Standard,257,Nil Return,409.15,Nil Return
+Timothy East,06/12/2022,3,"London, UK",Chief Digital Information Office Quarterly Extended Leadership Event,"Rail, Car ",Standard,486,Nil Return,521.75,Nil Return
+Timothy East,09/12/2022,2,"Birmingham, UK",Joint Directorates Extended Leadership Event,"Rail, Car ",Standard,75,Nil Return,98.45,Nil Return
+Tom Skalycz,06/10/2022,1,"London, UK",Extended Enterprise Leadership Group (ELG) Meeting ,Rail,Standard,Nil Return,Nil Return,208,Nil Return
+Tom Skalycz,12/10/2022,1,"Manchester, UK",Staff visibility & Engagement sessions,Rail,Standard,87,Nil Return,175,Nil Return
+Tom Skalycz,14/10/2022,1,"London, UK",Chief Technology Office Council,Car,Private,Nil Return,Nil Return,3.4,Nil Return
+Tom Skalycz,01/11/2022,1,"Birmingham, UK",Chief Technology & Design Office Extended Leadership Team Event,Car,Private,Nil Return,Nil Return,20,Nil Return
+Tom Skalycz,07/11/2022,2,"Barcelona, Spain ",Supplier Event ,Car,Private,Nil Return,Nil Return,51.3,Nil Return
+Tom Skalycz,22/11/2022,1,"London, UK",HMRC Senior Civil Service Leadership Conference,Rail,Standard,Nil Return,Nil Return,214,Nil Return
+Tom Skalycz,01/12/2022,1,"London, UK",Programme of Work meeting,Rail,Standard,Nil Return,Nil Return,192,Nil Return
+Tom Skalycz,07/12/2022,2,"London, UK",Quarterly Extended Leadership Event,Rail,Standard,423,Nil Return,617,Nil Return
+Toni Court,19/10/2022,1,"Manchester, UK",Strategy Inclusion & Employee Directorate  Leadership Strategy Meeting,Rail,Standard,55,Nil Return,233,Nil Return
+Toni Court,09/11/2022,1,"Newcastle upon Tyne, UK",Strategy Inclusion & Employee Directorate  Directorate Leadership Meeting,Rail,Standard,Nil Return,Nil Return,144,Nil Return
+Toni Court,25/11/2022,1,"Birmingham, UK",Civil Compliance Capability Workshop,Rail,Standard,Nil Return,Nil Return,73,Nil Return
+Toni Court,06/12/2022,1,"Manchester, UK",Chief People Office Senior Leadership Team Event,Rail,Standard,Nil Return,Nil Return,236,Nil Return
+Adrian Richards,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Elizabeth Fullerton-Rome,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Jane Whittaker,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Jennifer Tippin,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Michael Hearty,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Nic Down,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Philippa Madelin,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Suzanne Newton,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return
+Thomas Taylor,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return,Nil Return

@@ -1,0 +1,10 @@
+Row,Field Name,What is required ,Reason For Inclusion,Additional Information,Inclusion Status
+1,Organisation Name,Name of Authority ,Identifies Public Organisation,High Peak Borough Council,Optional
+2,Organisation Code,Unique code of identify organisation,To allow the file to be self-describing,,Optional 
+3,Effective Date ,Date at which information provided is true,To identify the date to which the data may apply,1st March 2023,Optional
+4,Total representative count,Total number of trade union representatives,Requested in the Code,0,Mandated 
+5,FTE representative count,FTE number of trade union representatives,Requested in the Code,0,Mandated 
+6,Total representatives majority duty count,Total number (full time equivalent) of union representatives who devote at least 50 percent of their time to union duties,Requested in the Code,0,Mandated
+7,Total representatives majority duty counter,Total number of union representatives who devote at least 50 percent of their time to union duties,Requested in the Code,0,Mandated
+8,Total estimate spending amount,A basic estimate of spending on unions,Requested in the Code,0,Mandated 
+9,Relative estimate spending ,A basic estimate of spending on unions as a percentage of the total pay bill,Requested in the Code,0,Mandated 

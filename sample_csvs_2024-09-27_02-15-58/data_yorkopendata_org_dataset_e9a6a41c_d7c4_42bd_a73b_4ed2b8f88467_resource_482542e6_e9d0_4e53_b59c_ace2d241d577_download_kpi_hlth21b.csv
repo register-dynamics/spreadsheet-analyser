@@ -1,0 +1,8 @@
+"KpiId","KpiName","Value","DataType","Period","StartDate","EndDate","CollectionFrequency"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","7.60 Number","Number","2014/2015","2014-04-01","2015-03-31","Annual"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","7.30 Number","Number","2015/2016","2015-04-01","2016-03-31","Annual"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","NC","Number","2016/2017","2016-04-01","2017-03-31","Annual"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","10.10 Number","Number","2017/2018","2017-04-01","2018-03-31","Annual"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","NC","Number","2018/2019","2018-04-01","2019-03-31","Annual"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","10.20 Number","Number","2019/2020","2019-04-01","2020-03-31","Annual"
+"HLTH21b","Gap in years in Life Expectancy at birth for Males between highest and lowest York ward (5 year aggregated)","11.70 Number","Number","2020/2021","2020-04-01","2021-03-31","Annual"

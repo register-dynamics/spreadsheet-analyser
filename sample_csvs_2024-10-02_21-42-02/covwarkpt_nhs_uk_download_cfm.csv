@@ -1,0 +1,58 @@
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transaction Ref,Line No,Line Value
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,Legal/Prof Fees,CORP Affairs & Governance,Mills & Reeve,0000368140,001,"25,525.45"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,Continence Products,ICS Continence,Abena UK  Limited,0000368461,001,"28,864.34"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,Continence Products,ICS Continence,Abena UK  Limited,0000368461,002,44.32
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,Drugs,ICS HIV,Lloyds Pharmacy,0000368664,001,"366,519.51"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,Drugs,ICS Integrated Sexual Health,Lloyds Pharmacy,0000368664,002,794.67
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,software,CORP IT Strategy,Foursys Ltd,0000368692,001,"11,020.80"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,software,CORP IT Strategy,Foursys Ltd,0000368692,002,"44,083.20"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171026,Legal/Prof Fees,CORP Vinci Recharge Caludon,Pinsent Masons LLP,0000368974,001,"27,527.68"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Data Lines,CORP IT Services,BT Global Services,0000367825,001,"27,238.17"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Lease Rents,CORP Estates,Community Health Partnerships,0000368625,001,"196,377.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Rates,CORP Estates,Community Health Partnerships,0000368625,002,"16,443.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Service Charge,CORP Estates,Community Health Partnerships,0000368625,003,"18,039.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Contract : Premises Security,CORP Estates,Community Health Partnerships,0000368625,004,"10,648.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Insurance Costs,CORP Estates,Community Health Partnerships,0000368625,005,614.00
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Other Utility Fuels,CORP Estates,Community Health Partnerships,0000368625,006,"9,468.60"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Lease Rents,CORP Estates,Community Health Partnerships,0000368627,001,"196,377.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Rates,CORP Estates,Community Health Partnerships,0000368627,002,"16,443.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Service Charge,CORP Estates,Community Health Partnerships,0000368627,003,"18,039.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Contract : Premises Security,CORP Estates,Community Health Partnerships,0000368627,004,"10,648.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Insurance Costs,CORP Estates,Community Health Partnerships,0000368627,005,614.00
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Other Utility Fuels,CORP Estates,Community Health Partnerships,0000368627,006,"9,468.60"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Lease Rents,CORP Estates,Community Health Partnerships,0000368628,001,"196,377.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Rates,CORP Estates,Community Health Partnerships,0000368628,002,"16,443.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Service Charge,CORP Estates,Community Health Partnerships,0000368628,003,"18,039.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Contract : Premises Security,CORP Estates,Community Health Partnerships,0000368628,004,"10,648.00"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Insurance Costs,CORP Estates,Community Health Partnerships,0000368628,005,614.00
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Other Utility Fuels,CORP Estates,Community Health Partnerships,0000368628,006,"9,468.60"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Mobile Phones,CORP IT Services Recharge,Vodafone Corporate,0000723138,001,35.70
+Health,Coventry and Warwickshire Partnership NHS Trust,20171019,Mobile Phones,CORP IT Services Recharge,Vodafone Corporate,0000723138,002,"26,076.88"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171016,Clinical Negligence,CORP Affairs & Governance,The NHS Litigation Authority,0000369085,001,"55,797.60"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,CFS LD Community Team,Lloyds Pharmacy,0000367851,001,15.58
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,AS Pharmacy,Lloyds Pharmacy,0000367851,002,"35,931.50"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,AS Pharmacy,Lloyds Pharmacy,0000367851,003,256.09
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,AS Pharmacy,Lloyds Pharmacy,0000367851,004,"35,395.92"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS LD Community Medical,Lloyds Pharmacy,0000367851,005,137.97
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS LD Community Medical,Lloyds Pharmacy,0000367851,006,31.28
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,AS Medical,Lloyds Pharmacy,0000367851,007,867.04
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,AS Medical,Lloyds Pharmacy,0000367851,008,296.54
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,AS Medical,Lloyds Pharmacy,0000367851,009,"7,894.66"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS Community Management,Lloyds Pharmacy,0000367851,010,"67,390.51"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS Community Management,Lloyds Pharmacy,0000367851,011,"11,083.43"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,CORP Medicines Management,Lloyds Pharmacy,0000367851,012,132.00
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,External Contracts Pharmacy,CORP Medicines Mgmnt Contract,Lloyds Pharmacy,0000367851,013,"44,654.10"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS GPs Out of Hrs,Lloyds Pharmacy,0000367851,014,36.50
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS Integrated Sexual Health,Lloyds Pharmacy,0000367851,015,"3,258.78"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Drugs,ICS Integrated Sexual Health,Lloyds Pharmacy,0000367851,016,935.28
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,CFS CAMHS Medical Coventry,NHS Business Services Authority,0000368248,001,"24,494.03"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,AS Pharmacy,NHS Business Services Authority,0000368248,002,"38,231.08"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,AS Medical,NHS Business Services Authority,0000368248,003,"19,898.57"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,CFS CAMHS Medical Wark,NHS Business Services Authority,0000368248,004,"9,414.09"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,ICS Palliative Care,NHS Business Services Authority,0000368248,005,"2,631.29"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,ICS GPs Out of Hrs,NHS Business Services Authority,0000368248,006,"8,781.42"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,ICS Integrated Sexual Health,NHS Business Services Authority,0000368248,007,1.86
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,Other NHS Recharges,NHS Debtors Less Than 1 Year,NHS Business Services Authority,0000368248,008,"9,312.72"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,CFS Childrens Neurodevelopment,NHS Business Services Authority,0000368248,009,"2,842.11"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,ICS Clinical Assessment,NHS Business Services Authority,0000368248,010,"3,355.63"
+Health,Coventry and Warwickshire Partnership NHS Trust,20171012,FP10S,ICS Medical (Solihull),NHS Business Services Authority,0000368248,011,"1,331.55"

@@ -1,0 +1,462 @@
+Organisation,Service Area,Cost Centre,Expense Type,Payment Date,Transaction No.,Amount,"Capital
+Revenue",Supplier Name,Supplier ID
+Rushmoor Borough Council,Environmental Health and Housing,2203,Training Expenses,04/11/2021,235424,1400,Revenue,Denise Fermor,15554
+Rushmoor Borough Council,Planning,2623,Admin Equipment,04/11/2021,235797,591.12,Revenue,Insight Direct (Uk) Ltd,5302
+Rushmoor Borough Council,Planning,2612,Admin Equipment,04/11/2021,235797,394.08,Revenue,Insight Direct (Uk) Ltd,5302
+Rushmoor Borough Council,Planning,2623,Admin Equipment,04/11/2021,235798,440.28,Revenue,Insight Direct (Uk) Ltd,5302
+Rushmoor Borough Council,Planning,2612,Admin Equipment,04/11/2021,235798,293.52,Revenue,Insight Direct (Uk) Ltd,5302
+Rushmoor Borough Council,Chief Executive,1100,Consult Games Digital Hub,04/11/2021,236066,1200,Revenue,Cooper And Withycombe,13479
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,11/11/2021,236189,497.49,Revenue,Temple Lifts Limited,12997
+Rushmoor Borough Council,Community,6518,Contract Costs,04/11/2021,236199,13416,Capital,Craemer Uk Ltd,11508
+Rushmoor Borough Council,Legal,1213,Property System IT Costs,04/11/2021,236248,3150,Revenue,Concerto Support Services Ltd,16327
+Rushmoor Borough Council,Community,2560,Water,11/11/2021,236302,3405.55,Revenue,Business Stream,15959
+Rushmoor Borough Council,Community,2518,Panto Expenditure,11/11/2021,236312,1650,Revenue,Scenic Pantomimes Limited,12065
+Rushmoor Borough Council,Community,2551,Building and Monument Maintenance,04/11/2021,236354,252.5,Revenue,Access Platform Sales,15362
+Rushmoor Borough Council,Legal,1210,Contract Staff,04/11/2021,236396,672,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Contract Staff,04/11/2021,236396,672,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Community,2523,West End Centre Grants,04/11/2021,236424,14612,Revenue,Hampshire Cultural Trust,13707
+Rushmoor Borough Council,Community,2523,Aldershot Museum Grant,04/11/2021,236424,29612,Revenue,Hampshire Cultural Trust,13707
+Rushmoor Borough Council,Customer Services,3811,Consultancy,04/11/2021,236469,1400,Revenue,Airey Consultancy Services,8608
+Rushmoor Borough Council,Customer Services,3804,Consultancy,04/11/2021,236469,1092.5,Revenue,Airey Consultancy Services,8608
+Rushmoor Borough Council,Democratic Services,1327,Postages,04/11/2021,236470,2763.44,Revenue,Royal Mail,821
+Rushmoor Borough Council,Community,2554,Glass Skip,04/11/2021,236472,885.22,Revenue,Fcc Recycling (Uk) Limited,11978
+Rushmoor Borough Council,Community,2554,Glass Skip,04/11/2021,236473,1130.79,Revenue,Fcc Recycling (Uk) Limited,11978
+Rushmoor Borough Council,Community,2549,Operational Equipment,04/11/2021,236481,272.75,Revenue,Lockrite Security Ltd,360
+Rushmoor Borough Council,Community,2543,High Street Reopening After Covid 19,04/11/2021,236483,1408.28,Revenue,Gala Tent Ltd,15276
+Rushmoor Borough Council,Information Technology,3302,Application Software,04/11/2021,236488,4940,Revenue,Idox Software Ltd,661
+Rushmoor Borough Council,Legal,1209,Legionela Maintenance,04/11/2021,236490,1825,Revenue,Rock Compliance Limited,16356
+Rushmoor Borough Council,Community,2517,Infection Control,04/11/2021,236490,6500,Revenue,Rock Compliance Limited,16356
+Rushmoor Borough Council,Information Technology,3304,Azure,04/11/2021,236496,1211.98,Revenue,Phoenix Software,724
+Rushmoor Borough Council,Legal,1299,Valuation Fees,04/11/2021,236505,3950,Revenue,Avison Young,3742
+Rushmoor Borough Council,Community,2554,Glass Skip,04/11/2021,236510,781.63,Revenue,Fcc Recycling (Uk) Limited,11978
+Rushmoor Borough Council,Legal,1248,General Repairs and Maintenance,11/11/2021,236512,1544.16,Revenue,Hardcastle Electrical Limited,8301
+Rushmoor Borough Council,Legal,1248,General Repairs and Maintenance,11/11/2021,236513,1538.18,Revenue,Hardcastle Electrical Limited,8301
+Rushmoor Borough Council,Legal,1206,Energy Efficiency,11/11/2021,236514,796.64,Revenue,Hardcastle Electrical Limited,8301
+Rushmoor Borough Council,Information Technology,3305,Repair and Maintenance of Fixed Plant,11/11/2021,236515,4888,Revenue,Healthcare Construction Ltd,15636
+Rushmoor Borough Council,Democratic Services,1327,Postages,04/11/2021,236516,7678.4,Revenue,Quadient Uk Ltd,11588
+Rushmoor Borough Council,Legal,1208,General Repairs and Maintenance,11/11/2021,236519,514,Revenue,Hardcastle Electrical Limited,8301
+Rushmoor Borough Council,Planning,6620,Contract Costs,04/11/2021,236522,12924,Capital,Mgb Plastics,11093
+Rushmoor Borough Council,Director of Community and Environment Services,2110,ICE Process Redesign,04/11/2021,236523,2380,Revenue,Idox Software Ltd,661
+Rushmoor Borough Council,Environmental Health and Housing,2402,Hyde Housing Association Communal Housing,04/11/2021,236526,1340.79,Revenue,Mears Housing Management,15925
+Rushmoor Borough Council,Information Technology,3305,General Repairs and Maintenance,04/11/2021,236533,475,Revenue,Ezyglide Ltd,10979
+Rushmoor Borough Council,Information Technology,3305,General Repairs and Maintenance,04/11/2021,236534,545,Revenue,Ezyglide Ltd,10979
+Rushmoor Borough Council,Legal,1210,Contract Staff,04/11/2021,236537,559,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Chief Executive,1100,Temporary Staff,04/11/2021,236538,1680,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Contract Staff,04/11/2021,236539,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1210,Contract Staff,04/11/2021,236539,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Community,2543,High Street Reopening After Covid 19,04/11/2021,236540,400,Revenue,Kj Voiceover,16235
+Rushmoor Borough Council,Director of Community and Environment Services,2102,FLC Project Delivery Costs,18/11/2021,236543,1800,Revenue,Glk Solutions Ltd,12369
+Rushmoor Borough Council,Chief Executive,1100,Consultancy,18/11/2021,236543,6627,Revenue,Glk Solutions Ltd,12369
+Rushmoor Borough Council,Director of Community and Environment Services,2102,FLC Project Delivery Costs,18/11/2021,236544,2100,Revenue,Glk Solutions Ltd,12369
+Rushmoor Borough Council,Chief Executive,1100,Consultancy,18/11/2021,236544,6868.5,Revenue,Glk Solutions Ltd,12369
+Rushmoor Borough Council,Director of Community and Environment Services,2110,ICE Programme Mgr,04/11/2021,236545,6080.1,Revenue,Glk Solutions Ltd,12369
+Rushmoor Borough Council,Director of Community and Environment Services,2110,ICE Programme Mgr,04/11/2021,236546,5792.1,Revenue,Glk Solutions Ltd,12369
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,04/11/2021,236547,377.73,Revenue,Bentons,12526
+Rushmoor Borough Council,Customer Services,3804,Contract Staff,04/11/2021,236551,390,Revenue,G2 Recruitment Solutions,16259
+Rushmoor Borough Council,Community,2554,Food Waste,04/11/2021,236552,533.75,Revenue,Wendy B Employment Consultancy,1743
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,04/11/2021,236567,454.5,Revenue,Brookside Pre School Ltd,16339
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,04/11/2021,236569,358.05,Revenue,Chambers Waste Management Plc,217
+Rushmoor Borough Council,Legal,1208,Routine Grounds Maintenance,04/11/2021,236570,1460.07,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2540,Amenity Variations,04/11/2021,236570,1237.3,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2551,Grounds Maintenance Base,04/11/2021,236570,4219.45,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2552,Grounds Maintenance Base,04/11/2021,236570,32138.78,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2552,Amenity Base,04/11/2021,236570,6997.34,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2540,Amenity Base,04/11/2021,236570,13813.68,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2550,Grounds Maintenance Base,04/11/2021,236570,9866.56,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2552,Prospect Estate Base,04/11/2021,236570,2512.88,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Information Technology,3305,Routine Grounds Maintenance,04/11/2021,236570,634.97,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2540,Anciliary Costs,04/11/2021,236570,264.47,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2502,Routine Grounds Maintenance,04/11/2021,236570,761.28,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2537,Grounds Maintenance Base,04/11/2021,236570,677.36,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2552,Anciliary Costs,04/11/2021,236570,677.72,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2552,Routine Playground Inspections,04/11/2021,236570,2131.64,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Planning,2624,Southwood Golf Course SANG Setup,04/11/2021,236570,698.78,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,6518,Contract Costs,11/11/2021,236573,12924,Capital,Mgb Plastics,11093
+Rushmoor Borough Council,Legal,1248,Security Services,04/11/2021,236575,414.75,Revenue,Kbo Fire And Security Ltd,535
+Rushmoor Borough Council,Strategy and Communiations,1415,Training Expenses,04/11/2021,236578,475,Revenue,Cms Training Ltd,9370
+Rushmoor Borough Council,Community,2518,Payment to Artistes,04/11/2021,236580,8120.42,Revenue,Tc Productions Ltd,16587
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,236585,650,Revenue,Mill Cottage Farm Experience,15651
+Rushmoor Borough Council,Community,2551,Electricity,04/11/2021,236588,886.57,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Community,2517,Tree Maintenance,04/11/2021,236594,939.05,Revenue,The Surrey & Hants Tree Company Ltd,16041
+Rushmoor Borough Council,Legal,1210,Contract Staff,04/11/2021,236595,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Contract Staff,04/11/2021,236595,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Chief Executive,1100,Temporary Staff,04/11/2021,236596,1680,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1210,Contract Staff,04/11/2021,236597,559,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Community,2518,Heating Contribution - HCC,04/11/2021,236599,6422.46,Revenue,Hampshire Constabulary,13997
+Rushmoor Borough Council,Community,2518,Panto Expenditure,04/11/2021,236602,4500,Revenue,Donovan C-Cary,12395
+Rushmoor Borough Council,Community,6567,Contract Costs,04/11/2021,236604,1250,Capital,Facultatieve Technologies Ltd,5289
+Rushmoor Borough Council,Community,2507,General Repairs and Maintenance,04/11/2021,236610,540,Revenue,J K  Build Ltd,1239
+Rushmoor Borough Council,Community,2518,Electricity,04/11/2021,236617,2722.42,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Community,2518,Temporary Staff,04/11/2021,236618,270,Revenue,Tango Security Ltd,1412
+Rushmoor Borough Council,Community,2517,Tree Maintenance,04/11/2021,236619,351,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Community,2517,Playground Apparatus,04/11/2021,236624,991.49,Revenue,Hags-Smp Ltd,4499
+Rushmoor Borough Council,Legal,1242,Temporary Staff,04/11/2021,236626,847.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1209,Temporary Staff,04/11/2021,236626,282.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Temporary Staff,04/11/2021,236626,847.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1230,Temporary Staff,04/11/2021,236626,282.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1240,Temporary Staff,04/11/2021,236626,282.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Community,2554,Food Waste,04/11/2021,236627,564.25,Revenue,Wendy B Employment Consultancy,1743
+Rushmoor Borough Council,Financial Services,3401,Conferences and Seminars,25/11/2021,236628,275,Revenue,Solace Group Ltd,8897
+Rushmoor Borough Council,Community,2554,Food Waste,04/11/2021,236629,24400,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Democratic Services,1327,Postages,04/11/2021,236630,2307.29,Revenue,Royal Mail,821
+Rushmoor Borough Council,Community,2506,Electricity,04/11/2021,236639,277.48,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Community,2537,Electricity,11/11/2021,236640,1132.52,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Legal,1208,Electricity,04/11/2021,236641,311.48,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Community,2555,Electricity,04/11/2021,236644,574.83,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Community,2518,Payment to Artistes,04/11/2021,236646,5826.97,Revenue,Avalon Promotions Limited,4015
+Rushmoor Borough Council,Community,2517,Tree Maintenance,04/11/2021,236647,585,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Community,2552,Grounds Maintenance,04/11/2021,236651,6579.92,Revenue,Mark Harrod Ltd,14889
+Rushmoor Borough Council,Community,2517,Playground Apparatus,04/11/2021,236652,1053,Revenue,Hags-Smp Ltd,4499
+Rushmoor Borough Council,Information Technology,3305,Temporary Staff,04/11/2021,236653,1032,Revenue,Ellack Cleaning Contractors Limited,14117
+Rushmoor Borough Council,Information Technology,3305,Temporary Staff,04/11/2021,236654,2112,Revenue,Ellack Cleaning Contractors Limited,14117
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,04/11/2021,236656,1380,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Information Technology,3305,Trade Refuse,04/11/2021,236658,420.24,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Environmental Health and Housing,2246,Consultancy,04/11/2021,236660,962.5,Revenue,Browne Jacobson Llp,15516
+Rushmoor Borough Council,Community,2538,Gantry/Barriers,04/11/2021,236662,3096,Revenue,Apt Security Systems Ltd,12127
+Rushmoor Borough Council,Community,2507,Electricity,11/11/2021,236664,2081.91,Revenue,Sse Metering Ltd,912
+Rushmoor Borough Council,Information Technology,3305,Water,18/11/2021,236666,2739.83,Revenue,Castle Water Limited,14681
+Rushmoor Borough Council,Community,2555,Water,04/11/2021,236668,284.37,Revenue,Castle Water Limited,14681
+Rushmoor Borough Council,Community,2561,Water,04/11/2021,236679,520,Revenue,Secure Site (Uk) Ltd,14068
+Rushmoor Borough Council,Democratic Services,1300,Poppy Wreaths,04/11/2021,236681,300,Revenue,Royal British Legion Poppy Appeal,11361
+Rushmoor Borough Council,Director of Community and Environment Services,2102,Consultancy,04/11/2021,236683,3000,Revenue,Dexter Moren Associates,16593
+Rushmoor Borough Council,Information Technology,3305,Temporary Staff,04/11/2021,236692,1219.84,Revenue,Ellack Cleaning Contractors Limited,14117
+Rushmoor Borough Council,Information Technology,3305,General Repairs and Maintenance,04/11/2021,236693,460,Revenue,Ellack Cleaning Contractors Limited,14117
+Rushmoor Borough Council,Legal,1202,Conferences and Seminars,04/11/2021,236695,860,Revenue,Llg Legal Training,13146
+Rushmoor Borough Council,Community,2537,General Repairs and Maintenance,04/11/2021,236696,700.68,Revenue,Bellstan Ltd,4489
+Rushmoor Borough Council,Community,2560,Contract Costs,11/11/2021,236697,3500,Revenue,Strategic Leisure Ltd,15855
+Rushmoor Borough Council,Legal,1202,Counsels Fees,04/11/2021,236700,1887,Revenue,Bevan Brittan Llp,8417
+Rushmoor Borough Council,Director of Community and Environment Services,2102,Consultancy,04/11/2021,236701,2700,Revenue,The Big Picture Ltd,16594
+Rushmoor Borough Council,Environmental Health and Housing,2213,A331 AQ Office Costs,04/11/2021,236702,1500,Revenue,Atkins International,2053
+Rushmoor Borough Council,Community,2551,Memorial Vaults,04/11/2021,236703,16010,Revenue,The Columbaria Company,993
+Rushmoor Borough Council,Director of Community and Environment Services,2102,Consultancy,11/11/2021,236704,1794,Revenue,Hampshire Property (Services) Ltd,13759
+Rushmoor Borough Council,Community,6507,Contract Costs,04/11/2021,236705,8397.8,Capital,Baydale Control Systems,12558
+Rushmoor Borough Council,Community,2549,Maintenance Team Non-Core Client Expenditure,11/11/2021,236708,1820,Revenue,Barricade Ltd,15939
+Rushmoor Borough Council,Community,6518,Contract Costs,18/11/2021,236709,13416,Capital,Craemer Uk Ltd,11508
+Rushmoor Borough Council,Community,2537,General Repairs and Maintenance,11/11/2021,236710,431.9,Revenue,Signway Supplies,884
+Rushmoor Borough Council,Information Technology,3304,Gov Connect,04/11/2021,236711,1009.61,Revenue,Nominet Uk,16166
+Rushmoor Borough Council,Community,2518,Training Expenses,04/11/2021,236713,875,Revenue,Aluminium Access Products Ltd,14079
+Rushmoor Borough Council,Information Technology,3305,Cleaning Materials,11/11/2021,236716,576.82,Revenue,Source Office Supplies Ltd,14253
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,04/11/2021,236721,645.12,Revenue,Consort Frozen Foods Ltd,260
+Rushmoor Borough Council,Community,2537,Electricity,04/11/2021,236723,272.02,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Community,2560,Water,11/11/2021,236728,-785.37,Revenue,Business Stream,15959
+Rushmoor Borough Council,Community,2560,Water,11/11/2021,236729,-622.79,Revenue,Business Stream,15959
+Rushmoor Borough Council,Information Technology,3304,Network Software,04/11/2021,236732,12968.4,Revenue,Power On Platforms Ltd,15605
+Rushmoor Borough Council,Information Technology,3302,Application Software,11/11/2021,236733,5940,Revenue,Goss Interactive Limited,5830
+Rushmoor Borough Council,Information Technology,3302,Application Software,11/11/2021,236734,20280,Revenue,Goss Interactive Limited,5830
+Rushmoor Borough Council,Environmental Health and Housing,2218,Taxi Plate Supplies,11/11/2021,236738,252.75,Revenue,Vip-System Limited,11630
+Rushmoor Borough Council,Legal,1209,Legionela Maintenance,11/11/2021,236739,550,Revenue,Rock Compliance Limited,16356
+Rushmoor Borough Council,Planning,2609,Local Plan Preparation,11/11/2021,236740,3000,Revenue,Hampshire County Council,1206
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,11/11/2021,236745,270,Revenue,Brand Pest Control,3284
+Rushmoor Borough Council,Community,2517,Tree Survey Works,11/11/2021,236747,880,Revenue,Sapling Arboriculture Limited,9448
+Rushmoor Borough Council,Community,2543,High Street Reopening After Covid 19,11/11/2021,236748,1573,Revenue,Orchid Digital Ltd,13123
+Rushmoor Borough Council,Strategy and Communiations,1415,Commission,04/11/2021,236753,540.58,Revenue,Avc Wise Ltd,15680
+Rushmoor Borough Council,Customer Services,3804,Contract Staff,04/11/2021,236755,1035,Revenue,G2 Recruitment Solutions,16259
+Rushmoor Borough Council,Community,2551,Memorial Expenses,11/11/2021,236757,1535,Revenue,Vivedia Ltd,13434
+Rushmoor Borough Council,Community,2538,Telecommunications,04/11/2021,236758,271.6,Revenue,Metric Group Ltd,4436
+Rushmoor Borough Council,Community,2538,NPAS Fees,04/11/2021,236759,947.1,Revenue,Patrol,5572
+Rushmoor Borough Council,Information Technology,3302,Application Software,11/11/2021,236760,-3381.7,Revenue,Goss Interactive Limited,5830
+Rushmoor Borough Council,Environmental Health and Housing,6224,Contract Costs,11/11/2021,236763,1395,Capital,Environtec Limited,15633
+Rushmoor Borough Council,Legal,1248,General Repairs and Maintenance,11/11/2021,236764,710,Revenue,Jackson Fire And Security Uk Ltd,15502
+Rushmoor Borough Council,Community,2526,General Repairs and Maintenance,11/11/2021,236765,1100,Revenue,Jackson Fire And Security Uk Ltd,15502
+Rushmoor Borough Council,Information Technology,3305,General Repairs and Maintenance,11/11/2021,236767,3796.2,Revenue,Hardcastle Electrical Limited,8301
+Rushmoor Borough Council,Environmental Health and Housing,2204,Stray Dog Out of Hours Service,11/11/2021,236772,275,Revenue,Bowenhurst Kennels,167
+Rushmoor Borough Council,Environmental Health and Housing,2204,Kennel/Feed Stray Dogs,11/11/2021,236772,813.75,Revenue,Bowenhurst Kennels,167
+Rushmoor Borough Council,Community,2554,Food Waste,11/11/2021,236773,564.25,Revenue,Wendy B Employment Consultancy,1743
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,18/11/2021,236776,256,Revenue,Oxenford Farm Ltd,13364
+Rushmoor Borough Council,Community,2518,Temporary Staff,25/11/2021,236777,375,Revenue,Tango Security Ltd,1412
+Rushmoor Borough Council,Legal,1210,Contract Staff,11/11/2021,236778,559,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Chief Executive,1100,Temporary Staff,18/11/2021,236779,1680,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Contract Staff,11/11/2021,236780,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1210,Contract Staff,11/11/2021,236780,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Community,2543,High Street Reopening After Covid 19,11/11/2021,236782,350,Revenue,Henry Douthwaite,16093
+Rushmoor Borough Council,Information Technology,3304,Telephones,25/11/2021,236784,1320,Revenue,Nss Partners Limited,15033
+Rushmoor Borough Council,Community,2551,Memorial Expenses,11/11/2021,236785,273.56,Revenue,Town And Country Memorials Ltd,1052
+Rushmoor Borough Council,Legal,1248,Electricity,11/11/2021,236788,1279.97,Revenue,Drax Energy Solutions,15551
+Rushmoor Borough Council,Legal,1202,Temporary Staff,11/11/2021,236790,1155,Revenue,Sellick Partnership Ltd,15486
+Rushmoor Borough Council,Legal,1202,Temporary Staff,11/11/2021,236791,1155,Revenue,Sellick Partnership Ltd,15486
+Rushmoor Borough Council,Legal,1202,Counsels Fees,11/11/2021,236792,400,Revenue,12 Cp Barristers,13792
+Rushmoor Borough Council,Community,2517,Electricity,11/11/2021,236793,1471.14,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Legal,1208,Electricity,11/11/2021,236794,281.43,Revenue,E.On Next,14884
+Rushmoor Borough Council,Community,6518,Contract Costs,11/11/2021,236799,12924,Capital,Mgb Plastics,11093
+Rushmoor Borough Council,Planning,6621,Contract Costs,11/11/2021,236800,831.6,Capital,Arcus Consulting Limited,16491
+Rushmoor Borough Council,Planning,6621,Contract Costs,11/11/2021,236801,3737.5,Capital,Arcus Consulting Limited,16491
+Rushmoor Borough Council,Community,2553,Computer Equipment and Software,11/11/2021,236803,1875,Revenue,Blackburn It Services T/A Bbits,14365
+Rushmoor Borough Council,Legal,1242,Service Charges,11/11/2021,236806,300.02,Revenue,Mobius Sps,15944
+Rushmoor Borough Council,Customer Services,3804,Contract Staff,11/11/2021,236811,1110,Revenue,G2 Recruitment Solutions,16259
+Rushmoor Borough Council,Community,2538,Card Transaction Fees,11/11/2021,236812,427.5,Revenue,Imperial Civil Enforcement Solutions,13348
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,11/11/2021,236817,3236,Revenue,Giant Cheese Ltd,16505
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,236819,325,Revenue,Kelly'S Donkeys,16589
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,236820,400,Revenue,Berkshire Birds Of Prey,15615
+Rushmoor Borough Council,Legal,1206,Temporary Staff,11/11/2021,236826,300,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1209,Temporary Staff,11/11/2021,236827,254.25,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1242,Temporary Staff,11/11/2021,236827,762.75,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Temporary Staff,11/11/2021,236827,762.75,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1230,Temporary Staff,11/11/2021,236827,254.25,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1240,Temporary Staff,11/11/2021,236827,254.25,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1206,Temporary Staff,11/11/2021,236828,300,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1206,Temporary Staff,11/11/2021,236829,300,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1206,Temporary Staff,11/11/2021,236830,400,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Temporary Staff,11/11/2021,236830,320,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Temporary Staff,11/11/2021,236831,320,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1206,Temporary Staff,11/11/2021,236831,400,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1206,Temporary Staff,11/11/2021,236832,300,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Democratic Services,1302,External Printing,18/11/2021,236833,1963.63,Revenue,Civica Election Services,6506
+Rushmoor Borough Council,Democratic Services,1302,External Printing,18/11/2021,236834,952.87,Revenue,Civica Election Services,6506
+Rushmoor Borough Council,Community,2551,Floris Plaques,11/11/2021,236837,487.46,Revenue,Hilton Cabinet Co Ltd,24
+Rushmoor Borough Council,Community,2565,Trade Refuse,11/11/2021,236838,333,Revenue,Chambers Waste Management Plc,217
+Rushmoor Borough Council,Legal,1202,Counsels Fees,11/11/2021,236839,300,Revenue,12 Cp Barristers,13792
+Rushmoor Borough Council,Community,2517,Tree Maintenance,11/11/2021,236840,537,Revenue,Transform Landscapes,16032
+Rushmoor Borough Council,Community,2537,Security Services,11/11/2021,236841,1674.38,Revenue,Bdi Securities,16534
+Rushmoor Borough Council,Community,2507,General Repairs and Maintenance,11/11/2021,236842,425,Revenue,Drain & Sewer Services,310
+Rushmoor Borough Council,Director of Community and Environment Services,2100,Professional Subscriptions,18/11/2021,236843,386.68,Revenue,Solace Group Ltd,8897
+Rushmoor Borough Council,Community,2517,Tree Maintenance,11/11/2021,236845,998.4,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Community,2517,Tree Maintenance,11/11/2021,236846,1175.2,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Environmental Health and Housing,2218,Housing Medical Reports,11/11/2021,236849,324.6,Revenue,Hml Independent Medical Advice Ltd,15214
+Rushmoor Borough Council,Customer Services,3805,Tracing Fees,11/11/2021,236850,1620,Revenue,Experian Ltd,5686
+Rushmoor Borough Council,Director of Community and Environment Services,2102,FLC Project Delivery Costs,11/11/2021,236851,2469.3,Revenue,Artelia Uk,15969
+Rushmoor Borough Council,Community,2565,Trade Refuse,11/11/2021,236852,557,Revenue,Chambers Waste Management Plc,217
+Rushmoor Borough Council,Community,2542,Aldershot Christmas Lights,11/11/2021,236853,500,Revenue,Height For Hire Ltd,15616
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/11/2021,236854,309.38,Revenue,Mr M Conway,3755
+Rushmoor Borough Council,Legal,1231,General Repairs and Maintenance,11/11/2021,236855,295,Revenue,Rock Compliance Limited,16356
+Rushmoor Borough Council,Information Technology,3304,Telephones,25/11/2021,236857,606.4,Revenue,Daisy Corporate Services Trading Ltd,9349
+Rushmoor Borough Council,Community,2551,Telephones,11/11/2021,236860,276.54,Revenue,Southern Communications,12514
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,11/11/2021,236861,1185.25,Revenue,H H Clark (Caterers) Ltd,1393
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,11/11/2021,236863,1386.15,Revenue,H H Clark (Caterers) Ltd,1393
+Rushmoor Borough Council,Information Technology,3304,Telephones,25/11/2021,236865,609.86,Revenue,Daisy Corporate Services Trading Ltd,9349
+Rushmoor Borough Council,Information Technology,3302,Application Software,11/11/2021,236868,8340,Revenue,Goss Interactive Limited,5830
+Rushmoor Borough Council,Director of Community and Environment Services,2110,ICE Process Redesign,11/11/2021,236869,3570,Revenue,Idox Software Ltd,661
+Rushmoor Borough Council,Legal,1202,Counsels Fees,25/11/2021,236870,405,Revenue,Geldards Llp,15716
+Rushmoor Borough Council,Legal,1202,Counsels Fees,25/11/2021,236871,330,Revenue,Geldards Llp,15716
+Rushmoor Borough Council,Legal,1202,Counsels Fees,25/11/2021,236874,1173,Revenue,Geldards Llp,15716
+Rushmoor Borough Council,Environmental Health and Housing,2247,Equipment Maintenance,11/11/2021,236878,1015.08,Revenue,Baydale Control Systems,12558
+Rushmoor Borough Council,Environmental Health and Housing,2402,Hyde Housing Association Communal Housing,11/11/2021,236885,2497.55,Revenue,Mears Housing Management,15925
+Rushmoor Borough Council,Community,2550,Grave Digging and Maintenance,11/11/2021,236886,1926.56,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2508,Covid 19 Food Partnership,18/11/2021,236888,7298.16,Revenue,Rushmoor Voluntary Services,838
+Rushmoor Borough Council,Community,2513,Covid 19 LRC Support,18/11/2021,236888,8336.66,Revenue,Rushmoor Voluntary Services,838
+Rushmoor Borough Council,Community,2543,High Street Reopening After Covid 19,18/11/2021,236889,750,Revenue,Rushmoor Voluntary Services,838
+Rushmoor Borough Council,Community,2517,Tree Maintenance,18/11/2021,236890,1975,Revenue,Forest & Garden Timber Services,16018
+Rushmoor Borough Council,Democratic Services,1310,Conferences and Seminars,18/11/2021,236891,495,Revenue,Institute Of Licensing (Events) Ltd,6962
+Rushmoor Borough Council,Community,2538,NPAS Fees,11/11/2021,236893,1065.9,Revenue,Patrol,5572
+Rushmoor Borough Council,Democratic Services,1327,Operational Equipment,18/11/2021,236894,866.4,Revenue,Quadient Uk Ltd,1283
+Rushmoor Borough Council,Strategy and Communiations,1417,Accommodation Costs,11/11/2021,236896,1041.69,Revenue,Defence Infrastructure Organisation,9473
+Rushmoor Borough Council,Community,2518,Panto Expenditure,11/11/2021,236898,1500,Revenue,Hopkins Associates Ltd,463
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,18/11/2021,236900,1869,Revenue,E.On Control Solutions Limited,3569
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,18/11/2021,236901,1015,Revenue,Harpers Door Specialists,14059
+Rushmoor Borough Council,Legal,1213,Responsive Repairs and Maintenance,18/11/2021,236902,4820,Revenue,Hampshire Property (Services) Ltd,13759
+Rushmoor Borough Council,Customer Services,3804,Software Maintenance,18/11/2021,236903,2458.12,Revenue,Nec Software Solutions Uk Limited,9422
+Rushmoor Borough Council,Planning,6613,Contract Costs,18/11/2021,236904,4000,Capital,P A Gibbs Ltd,1246
+Rushmoor Borough Council,Planning,6613,Contract Costs,18/11/2021,236905,4000,Capital,P A Gibbs Ltd,1246
+Rushmoor Borough Council,Legal,1213,Responsive Repairs and Maintenance,18/11/2021,236906,900,Revenue,Hampshire Property (Services) Ltd,13759
+Rushmoor Borough Council,Community,2515,Cleaning,25/11/2021,236910,381.48,Revenue,Ybc Cleaning Services Ltd,8389
+Rushmoor Borough Council,Legal,1210,Contract Staff,18/11/2021,236911,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Contract Staff,18/11/2021,236911,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1208,Devereux House,18/11/2021,236912,474.24,Revenue,Eon,10090
+Rushmoor Borough Council,Community,2554,Food Waste,18/11/2021,236913,335.5,Revenue,Wendy B Employment Consultancy,1743
+Rushmoor Borough Council,Chief Executive,1100,Temporary Staff,18/11/2021,236915,1680,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1210,Contract Staff,18/11/2021,236916,559,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1230,Temporary Staff,18/11/2021,236917,282.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1209,Temporary Staff,18/11/2021,236917,282.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1213,Temporary Staff,18/11/2021,236917,847.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1242,Temporary Staff,18/11/2021,236917,847.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1240,Temporary Staff,18/11/2021,236917,282.5,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Community,2518,Merchandise,18/11/2021,236920,3326.36,Revenue,Event Lights Ltd,5377
+Rushmoor Borough Council,Legal,1202,Counsels Fees,25/11/2021,236921,1450,Revenue,Herrington & Carmichael,1872
+Rushmoor Borough Council,Community,2517,Tree Maintenance,18/11/2021,236922,15679.39,Revenue,John O'Conner (Gm) Ltd,16372
+Rushmoor Borough Council,Legal,1202,Temporary Staff,18/11/2021,236928,1155,Revenue,Sellick Partnership Ltd,15486
+Rushmoor Borough Council,Environmental Health and Housing,2219,Control Outbreak Management Fund,18/11/2021,236929,1862,Revenue,Rushmoor Voluntary Services,838
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,236931,650,Revenue,Tjays Fun4All,15589
+Rushmoor Borough Council,Democratic Services,1327,Postages,18/11/2021,236936,1800.73,Revenue,Royal Mail,821
+Rushmoor Borough Council,Planning,6619,Contract Costs,18/11/2021,236940,14300,Capital,Sovereign Signs Ltd,16439
+Rushmoor Borough Council,Legal,1202,Counsels Fees,18/11/2021,236941,345,Revenue,Geldards Llp,15716
+Rushmoor Borough Council,Strategy and Communiations,1413,Economic Development Promotions,18/11/2021,236942,500,Revenue,Hampshire County Council,1206
+Rushmoor Borough Council,Legal,1213,Responsive Repairs and Maintenance,18/11/2021,236943,8550,Revenue,Hampshire Property (Services) Ltd,13759
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,236944,3690,Revenue,At Creative Ltd,16330
+Rushmoor Borough Council,Information Technology,3304,General Hardware,18/11/2021,236947,350,Revenue,Insight Direct (Uk) Ltd,5302
+Rushmoor Borough Council,Information Technology,3304,Cyber Resilience Grant Expenditure,18/11/2021,236948,1900,Revenue,Phoenix Software,724
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,18/11/2021,236949,498,Revenue,J K  Build Ltd,1239
+Rushmoor Borough Council,Community,2555,General Repairs and Maintenance,18/11/2021,236950,2941.15,Revenue,J K  Build Ltd,1239
+Rushmoor Borough Council,Legal,1202,Counsels Fees,18/11/2021,236951,442,Revenue,Hampshire County Council,1206
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,18/11/2021,236953,545.62,Revenue,Gate-A-Mation Services Ltd,14875
+Rushmoor Borough Council,Strategy and Communiations,1413,Economic Development Promotions,25/11/2021,236955,2000,Revenue,Beauhurst,16626
+Rushmoor Borough Council,Legal,1202,Training Expenses,18/11/2021,236956,1435,Revenue,College Of Law Services Ltd,16627
+Rushmoor Borough Council,Environmental Health and Housing,2246,Equipment Maintenance,18/11/2021,236957,562,Revenue,Baydale Control Systems,12558
+Rushmoor Borough Council,Environmental Health and Housing,2246,Equipment Maintenance,18/11/2021,236958,562,Revenue,Baydale Control Systems,12558
+Rushmoor Borough Council,Legal,1202,Counsels Fees,25/11/2021,236959,3786.7,Revenue,Bevan Brittan Llp,8417
+Rushmoor Borough Council,Customer Services,3804,Contract Staff,18/11/2021,236964,1035,Revenue,G2 Recruitment Solutions,16259
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,236966,1183.5,Revenue,Fools Paradise Limited,16007
+Rushmoor Borough Council,Community,2561,Gas,18/11/2021,236972,301.4,Revenue,Engie Power Limited,16385
+Rushmoor Borough Council,Legal,1213,Temporary Staff,18/11/2021,236973,678,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1242,Temporary Staff,18/11/2021,236973,678,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Strategy and Communiations,1413,Subscriptions,25/11/2021,236974,750,Revenue,Farnborough Aeropspace Consortium Ltd,10828
+Rushmoor Borough Council,Information Technology,3305,Operational Equipment,25/11/2021,236975,329.61,Revenue,Pplprs Ltd,1021
+Rushmoor Borough Council,Community,2526,General Repairs and Maintenance,18/11/2021,236977,282.09,Revenue,Rme Services Ltd,14566
+Rushmoor Borough Council,Legal,1203,Valuation Charges,18/11/2021,236978,15875,Revenue,Wilks Head And Eve,5134
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,18/11/2021,236983,408.44,Revenue,H H Clark (Caterers) Ltd,1393
+Rushmoor Borough Council,Legal,1202,Counsels Fees,25/11/2021,236984,750,Revenue,12 Cp Barristers,13792
+Rushmoor Borough Council,Legal,1213,Lease Renewal Fees,25/11/2021,236985,2300,Revenue,Avison Young,3742
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,18/11/2021,236995,3829,Revenue,Gduk Door Solutions Ltd,445
+Rushmoor Borough Council,Planning,6613,Contract Costs,25/11/2021,237000,252.5,Capital,Plastecowood Ltd,16540
+Rushmoor Borough Council,Strategy and Communiations,1415,In-house Training,25/11/2021,237001,475,Revenue,Cms Training Ltd,9370
+Rushmoor Borough Council,Strategy and Communiations,1417,Accommodation Costs,25/11/2021,237003,416.67,Revenue,Defence Infrastructure Organisation,9473
+Rushmoor Borough Council,Community,2518,Publicity and Advertising,18/11/2021,237009,450,Revenue,A-Z Poster Distribution Ltd,13926
+Rushmoor Borough Council,Community,2517,Tree Maintenance,18/11/2021,237013,678.6,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Planning,6610,Contract Costs,18/11/2021,237017,3847.85,Capital,Ava Recreation Ltd,15997
+Rushmoor Borough Council,Community,2517,Aldershot Cricket Club Autumn Renovation,18/11/2021,237018,900,Revenue,Velocity Sports Ltd,13216
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,18/11/2021,237019,303.64,Revenue,H H Clark (Caterers) Ltd,1393
+Rushmoor Borough Council,Legal,1202,Software Maintenance,25/11/2021,237021,4416,Revenue,Iken Business Ltd,15673
+Rushmoor Borough Council,Community,2551,Gas,25/11/2021,237024,2903.05,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Information Technology,3305,Gas,18/11/2021,237035,2225.98,Revenue,Kent County Council (Kcs),14130
+Rushmoor Borough Council,Information Technology,3300,Admin Equipment,25/11/2021,237043,250.44,Revenue,Link Up Ltd,12735
+Rushmoor Borough Council,Environmental Health and Housing,2402,Miscellaneous Expenses,18/11/2021,237044,2890,Revenue,Wills Chandler Solicitors,16630
+Rushmoor Borough Council,Community,2517,Tree Maintenance,25/11/2021,237045,360,Revenue,D Rickwood,1218
+Rushmoor Borough Council,Community,2540,Amenity Variations,25/11/2021,237045,360,Revenue,D Rickwood,1218
+Rushmoor Borough Council,Community,2502,Routine Grounds Maintenance,25/11/2021,237045,540,Revenue,D Rickwood,1218
+Rushmoor Borough Council,Community,2502,Routine Grounds Maintenance,25/11/2021,237045,360,Revenue,D Rickwood,1218
+Rushmoor Borough Council,Community,2517,Tree Maintenance,25/11/2021,237045,1800,Revenue,D Rickwood,1218
+Rushmoor Borough Council,Community,2537,Littering and Dog Fouling FPN,25/11/2021,237049,6077,Revenue,East Hampshire District Council,323
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,25/11/2021,237050,1303.55,Revenue,Streetmaster (South Wales) Ltd,2351
+Rushmoor Borough Council,Community,2518,Payment to Artistes,25/11/2021,237056,2037.89,Revenue,All Star Superslam Wrestling,14798
+Rushmoor Borough Council,Community,2518,Payment to Artistes,25/11/2021,237057,7062.65,Revenue,Phil Aldridge Productions Ltd,15359
+Rushmoor Borough Council,Community,2518,Payment to Artistes,25/11/2021,237058,987.76,Revenue,Neil Sands Productions,7978
+Rushmoor Borough Council,Environmental Health and Housing,2402,Non Statutory Homeless Rent Deposit,25/11/2021,237059,625,Revenue,Foster Properties,11478
+Rushmoor Borough Council,Democratic Services,1304,Hire of Transport,25/11/2021,237060,252.35,Revenue,Exclusive Cars (Guildford) Ltd,353
+Rushmoor Borough Council,Planning,6613,Contract Costs,25/11/2021,237061,4700,Capital,Pyramid Steel,12470
+Rushmoor Borough Council,Information Technology,3302,Application Software,25/11/2021,237062,573.37,Revenue,Phoenix Software,724
+Rushmoor Borough Council,Legal,1212,General Repairs and Maintenance,25/11/2021,237063,1046.5,Revenue,J K  Build Ltd,1239
+Rushmoor Borough Council,Legal,1213,Responsive Repairs and Maintenance,25/11/2021,237064,2265,Revenue,Cooper And Withycombe,13479
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,237072,577.5,Revenue,Hayley Bush Creative Design,15157
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,25/11/2021,237074,575,Revenue,Cactus Brass,13235
+Rushmoor Borough Council,Legal,1213,Contract Staff,25/11/2021,237076,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1210,Contract Staff,25/11/2021,237076,600,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Chief Executive,1100,Temporary Staff,25/11/2021,237077,1680,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1210,Contract Staff,25/11/2021,237079,559,Revenue,Park Avenue Recruitment,15709
+Rushmoor Borough Council,Legal,1202,Temporary Staff,25/11/2021,237083,1155,Revenue,Sellick Partnership Ltd,15486
+Rushmoor Borough Council,Holding Accounts,9421,Covid19 Costs,25/11/2021,237086,4684.34,Holding Accounts,Carritech Limited,11400
+Rushmoor Borough Council,Community,2551,Caskets and Urns,25/11/2021,237089,502.95,Revenue,Ashdown Supplies,118
+Rushmoor Borough Council,Community,2517,Tree Maintenance,25/11/2021,237090,672.4,Revenue,Transform Landscapes,16032
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,25/11/2021,237091,815.68,Revenue,Bentons,12526
+Rushmoor Borough Council,Information Technology,3304,Azure,25/11/2021,237092,1233.74,Revenue,Phoenix Software,724
+Rushmoor Borough Council,Information Technology,3300,Admin Equipment,25/11/2021,237093,364.14,Revenue,Daisy Corporate Services Trading Ltd,9349
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,25/11/2021,237094,702.33,Revenue,J K  Build Ltd,1239
+Rushmoor Borough Council,Community,2517,Removal of Benches,25/11/2021,237099,1656,Revenue,Serco Ltd,13135
+Rushmoor Borough Council,Community,2518,Temporary Staff,25/11/2021,237101,270,Revenue,Tango Security Ltd,1412
+Rushmoor Borough Council,Community,2551,Tree Maintenance,25/11/2021,237102,2328,Revenue,Charterhouse Tree Care,11919
+Rushmoor Borough Council,Chief Executive,1100,Temporary Staff,25/11/2021,237103,10050,Revenue,Solace In Business Ltd,14403
+Rushmoor Borough Council,Legal,1206,General Repairs and Maintenance,25/11/2021,237105,-530,Revenue,Hampshire Property (Services) Ltd,13759
+Rushmoor Borough Council,Community,2554,Food Waste,25/11/2021,237107,564.25,Revenue,Wendy B Employment Consultancy,1743
+Rushmoor Borough Council,Community,2551,Memorial Vaults,25/11/2021,237111,579.5,Revenue,The Columbaria Company,993
+Rushmoor Borough Council,Community,2517,Tree Planting,25/11/2021,237113,2202,Revenue,Barcham Trees Plc,5881
+Rushmoor Borough Council,Community,2517,Playground Apparatus,25/11/2021,237123,1467.22,Revenue,Hags-Smp Ltd,4499
+Rushmoor Borough Council,Legal,1200,Hampshire County Council Searches,25/11/2021,237125,2255,Revenue,Hampshire County Council,1206
+Rushmoor Borough Council,Legal,1200,Hampshire County Council Searches,25/11/2021,237126,2091,Revenue,Hampshire County Council,1206
+Rushmoor Borough Council,Information Technology,3302,Application Software,25/11/2021,237132,299.46,Revenue,Phoenix Software,724
+Rushmoor Borough Council,Environmental Health and Housing,2218,Vehicle Plates,25/11/2021,237134,1785.83,Revenue,Vip-System Limited,11630
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,237138,5000,Revenue,Hopkins Associates Ltd,463
+Rushmoor Borough Council,Community,2518,Payment to Artistes,25/11/2021,237140,6180.5,Revenue,Fane Productions Ltd,16640
+Rushmoor Borough Council,Community,2507,General Repairs and Maintenance,25/11/2021,237142,479.47,Revenue,Brookside Pre School Ltd,16339
+Rushmoor Borough Council,Customer Services,3804,Contract Staff,25/11/2021,237146,1110,Revenue,G2 Recruitment Solutions,16259
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,25/11/2021,237155,497.49,Revenue,Temple Lifts Limited,12997
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/11/2021,80015235,4385,Capital,K & P Installations,16577
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/11/2021,80015236,4615,Capital,Handicare Accessibility Ltd,13797
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/11/2021,80015247,4787,Capital,Ken Kinch,15907
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,04/11/2021,80015248,550,Control Accounts,Foster Properties,11478
+Rushmoor Borough Council,Community,2518,Agency Sales,04/11/2021,80015249,8900,Revenue,Stagecoach Basingstoke,15495
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/11/2021,80015253,4430.62,Capital,Kemp Builders,14974
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/11/2021,80015254,2556.74,Capital,Kemp Builders,14974
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/11/2021,80015255,3443.26,Capital,Bjc Design,14608
+Rushmoor Borough Council,Community,2518,Agency Sales,04/11/2021,80015257,2880,Revenue,Shy Productions,16598
+Rushmoor Borough Council,Community,2518,Service Charges,04/11/2021,80015258,300,Revenue,Angela Cantan,15113
+Rushmoor Borough Council,Legal,1242,Agents Fees,04/11/2021,80015264,6300,Revenue,Curchod & Co,16602
+Rushmoor Borough Council,Community,2518,Agency Sales,04/11/2021,80015266,5162.5,Revenue,Senta Renton,12175
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,11/11/2021,80015267,1763.64,Capital,Bjc Design,14608
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,11/11/2021,80015268,16330,Capital,R H Collings & Son,12238
+Rushmoor Borough Council,Environmental Health and Housing,2402,Rent Deposits,01/11/2021,80015270,1038.46,Revenue,Mr R Wehrli,15732
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,01/11/2021,80015270,692.31,Control Accounts,Mr R Wehrli,15732
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,02/11/2021,80015272,475,Control Accounts,Nigel Budgen,16604
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,02/11/2021,80015273,500,Revenue,Redacted personal data,16605
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,02/11/2021,80015274,500,Revenue,Redacted personal data,16103
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,02/11/2021,80015275,500,Revenue,Redacted personal data,16606
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,02/11/2021,80015276,500,Revenue,Redacted personal data,16608
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,02/11/2021,80015278,775,Control Accounts,Kingsfield Court Ltd,16609
+Rushmoor Borough Council,Community,2543,Aldershot Promotions,02/11/2021,80015279,305.05,Revenue,Redacted personal data,15247
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,03/11/2021,80015280,500,Revenue,Redacted personal data,16610
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,03/11/2021,80015281,500,Revenue,Redacted personal data,16611
+Rushmoor Borough Council,Environmental Health and Housing,2402,Rent Deposits,05/11/2021,80015282,1032,Revenue,Lk Lettings & Co,16523
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,05/11/2021,80015282,895,Control Accounts,Lk Lettings & Co,16523
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Discretionary Payments,04/11/2021,80015283,500,Revenue,Redacted personal data,16612
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Discretionary Payments,04/11/2021,80015284,500,Revenue,Redacted personal data,16613
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,02/11/2021,80015285,500,Revenue,Redacted personal data,16607
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,08/11/2021,80015288,500,Revenue,Redacted personal data,16616
+Rushmoor Borough Council,Environmental Health and Housing,6400,Housing Renewal Grants,11/11/2021,80015289,4371.85,Capital,Neaterheat,16617
+Rushmoor Borough Council,Legal,1202,Data Protection Register,11/11/2021,80015291,2900,Revenue,Information Commissioner,5812
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,11/11/2021,80015293,500,Control Accounts,Mr Mark Raggett,6505
+Rushmoor Borough Council,Community,2513,Direct Grants,11/11/2021,80015294,1500,Revenue,Aldershot & District West Indian Assoc,6996
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,09/11/2021,80015295,500,Revenue,Redacted personal data,16619
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,10/11/2021,80015296,500,Revenue,Redacted personal data,16620
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,09/11/2021,80015297,500,Revenue,Redacted personal data,16621
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,05/11/2021,80015298,500,Revenue,Redacted personal data,16614
+Rushmoor Borough Council,Community,2513,Direct Grants,11/11/2021,80015312,1000,Revenue, Royal British Legion,13869
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,11/11/2021,80015313,11000,Capital,Southern Counties Building Solutions Lt,13340
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,10/11/2021,80015318,500,Revenue,Redacted personal data,16420
+Rushmoor Borough Council,Environmental Health and Housing,2402,Non Statutory Homeless Rent Deposit,10/11/2021,80015319,476,Revenue,Mr Mark Raggett,6505
+Rushmoor Borough Council,Environmental Health and Housing,2402,Non Statutory Homeless Rent Deposit,10/11/2021,80015319,610,Revenue,Mr Mark Raggett,6505
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Discretionary Payments,10/11/2021,80015320,500,Revenue,Redacted personal data,16443
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015321,1710,Capital,Whitehouse Building Specialists,16552
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015323,4752.53,Capital,Rocon Contractors Ltd,2821
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015324,478.98,Capital,Bjc Design,14608
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015325,427.73,Capital,Bjc Design,14608
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015326,5340,Capital,Adaptec Mobility,15990
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015327,8500,Capital,Whitehouse Building Specialists,16552
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,18/11/2021,80015330,675,Control Accounts,Foster Properties,11478
+Rushmoor Borough Council,Strategy and Communiations,1415,Apprenticeship Levy,18/11/2021,80015335,3070,Revenue,Hm Revenue & Customs,489
+Rushmoor Borough Council,Community,2518,Agency Sales,18/11/2021,80015337,4184,Revenue,Jmg Music Group,16631
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/11/2021,80015339,1640,Capital,Handicare Accessibility Ltd,13797
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015340,400,Revenue,Hopkins Associates Ltd,16632
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015341,500,Revenue,Hopkins Associates Ltd,12920
+Rushmoor Borough Council,Environmental Health and Housing,2228,Repairs and Maintenance,18/11/2021,80015342,648,Revenue,Mw Automotive Ltd T/A Chips Away,16633
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015343,400,Revenue,Hopkins Associates Ltd,16634
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015344,450,Revenue,Hopkins Associates Ltd,13923
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015345,450,Revenue,Hopkins Associates Ltd,14816
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015346,400,Revenue,Hopkins Associates Ltd,16635
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015347,1260,Revenue,Hopkins Associates Ltd,12402
+Rushmoor Borough Council,Community,2518,Panto Expenditure,18/11/2021,80015348,780,Revenue,Hopkins Associates Ltd,12917
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,16/11/2021,80015349,500,Revenue,Redacted personal data,16636
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,18/11/2021,80015356,500,Revenue,Redacted personal data,16638
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Discretionary Payments,18/11/2021,80015357,500,Revenue,Redacted personal data,16087
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,17/11/2021,80015358,500,Revenue,Redacted personal data,16639
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,18/11/2021,80015361,500,Control Accounts,Mr Mark Raggett,6505
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,18/11/2021,80015362,550,Control Accounts,Foster Properties,11478
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015363,700,Revenue,Hopkins Associates Ltd,16632
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015364,800,Revenue,Hopkins Associates Ltd,12920
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015365,700,Revenue,Hopkins Associates Ltd,16634
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015366,700,Revenue,Hopkins Associates Ltd,13923
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015367,700,Revenue,Hopkins Associates Ltd,14816
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015368,700,Revenue,Hopkins Associates Ltd,16635
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015369,1260,Revenue,Hopkins Associates Ltd,12402
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015370,780,Revenue,Hopkins Associates Ltd,12917
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,25/11/2021,80015371,3923,Capital,Hampshire Property (Services) Ltd,13759
+Rushmoor Borough Council,Community,2513,Direct Grants,25/11/2021,80015372,400,Revenue,South Farnborough Junior School,10717
+Rushmoor Borough Council,Community,2513,Direct Grants,25/11/2021,80015373,600,Revenue,Heart Of Farnborough,16641
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,25/11/2021,80015374,900,Control Accounts,Mrs Penny Drage,16642
+Rushmoor Borough Council,Community,2513,Direct Grants,25/11/2021,80015377,390,Revenue,Brendon Care,13514
+Rushmoor Borough Council,Community,2513,Direct Grants,25/11/2021,80015378,710.22,Revenue,10Th Farnborough Scouts,16645
+Rushmoor Borough Council,Environmental Health and Housing,2402,Non Statutory Homeless Rent Deposit,25/11/2021,80015379,500,Revenue,Foster Properties,11478
+Rushmoor Borough Council,Community,2513,Direct Grants,25/11/2021,80015380,400,Revenue,South Farnborough Junior School,10717
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015381,500,Revenue,Hopkins Associates Ltd,12399
+Rushmoor Borough Council,Community,2518,Panto Expenditure,25/11/2021,80015382,500,Revenue,Hopkins Associates Ltd,16646
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,19/11/2021,80015395,500,Revenue,Redacted personal data,16648
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,19/11/2021,80015396,500,Revenue,Redacted personal data,16649
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,24/11/2021,80015398,730.77,Control Accounts,Vickery And Company Residential Letting,9697
+Rushmoor Borough Council,Environmental Health and Housing,2402,Rent Deposits,24/11/2021,80015398,1096.15,Revenue,Vickery And Company Residential Letting,9697
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Standard Payments,24/11/2021,80015399,500,Revenue,Redacted personal data,16651
+Rushmoor Borough Council,Customer Services,3811,Test and Trace Support Discretionary Payments,24/11/2021,80015400,500,Revenue,Redacted personal data,16652
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,25/11/2021,80015405,294,Control Accounts,Newlife Lettings,5803
+Rushmoor Borough Council,Personnel & Payroll,1415,Health Care,05/11/2021,37,1093.19,Revenue,National Deposit,DD1
+Rushmoor Borough Council,Customer Services,1327,Telephones,25/11/2021,7,379.05,Revenue,Southern Communities,DD2
+Rushmoor Borough Council,Community,2518,Access/Cardnet,19/11/2021,27,784.29,Revenue,Spektrix,DD3
+Rushmoor Borough Council,Community,2518,Princes Hall Spektrix,19/11/2021,79,2506.77,Revenue,Spektrix,DD4
+Rushmoor Borough Council,Information Technology,3302,Application Software,27/11/2021,7,830.55,Revenue,Bottomline Technologies,DD5
+Rushmoor Borough Council,Financial Services,3403,Bank Charges,04/11/2021,57,757.85,Revenue,Lloyds Bank,DD6
+Rushmoor Borough Council,Financial Services,3805,Girobank Fees,18/11/2021,32,576.93,Revenue,Santander,DD7
+Rushmoor Borough Council,Financial Services,3805,Access/Cardnet,20/11/2021,53,572.21,Revenue,Capita,DD8
+Rushmoor Borough Council,Financial Services,3805,Access/Cardnet,20/11/2021,70,1994.67,Revenue,Capita,DD9

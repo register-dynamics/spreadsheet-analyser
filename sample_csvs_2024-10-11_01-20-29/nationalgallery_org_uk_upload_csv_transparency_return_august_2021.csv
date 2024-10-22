@@ -1,0 +1,15 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount
+DCMS,National Gallery,06/09/2021,Building Works,Buildings,CBRE Managed Services Ltd,10363489,"132,976.55"
+DCMS,National Gallery,23/08/2021,Building Works,Buildings,CBRE Managed Services Ltd,10362969,"77,801.83"
+DCMS,National Gallery,13/09/2021,Building Works,Buildings,CBRE Managed Services Ltd,10363565,"29,125.58"
+DCMS,National Gallery,13/09/2021,Building Works,Buildings,CBRE Managed Services Ltd,10363562,"132,976.55"
+DCMS,National Gallery,31/08/2021,Computer Software inc. online licenses,People Services,CIPHR Limited,10363258,"45,920.00"
+DCMS,National Gallery,31/08/2021,Gas,Buildings,Corona Energy Retail 4 Ltd,10363333,"45,316.24"
+DCMS,National Gallery,23/08/2021,Contract cleaning,Operations Department,DOC Cleaning Limited,10362891,"59,910.57"
+DCMS,National Gallery,23/08/2021,Electricity,Buildings,EDF Energy 1 Limited,10363033,"57,182.27"
+DCMS,National Gallery,31/08/2021,Operational Consultants,Commercial Services,National Gallery Company Ltd,10363278,"224,000.00"
+DCMS,National Gallery,26/08/2021,Frames,Framing,Norbert Theiss,10363740,"27,014.64"
+DCMS,National Gallery,31/08/2021,Contract & Non-contract Security,Operations Department,Securitas Security Services (UK) Ltd,10363182,"440,535.17"
+DCMS,National Gallery,13/09/2021,Equipment - Capital,Photography and Imaging,Warehouse Express Limited t/a WEX Photographic,10363686,"30,450.56"
+,,,,,,,"1,303,209.96"
+,,,`,,,,

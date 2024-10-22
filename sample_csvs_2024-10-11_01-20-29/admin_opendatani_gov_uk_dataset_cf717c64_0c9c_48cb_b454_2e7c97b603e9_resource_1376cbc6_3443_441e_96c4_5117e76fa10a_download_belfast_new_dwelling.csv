@@ -1,0 +1,1141 @@
+﻿District,Ward,SaleYr,Type,Ward_VerifiedSales,Reporting_MinPrice,Reporting_LQPrice,Reporting_MedianPrice,Reporting_MeanPrice,Reporting_UQPrice,Reporting_MaxPrice
+BELFAST,ANDERSONSTOWN,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2006,New Dwelling,6,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2007,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2014,New Dwelling,3,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ANDERSONSTOWN,2021,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ANDERSONSTOWN,2023,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ARDOYNE,2005,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ARDOYNE,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2007,New Dwelling,3,.,.,.,.,.,.
+BELFAST,ARDOYNE,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ARDOYNE,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,ARDOYNE,2013,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ARDOYNE,2014,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ARDOYNE,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ARDOYNE,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ARDOYNE,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYGOMARTIN,2005,New Dwelling,26,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2006,New Dwelling,32,50000,96950,116000,119392,137856,200000
+BELFAST,BALLYGOMARTIN,2007,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2008,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2009,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2010,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2011,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2012,New Dwelling,8,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2013,New Dwelling,13,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2014,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2015,New Dwelling,10,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYGOMARTIN,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYGOMARTIN,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYGOMARTIN,2019,New Dwelling,20,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2020,New Dwelling,19,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2021,New Dwelling,13,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2022,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BALLYGOMARTIN,2023,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMACARRETT,2006,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2007,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMACARRETT,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMACARRETT,2011,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2012,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2013,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2014,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2015,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMACARRETT,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMACARRETT,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMACARRETT,2019,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2020,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2022,New Dwelling,8,.,.,.,.,.,.
+BELFAST,BALLYMACARRETT,2023,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2006,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2007,New Dwelling,15,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2014,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYMURPHY,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYMURPHY,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYSILLAN,2005,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2006,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2007,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYSILLAN,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYSILLAN,2010,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2013,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2014,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2015,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYSILLAN,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BALLYSILLAN,2018,New Dwelling,8,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2019,New Dwelling,13,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2020,New Dwelling,19,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2021,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BALLYSILLAN,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2005,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2006,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2007,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2009,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEECHMOUNT,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEECHMOUNT,2014,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2015,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEECHMOUNT,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEECHMOUNT,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEECHMOUNT,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEECHMOUNT,2021,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEECHMOUNT,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2005,New Dwelling,20,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2006,New Dwelling,73,72220,100950,111975,132394,148500,289950
+BELFAST,BEERSBRIDGE,2007,New Dwelling,37,30000,117950,175000,169526,230000,250000
+BELFAST,BEERSBRIDGE,2008,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2010,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2012,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2013,New Dwelling,14,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2014,New Dwelling,23,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2015,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2017,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2018,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BEERSBRIDGE,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2021,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2022,New Dwelling,8,.,.,.,.,.,.
+BELFAST,BEERSBRIDGE,2023,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BELLEVUE,2005,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BELLEVUE,2006,New Dwelling,16,.,.,.,.,.,.
+BELFAST,BELLEVUE,2007,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BELLEVUE,2008,New Dwelling,10,.,.,.,.,.,.
+BELFAST,BELLEVUE,2009,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELLEVUE,2010,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BELLEVUE,2011,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BELLEVUE,2012,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BELLEVUE,2013,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BELLEVUE,2014,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BELLEVUE,2015,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BELLEVUE,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BELLEVUE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BELLEVUE,2018,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BELLEVUE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BELLEVUE,2020,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BELLEVUE,2021,New Dwelling,24,.,.,.,.,.,.
+BELFAST,BELLEVUE,2022,New Dwelling,18,.,.,.,.,.,.
+BELFAST,BELLEVUE,2023,New Dwelling,14,.,.,.,.,.,.
+BELFAST,BELMONT,2005,New Dwelling,16,.,.,.,.,.,.
+BELFAST,BELMONT,2006,New Dwelling,35,155000,245000,249950,273438,299950,500000
+BELFAST,BELMONT,2007,New Dwelling,14,.,.,.,.,.,.
+BELFAST,BELMONT,2008,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BELMONT,2009,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BELMONT,2010,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELMONT,2011,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BELMONT,2012,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BELMONT,2013,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BELMONT,2014,New Dwelling,8,.,.,.,.,.,.
+BELFAST,BELMONT,2015,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BELMONT,2016,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELMONT,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BELMONT,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BELMONT,2019,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BELMONT,2020,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELMONT,2021,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELMONT,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BELMONT,2023,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELVOIR,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BELVOIR,2006,New Dwelling,16,.,.,.,.,.,.
+BELFAST,BELVOIR,2007,New Dwelling,18,.,.,.,.,.,.
+BELFAST,BELVOIR,2008,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BELVOIR,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BELVOIR,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BELVOIR,2011,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BELVOIR,2012,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BELVOIR,2013,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BELVOIR,2014,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BELVOIR,2015,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BELVOIR,2016,New Dwelling,27,.,.,.,.,.,.
+BELFAST,BELVOIR,2017,New Dwelling,15,.,.,.,.,.,.
+BELFAST,BELVOIR,2018,New Dwelling,40,131550,327500,375000,373029,405000,550000
+BELFAST,BELVOIR,2019,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BELVOIR,2020,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BELVOIR,2021,New Dwelling,12,.,.,.,.,.,.
+BELFAST,BELVOIR,2022,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BELVOIR,2023,New Dwelling,19,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2006,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2007,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2008,New Dwelling,67,119950,138950,155950,165039,173500,327500
+BELFAST,BLACKSTAFF,2009,New Dwelling,9,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2011,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2012,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2013,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2014,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2015,New Dwelling,8,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BLACKSTAFF,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BLACKSTAFF,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BLACKSTAFF,2019,New Dwelling,22,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2020,New Dwelling,28,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2021,New Dwelling,27,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2022,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BLACKSTAFF,2023,New Dwelling,10,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2005,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2006,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2007,New Dwelling,6,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2008,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2009,New Dwelling,7,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2010,New Dwelling,4,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2013,New Dwelling,11,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2014,New Dwelling,5,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2015,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BLOOMFIELD,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BLOOMFIELD,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,BLOOMFIELD,2019,New Dwelling,2,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2021,New Dwelling,3,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,BLOOMFIELD,2023,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CAVEHILL,2005,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CAVEHILL,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2007,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2009,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CAVEHILL,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CAVEHILL,2012,New Dwelling,8,.,.,.,.,.,.
+BELFAST,CAVEHILL,2013,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CAVEHILL,2014,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2018,New Dwelling,5,.,.,.,.,.,.
+BELFAST,CAVEHILL,2019,New Dwelling,10,.,.,.,.,.,.
+BELFAST,CAVEHILL,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CAVEHILL,2021,New Dwelling,5,.,.,.,.,.,.
+BELFAST,CAVEHILL,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CAVEHILL,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CENTRAL,2005,New Dwelling,11,.,.,.,.,.,.
+BELFAST,CENTRAL,2006,New Dwelling,30,58548,165000,185750,180635,195000,250000
+BELFAST,CENTRAL,2007,New Dwelling,24,.,.,.,.,.,.
+BELFAST,CENTRAL,2008,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CENTRAL,2009,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CENTRAL,2010,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CENTRAL,2011,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CENTRAL,2012,New Dwelling,8,.,.,.,.,.,.
+BELFAST,CENTRAL,2013,New Dwelling,9,.,.,.,.,.,.
+BELFAST,CENTRAL,2014,New Dwelling,16,.,.,.,.,.,.
+BELFAST,CENTRAL,2015,New Dwelling,10,.,.,.,.,.,.
+BELFAST,CENTRAL,2016,New Dwelling,11,.,.,.,.,.,.
+BELFAST,CENTRAL,2017,New Dwelling,30,.,.,.,.,.,.
+BELFAST,CENTRAL,2018,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CENTRAL,2019,New Dwelling,24,.,.,.,.,.,.
+BELFAST,CENTRAL,2020,New Dwelling,13,.,.,.,.,.,.
+BELFAST,CENTRAL,2021,New Dwelling,20,.,.,.,.,.,.
+BELFAST,CENTRAL,2022,New Dwelling,29,.,.,.,.,.,.
+BELFAST,CENTRAL,2023,New Dwelling,35,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2005,New Dwelling,8,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2006,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2007,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CHICHESTER PARK,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CHICHESTER PARK,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2011,New Dwelling,5,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2013,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2014,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2015,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2016,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2017,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2018,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CHICHESTER PARK,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2021,New Dwelling,9,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2022,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CHICHESTER PARK,2023,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2006,New Dwelling,5,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2007,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2008,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2014,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2015,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2016,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2018,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLIFTONVILLE,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CLIFTONVILLE,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLONARD,2005,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CLONARD,2006,New Dwelling,12,.,.,.,.,.,.
+BELFAST,CLONARD,2007,New Dwelling,38,35745,99376,109840,123505,152950,210000
+BELFAST,CLONARD,2008,New Dwelling,12,.,.,.,.,.,.
+BELFAST,CLONARD,2009,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CLONARD,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CLONARD,2011,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CLONARD,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CLONARD,2013,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CLONARD,2014,New Dwelling,8,.,.,.,.,.,.
+BELFAST,CLONARD,2015,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CLONARD,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLONARD,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLONARD,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLONARD,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLONARD,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CLONARD,2021,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CLONARD,2022,New Dwelling,4,.,.,.,.,.,.
+BELFAST,CLONARD,2023,New Dwelling,5,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2005,New Dwelling,8,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2006,New Dwelling,13,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2007,New Dwelling,5,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2012,New Dwelling,2,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2013,New Dwelling,2,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2014,New Dwelling,4,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,COLLIN GLEN,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,COLLIN GLEN,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CONNSWATER,2005,New Dwelling,39,57500,106000,119950,115595,129950,173000
+BELFAST,CONNSWATER,2006,New Dwelling,30,117000,141000,164500,160095,174000,231000
+BELFAST,CONNSWATER,2007,New Dwelling,20,.,.,.,.,.,.
+BELFAST,CONNSWATER,2008,New Dwelling,8,.,.,.,.,.,.
+BELFAST,CONNSWATER,2009,New Dwelling,5,.,.,.,.,.,.
+BELFAST,CONNSWATER,2010,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CONNSWATER,2011,New Dwelling,5,.,.,.,.,.,.
+BELFAST,CONNSWATER,2012,New Dwelling,10,.,.,.,.,.,.
+BELFAST,CONNSWATER,2013,New Dwelling,7,.,.,.,.,.,.
+BELFAST,CONNSWATER,2014,New Dwelling,24,.,.,.,.,.,.
+BELFAST,CONNSWATER,2015,New Dwelling,12,.,.,.,.,.,.
+BELFAST,CONNSWATER,2016,New Dwelling,9,.,.,.,.,.,.
+BELFAST,CONNSWATER,2017,New Dwelling,6,.,.,.,.,.,.
+BELFAST,CONNSWATER,2018,New Dwelling,1,.,.,.,.,.,.
+BELFAST,CONNSWATER,2019,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CONNSWATER,2020,New Dwelling,3,.,.,.,.,.,.
+BELFAST,CONNSWATER,2021,New Dwelling,15,.,.,.,.,.,.
+BELFAST,CONNSWATER,2022,New Dwelling,10,.,.,.,.,.,.
+BELFAST,CONNSWATER,2023,New Dwelling,11,.,.,.,.,.,.
+BELFAST,CREGAGH,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2007,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2014,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,CREGAGH,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,CREGAGH,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,DUNCAIRN,2005,New Dwelling,5,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2006,New Dwelling,25,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2007,New Dwelling,18,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2008,New Dwelling,7,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2009,New Dwelling,23,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2010,New Dwelling,18,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2011,New Dwelling,32,60000,113000,175000,166373,202000,360000
+BELFAST,DUNCAIRN,2012,New Dwelling,12,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2013,New Dwelling,25,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2014,New Dwelling,22,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2015,New Dwelling,13,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2016,New Dwelling,3,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,DUNCAIRN,2018,New Dwelling,1,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2021,New Dwelling,11,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2022,New Dwelling,8,.,.,.,.,.,.
+BELFAST,DUNCAIRN,2023,New Dwelling,32,85500,140000,179950,170421,184950,280000
+BELFAST,DUNMURRY,2005,New Dwelling,1,.,.,.,.,.,.
+BELFAST,DUNMURRY,2006,New Dwelling,11,.,.,.,.,.,.
+BELFAST,DUNMURRY,2007,New Dwelling,14,.,.,.,.,.,.
+BELFAST,DUNMURRY,2008,New Dwelling,8,.,.,.,.,.,.
+BELFAST,DUNMURRY,2009,New Dwelling,9,.,.,.,.,.,.
+BELFAST,DUNMURRY,2010,New Dwelling,2,.,.,.,.,.,.
+BELFAST,DUNMURRY,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,DUNMURRY,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,DUNMURRY,2013,New Dwelling,7,.,.,.,.,.,.
+BELFAST,DUNMURRY,2014,New Dwelling,15,.,.,.,.,.,.
+BELFAST,DUNMURRY,2015,New Dwelling,7,.,.,.,.,.,.
+BELFAST,DUNMURRY,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,DUNMURRY,2017,New Dwelling,7,.,.,.,.,.,.
+BELFAST,DUNMURRY,2018,New Dwelling,6,.,.,.,.,.,.
+BELFAST,DUNMURRY,2019,New Dwelling,3,.,.,.,.,.,.
+BELFAST,DUNMURRY,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,DUNMURRY,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,DUNMURRY,2022,New Dwelling,4,.,.,.,.,.,.
+BELFAST,DUNMURRY,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2006,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS,2007,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2011,New Dwelling,3,.,.,.,.,.,.
+BELFAST,FALLS,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2014,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FALLS,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS PARK,2005,New Dwelling,5,.,.,.,.,.,.
+BELFAST,FALLS PARK,2006,New Dwelling,5,.,.,.,.,.,.
+BELFAST,FALLS PARK,2007,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS PARK,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS PARK,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2014,New Dwelling,7,.,.,.,.,.,.
+BELFAST,FALLS PARK,2015,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FALLS PARK,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS PARK,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS PARK,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FALLS PARK,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FALLS PARK,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FALLS PARK,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FINAGHY,2006,New Dwelling,12,.,.,.,.,.,.
+BELFAST,FINAGHY,2007,New Dwelling,4,.,.,.,.,.,.
+BELFAST,FINAGHY,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FINAGHY,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FINAGHY,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FINAGHY,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FINAGHY,2013,New Dwelling,3,.,.,.,.,.,.
+BELFAST,FINAGHY,2014,New Dwelling,3,.,.,.,.,.,.
+BELFAST,FINAGHY,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2018,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FINAGHY,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2020,New Dwelling,15,.,.,.,.,.,.
+BELFAST,FINAGHY,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FINAGHY,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2006,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2007,New Dwelling,14,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2014,New Dwelling,6,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2015,New Dwelling,4,.,.,.,.,.,.
+BELFAST,FORTH RIVER,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTH RIVER,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTWILLIAM,2005,New Dwelling,16,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2006,New Dwelling,10,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2007,New Dwelling,7,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2008,New Dwelling,4,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2009,New Dwelling,4,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2010,New Dwelling,5,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2011,New Dwelling,7,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2012,New Dwelling,4,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2013,New Dwelling,6,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2014,New Dwelling,6,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2015,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTWILLIAM,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTWILLIAM,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTWILLIAM,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTWILLIAM,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,FORTWILLIAM,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,FORTWILLIAM,2023,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2005,New Dwelling,3,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2006,New Dwelling,4,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2007,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2008,New Dwelling,7,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2009,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2010,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,GARNERVILLE,2012,New Dwelling,4,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2013,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2014,New Dwelling,6,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2015,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2016,New Dwelling,8,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2017,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,GARNERVILLE,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,GARNERVILLE,2021,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GARNERVILLE,2023,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2006,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2007,New Dwelling,3,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,GILNAHIRK,2009,New Dwelling,3,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,GILNAHIRK,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2012,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2013,New Dwelling,5,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2014,New Dwelling,4,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2015,New Dwelling,1,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2016,New Dwelling,4,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2017,New Dwelling,7,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2018,New Dwelling,3,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,GILNAHIRK,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,GILNAHIRK,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,HILLFOOT,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,HILLFOOT,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2007,New Dwelling,7,.,.,.,.,.,.
+BELFAST,HILLFOOT,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,HILLFOOT,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,HILLFOOT,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,HILLFOOT,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,HILLFOOT,2013,New Dwelling,5,.,.,.,.,.,.
+BELFAST,HILLFOOT,2014,New Dwelling,4,.,.,.,.,.,.
+BELFAST,HILLFOOT,2015,New Dwelling,1,.,.,.,.,.,.
+BELFAST,HILLFOOT,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2017,New Dwelling,3,.,.,.,.,.,.
+BELFAST,HILLFOOT,2018,New Dwelling,3,.,.,.,.,.,.
+BELFAST,HILLFOOT,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,HILLFOOT,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,INNISFAYLE,2005,New Dwelling,6,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2006,New Dwelling,6,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2007,New Dwelling,9,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2008,New Dwelling,3,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,INNISFAYLE,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2011,New Dwelling,5,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2012,New Dwelling,5,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2013,New Dwelling,7,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2014,New Dwelling,6,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2015,New Dwelling,6,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,INNISFAYLE,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,INNISFAYLE,2019,New Dwelling,11,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2021,New Dwelling,7,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2022,New Dwelling,6,.,.,.,.,.,.
+BELFAST,INNISFAYLE,2023,New Dwelling,6,.,.,.,.,.,.
+BELFAST,KNOCK,2005,New Dwelling,7,.,.,.,.,.,.
+BELFAST,KNOCK,2006,New Dwelling,8,.,.,.,.,.,.
+BELFAST,KNOCK,2007,New Dwelling,6,.,.,.,.,.,.
+BELFAST,KNOCK,2008,New Dwelling,3,.,.,.,.,.,.
+BELFAST,KNOCK,2009,New Dwelling,3,.,.,.,.,.,.
+BELFAST,KNOCK,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,KNOCK,2011,New Dwelling,11,.,.,.,.,.,.
+BELFAST,KNOCK,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,KNOCK,2013,New Dwelling,11,.,.,.,.,.,.
+BELFAST,KNOCK,2014,New Dwelling,10,.,.,.,.,.,.
+BELFAST,KNOCK,2015,New Dwelling,16,.,.,.,.,.,.
+BELFAST,KNOCK,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,KNOCK,2017,New Dwelling,1,.,.,.,.,.,.
+BELFAST,KNOCK,2018,New Dwelling,4,.,.,.,.,.,.
+BELFAST,KNOCK,2019,New Dwelling,3,.,.,.,.,.,.
+BELFAST,KNOCK,2020,New Dwelling,8,.,.,.,.,.,.
+BELFAST,KNOCK,2021,New Dwelling,7,.,.,.,.,.,.
+BELFAST,KNOCK,2022,New Dwelling,8,.,.,.,.,.,.
+BELFAST,KNOCK,2023,New Dwelling,5,.,.,.,.,.,.
+BELFAST,LADYBROOK,2005,New Dwelling,10,.,.,.,.,.,.
+BELFAST,LADYBROOK,2006,New Dwelling,7,.,.,.,.,.,.
+BELFAST,LADYBROOK,2007,New Dwelling,21,.,.,.,.,.,.
+BELFAST,LADYBROOK,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,LADYBROOK,2009,New Dwelling,13,.,.,.,.,.,.
+BELFAST,LADYBROOK,2010,New Dwelling,6,.,.,.,.,.,.
+BELFAST,LADYBROOK,2011,New Dwelling,5,.,.,.,.,.,.
+BELFAST,LADYBROOK,2012,New Dwelling,8,.,.,.,.,.,.
+BELFAST,LADYBROOK,2013,New Dwelling,7,.,.,.,.,.,.
+BELFAST,LADYBROOK,2014,New Dwelling,6,.,.,.,.,.,.
+BELFAST,LADYBROOK,2015,New Dwelling,6,.,.,.,.,.,.
+BELFAST,LADYBROOK,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LADYBROOK,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LADYBROOK,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LADYBROOK,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LADYBROOK,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LADYBROOK,2021,New Dwelling,13,.,.,.,.,.,.
+BELFAST,LADYBROOK,2022,New Dwelling,6,.,.,.,.,.,.
+BELFAST,LADYBROOK,2023,New Dwelling,3,.,.,.,.,.,.
+BELFAST,LAGMORE,2005,New Dwelling,26,.,.,.,.,.,.
+BELFAST,LAGMORE,2006,New Dwelling,43,123500,148000,162171,160818,174338,212000
+BELFAST,LAGMORE,2007,New Dwelling,38,84000,199000,229957,220514,245452,314950
+BELFAST,LAGMORE,2008,New Dwelling,11,.,.,.,.,.,.
+BELFAST,LAGMORE,2009,New Dwelling,22,.,.,.,.,.,.
+BELFAST,LAGMORE,2010,New Dwelling,7,.,.,.,.,.,.
+BELFAST,LAGMORE,2011,New Dwelling,12,.,.,.,.,.,.
+BELFAST,LAGMORE,2012,New Dwelling,17,.,.,.,.,.,.
+BELFAST,LAGMORE,2013,New Dwelling,18,.,.,.,.,.,.
+BELFAST,LAGMORE,2014,New Dwelling,39,55800,115000,126500,121848,140477,164000
+BELFAST,LAGMORE,2015,New Dwelling,39,79950,102134,129950,127372,149950,175000
+BELFAST,LAGMORE,2016,New Dwelling,30,.,.,.,.,.,.
+BELFAST,LAGMORE,2017,New Dwelling,22,.,.,.,.,.,.
+BELFAST,LAGMORE,2018,New Dwelling,5,.,.,.,.,.,.
+BELFAST,LAGMORE,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,LAGMORE,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,LAGMORE,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LAGMORE,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LAGMORE,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,LEGONIEL,2005,New Dwelling,10,.,.,.,.,.,.
+BELFAST,LEGONIEL,2006,New Dwelling,38,99000,111500,121125,125945,132500,171000
+BELFAST,LEGONIEL,2007,New Dwelling,31,85000,128500,183500,171118,212679,240600
+BELFAST,LEGONIEL,2008,New Dwelling,15,.,.,.,.,.,.
+BELFAST,LEGONIEL,2009,New Dwelling,13,.,.,.,.,.,.
+BELFAST,LEGONIEL,2010,New Dwelling,7,.,.,.,.,.,.
+BELFAST,LEGONIEL,2011,New Dwelling,12,.,.,.,.,.,.
+BELFAST,LEGONIEL,2012,New Dwelling,13,.,.,.,.,.,.
+BELFAST,LEGONIEL,2013,New Dwelling,19,.,.,.,.,.,.
+BELFAST,LEGONIEL,2014,New Dwelling,32,38000,80000,90000,94036,107000,125000
+BELFAST,LEGONIEL,2015,New Dwelling,22,.,.,.,.,.,.
+BELFAST,LEGONIEL,2016,New Dwelling,6,.,.,.,.,.,.
+BELFAST,LEGONIEL,2017,New Dwelling,41,109950,110230,115000,120549,125932,171000
+BELFAST,LEGONIEL,2018,New Dwelling,35,109950,118268,124975,127743,134500,159950
+BELFAST,LEGONIEL,2019,New Dwelling,45,66250,132500,136950,134120,139447,165000
+BELFAST,LEGONIEL,2020,New Dwelling,52,120000,136452,143950,144791,148975,184950
+BELFAST,LEGONIEL,2021,New Dwelling,50,119000,148500,155000,158837,170000,187500
+BELFAST,LEGONIEL,2022,New Dwelling,14,.,.,.,.,.,.
+BELFAST,LEGONIEL,2023,New Dwelling,5,.,.,.,.,.,.
+BELFAST,MALONE,2005,New Dwelling,10,.,.,.,.,.,.
+BELFAST,MALONE,2006,New Dwelling,14,.,.,.,.,.,.
+BELFAST,MALONE,2007,New Dwelling,6,.,.,.,.,.,.
+BELFAST,MALONE,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MALONE,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MALONE,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MALONE,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MALONE,2012,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MALONE,2013,New Dwelling,3,.,.,.,.,.,.
+BELFAST,MALONE,2014,New Dwelling,9,.,.,.,.,.,.
+BELFAST,MALONE,2015,New Dwelling,19,.,.,.,.,.,.
+BELFAST,MALONE,2016,New Dwelling,16,.,.,.,.,.,.
+BELFAST,MALONE,2017,New Dwelling,33,.,.,.,.,.,.
+BELFAST,MALONE,2018,New Dwelling,23,.,.,.,.,.,.
+BELFAST,MALONE,2019,New Dwelling,17,.,.,.,.,.,.
+BELFAST,MALONE,2020,New Dwelling,9,.,.,.,.,.,.
+BELFAST,MALONE,2021,New Dwelling,7,.,.,.,.,.,.
+BELFAST,MALONE,2022,New Dwelling,14,.,.,.,.,.,.
+BELFAST,MALONE,2023,New Dwelling,9,.,.,.,.,.,.
+BELFAST,MEROK,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2007,New Dwelling,12,.,.,.,.,.,.
+BELFAST,MEROK,2008,New Dwelling,23,.,.,.,.,.,.
+BELFAST,MEROK,2009,New Dwelling,18,.,.,.,.,.,.
+BELFAST,MEROK,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MEROK,2012,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MEROK,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2014,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MEROK,2015,New Dwelling,3,.,.,.,.,.,.
+BELFAST,MEROK,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2020,New Dwelling,4,.,.,.,.,.,.
+BELFAST,MEROK,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MEROK,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MEROK,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,MUSGRAVE,2005,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2006,New Dwelling,12,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2007,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2010,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2012,New Dwelling,9,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2013,New Dwelling,9,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2014,New Dwelling,17,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2015,New Dwelling,1,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2016,New Dwelling,4,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2017,New Dwelling,4,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2018,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2019,New Dwelling,3,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2020,New Dwelling,2,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2021,New Dwelling,35,125000,201225,262500,248035,284950,375000
+BELFAST,MUSGRAVE,2022,New Dwelling,6,.,.,.,.,.,.
+BELFAST,MUSGRAVE,2023,New Dwelling,6,.,.,.,.,.,.
+BELFAST,NEW LODGE,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2007,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2010,New Dwelling,4,.,.,.,.,.,.
+BELFAST,NEW LODGE,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2013,New Dwelling,1,.,.,.,.,.,.
+BELFAST,NEW LODGE,2014,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2015,New Dwelling,1,.,.,.,.,.,.
+BELFAST,NEW LODGE,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,NEW LODGE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,NEW LODGE,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,NEW LODGE,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2006,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2007,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2013,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2014,New Dwelling,4,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2015,New Dwelling,3,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2020,New Dwelling,6,.,.,.,.,.,.
+BELFAST,ORANGEFIELD,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORANGEFIELD,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORMEAU,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORMEAU,2006,New Dwelling,24,.,.,.,.,.,.
+BELFAST,ORMEAU,2007,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ORMEAU,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ORMEAU,2009,New Dwelling,18,.,.,.,.,.,.
+BELFAST,ORMEAU,2010,New Dwelling,8,.,.,.,.,.,.
+BELFAST,ORMEAU,2011,New Dwelling,7,.,.,.,.,.,.
+BELFAST,ORMEAU,2012,New Dwelling,6,.,.,.,.,.,.
+BELFAST,ORMEAU,2013,New Dwelling,10,.,.,.,.,.,.
+BELFAST,ORMEAU,2014,New Dwelling,11,.,.,.,.,.,.
+BELFAST,ORMEAU,2015,New Dwelling,9,.,.,.,.,.,.
+BELFAST,ORMEAU,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORMEAU,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORMEAU,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORMEAU,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ORMEAU,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ORMEAU,2021,New Dwelling,5,.,.,.,.,.,.
+BELFAST,ORMEAU,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,ORMEAU,2023,New Dwelling,4,.,.,.,.,.,.
+BELFAST,POLEGLASS,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2007,New Dwelling,1,.,.,.,.,.,.
+BELFAST,POLEGLASS,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2013,New Dwelling,1,.,.,.,.,.,.
+BELFAST,POLEGLASS,2014,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,POLEGLASS,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,POLEGLASS,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,RAVENHILL,2006,New Dwelling,2,.,.,.,.,.,.
+BELFAST,RAVENHILL,2007,New Dwelling,3,.,.,.,.,.,.
+BELFAST,RAVENHILL,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,RAVENHILL,2009,New Dwelling,7,.,.,.,.,.,.
+BELFAST,RAVENHILL,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,RAVENHILL,2013,New Dwelling,3,.,.,.,.,.,.
+BELFAST,RAVENHILL,2014,New Dwelling,6,.,.,.,.,.,.
+BELFAST,RAVENHILL,2015,New Dwelling,14,.,.,.,.,.,.
+BELFAST,RAVENHILL,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,RAVENHILL,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2021,New Dwelling,4,.,.,.,.,.,.
+BELFAST,RAVENHILL,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,RAVENHILL,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,ROSETTA,2005,New Dwelling,25,.,.,.,.,.,.
+BELFAST,ROSETTA,2006,New Dwelling,30,.,.,.,.,.,.
+BELFAST,ROSETTA,2007,New Dwelling,32,205967,280000,345000,333794,370000,499999
+BELFAST,ROSETTA,2008,New Dwelling,8,.,.,.,.,.,.
+BELFAST,ROSETTA,2009,New Dwelling,32,.,.,.,.,.,.
+BELFAST,ROSETTA,2010,New Dwelling,12,.,.,.,.,.,.
+BELFAST,ROSETTA,2011,New Dwelling,11,.,.,.,.,.,.
+BELFAST,ROSETTA,2012,New Dwelling,14,.,.,.,.,.,.
+BELFAST,ROSETTA,2013,New Dwelling,16,.,.,.,.,.,.
+BELFAST,ROSETTA,2014,New Dwelling,18,.,.,.,.,.,.
+BELFAST,ROSETTA,2015,New Dwelling,20,.,.,.,.,.,.
+BELFAST,ROSETTA,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ROSETTA,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ROSETTA,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ROSETTA,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,ROSETTA,2020,New Dwelling,7,.,.,.,.,.,.
+BELFAST,ROSETTA,2021,New Dwelling,17,.,.,.,.,.,.
+BELFAST,ROSETTA,2022,New Dwelling,8,.,.,.,.,.,.
+BELFAST,ROSETTA,2023,New Dwelling,21,.,.,.,.,.,.
+BELFAST,SANDOWN,2005,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SANDOWN,2006,New Dwelling,5,.,.,.,.,.,.
+BELFAST,SANDOWN,2007,New Dwelling,12,.,.,.,.,.,.
+BELFAST,SANDOWN,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SANDOWN,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SANDOWN,2010,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SANDOWN,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SANDOWN,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SANDOWN,2013,New Dwelling,4,.,.,.,.,.,.
+BELFAST,SANDOWN,2014,New Dwelling,7,.,.,.,.,.,.
+BELFAST,SANDOWN,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SANDOWN,2016,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SANDOWN,2017,New Dwelling,3,.,.,.,.,.,.
+BELFAST,SANDOWN,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SANDOWN,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SANDOWN,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SANDOWN,2021,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SANDOWN,2022,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SANDOWN,2023,New Dwelling,5,.,.,.,.,.,.
+BELFAST,SHANDON,2005,New Dwelling,18,.,.,.,.,.,.
+BELFAST,SHANDON,2006,New Dwelling,9,.,.,.,.,.,.
+BELFAST,SHANDON,2007,New Dwelling,5,.,.,.,.,.,.
+BELFAST,SHANDON,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SHANDON,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SHANDON,2010,New Dwelling,4,.,.,.,.,.,.
+BELFAST,SHANDON,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SHANDON,2012,New Dwelling,4,.,.,.,.,.,.
+BELFAST,SHANDON,2013,New Dwelling,7,.,.,.,.,.,.
+BELFAST,SHANDON,2014,New Dwelling,8,.,.,.,.,.,.
+BELFAST,SHANDON,2015,New Dwelling,12,.,.,.,.,.,.
+BELFAST,SHANDON,2016,New Dwelling,7,.,.,.,.,.,.
+BELFAST,SHANDON,2017,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SHANDON,2018,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SHANDON,2019,New Dwelling,31,192500,212500,240000,251511,255000,630000
+BELFAST,SHANDON,2020,New Dwelling,39,160000,217500,240000,259204,290000,640000
+BELFAST,SHANDON,2021,New Dwelling,35,160000,225000,256250,277032,310000,480000
+BELFAST,SHANDON,2022,New Dwelling,4,.,.,.,.,.,.
+BELFAST,SHANDON,2023,New Dwelling,3,.,.,.,.,.,.
+BELFAST,SHANKILL,2005,New Dwelling,16,.,.,.,.,.,.
+BELFAST,SHANKILL,2006,New Dwelling,22,.,.,.,.,.,.
+BELFAST,SHANKILL,2007,New Dwelling,9,.,.,.,.,.,.
+BELFAST,SHANKILL,2008,New Dwelling,18,.,.,.,.,.,.
+BELFAST,SHANKILL,2009,New Dwelling,24,.,.,.,.,.,.
+BELFAST,SHANKILL,2010,New Dwelling,18,.,.,.,.,.,.
+BELFAST,SHANKILL,2011,New Dwelling,18,.,.,.,.,.,.
+BELFAST,SHANKILL,2012,New Dwelling,10,.,.,.,.,.,.
+BELFAST,SHANKILL,2013,New Dwelling,5,.,.,.,.,.,.
+BELFAST,SHANKILL,2014,New Dwelling,10,.,.,.,.,.,.
+BELFAST,SHANKILL,2015,New Dwelling,9,.,.,.,.,.,.
+BELFAST,SHANKILL,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHANKILL,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHANKILL,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHANKILL,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SHANKILL,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SHANKILL,2021,New Dwelling,16,.,.,.,.,.,.
+BELFAST,SHANKILL,2022,New Dwelling,11,.,.,.,.,.,.
+BELFAST,SHANKILL,2023,New Dwelling,3,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2005,New Dwelling,8,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2006,New Dwelling,4,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2007,New Dwelling,18,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2008,New Dwelling,5,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2011,New Dwelling,12,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2012,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2013,New Dwelling,3,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2014,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2015,New Dwelling,2,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2020,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2021,New Dwelling,3,.,.,.,.,.,.
+BELFAST,SHAW'S ROAD,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SHAW'S ROAD,2023,New Dwelling,2,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2005,New Dwelling,5,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2006,New Dwelling,3,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2007,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2012,New Dwelling,2,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2013,New Dwelling,2,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2014,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STEWARTSTOWN,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,STEWARTSTOWN,2023,New Dwelling,1,.,.,.,.,.,.
+BELFAST,STORMONT,2005,New Dwelling,6,.,.,.,.,.,.
+BELFAST,STORMONT,2006,New Dwelling,6,.,.,.,.,.,.
+BELFAST,STORMONT,2007,New Dwelling,3,.,.,.,.,.,.
+BELFAST,STORMONT,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,STORMONT,2009,New Dwelling,6,.,.,.,.,.,.
+BELFAST,STORMONT,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STORMONT,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,STORMONT,2012,New Dwelling,10,.,.,.,.,.,.
+BELFAST,STORMONT,2013,New Dwelling,12,.,.,.,.,.,.
+BELFAST,STORMONT,2014,New Dwelling,8,.,.,.,.,.,.
+BELFAST,STORMONT,2015,New Dwelling,10,.,.,.,.,.,.
+BELFAST,STORMONT,2016,New Dwelling,12,.,.,.,.,.,.
+BELFAST,STORMONT,2017,New Dwelling,1,.,.,.,.,.,.
+BELFAST,STORMONT,2018,New Dwelling,3,.,.,.,.,.,.
+BELFAST,STORMONT,2019,New Dwelling,3,.,.,.,.,.,.
+BELFAST,STORMONT,2020,New Dwelling,9,.,.,.,.,.,.
+BELFAST,STORMONT,2021,New Dwelling,16,.,.,.,.,.,.
+BELFAST,STORMONT,2022,New Dwelling,6,.,.,.,.,.,.
+BELFAST,STORMONT,2023,New Dwelling,14,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2005,New Dwelling,19,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2006,New Dwelling,21,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2007,New Dwelling,10,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2008,New Dwelling,0,0,0,0,0,0,0
+BELFAST,STRANMILLIS,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2010,New Dwelling,4,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2011,New Dwelling,3,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2012,New Dwelling,6,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2013,New Dwelling,10,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2014,New Dwelling,7,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2015,New Dwelling,18,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2016,New Dwelling,8,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2017,New Dwelling,2,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2018,New Dwelling,5,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2019,New Dwelling,4,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2020,New Dwelling,5,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2021,New Dwelling,15,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2022,New Dwelling,5,.,.,.,.,.,.
+BELFAST,STRANMILLIS,2023,New Dwelling,7,.,.,.,.,.,.
+BELFAST,SYDENHAM,2005,New Dwelling,10,.,.,.,.,.,.
+BELFAST,SYDENHAM,2006,New Dwelling,10,.,.,.,.,.,.
+BELFAST,SYDENHAM,2007,New Dwelling,9,.,.,.,.,.,.
+BELFAST,SYDENHAM,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,SYDENHAM,2009,New Dwelling,8,.,.,.,.,.,.
+BELFAST,SYDENHAM,2010,New Dwelling,36,177750,223650,230850,251567,263250,643500
+BELFAST,SYDENHAM,2011,New Dwelling,17,.,.,.,.,.,.
+BELFAST,SYDENHAM,2012,New Dwelling,13,.,.,.,.,.,.
+BELFAST,SYDENHAM,2013,New Dwelling,10,.,.,.,.,.,.
+BELFAST,SYDENHAM,2014,New Dwelling,29,.,.,.,.,.,.
+BELFAST,SYDENHAM,2015,New Dwelling,27,.,.,.,.,.,.
+BELFAST,SYDENHAM,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SYDENHAM,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SYDENHAM,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,SYDENHAM,2019,New Dwelling,5,.,.,.,.,.,.
+BELFAST,SYDENHAM,2020,New Dwelling,4,.,.,.,.,.,.
+BELFAST,SYDENHAM,2021,New Dwelling,7,.,.,.,.,.,.
+BELFAST,SYDENHAM,2022,New Dwelling,8,.,.,.,.,.,.
+BELFAST,SYDENHAM,2023,New Dwelling,3,.,.,.,.,.,.
+BELFAST,TURF LODGE,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,TURF LODGE,2006,New Dwelling,2,.,.,.,.,.,.
+BELFAST,TURF LODGE,2007,New Dwelling,2,.,.,.,.,.,.
+BELFAST,TURF LODGE,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TURF LODGE,2009,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2011,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2012,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2014,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2015,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TURF LODGE,2021,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TURF LODGE,2022,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TURF LODGE,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2005,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TWINBROOK,2006,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2007,New Dwelling,4,.,.,.,.,.,.
+BELFAST,TWINBROOK,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,TWINBROOK,2009,New Dwelling,10,.,.,.,.,.,.
+BELFAST,TWINBROOK,2010,New Dwelling,3,.,.,.,.,.,.
+BELFAST,TWINBROOK,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TWINBROOK,2012,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TWINBROOK,2013,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2014,New Dwelling,2,.,.,.,.,.,.
+BELFAST,TWINBROOK,2015,New Dwelling,19,.,.,.,.,.,.
+BELFAST,TWINBROOK,2016,New Dwelling,1,.,.,.,.,.,.
+BELFAST,TWINBROOK,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2021,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2022,New Dwelling,0,0,0,0,0,0,0
+BELFAST,TWINBROOK,2023,New Dwelling,0,0,0,0,0,0,0
+BELFAST,UPPER MALONE,2005,New Dwelling,13,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2006,New Dwelling,7,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2007,New Dwelling,8,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2010,New Dwelling,2,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2011,New Dwelling,2,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2012,New Dwelling,7,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2013,New Dwelling,2,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2014,New Dwelling,8,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2015,New Dwelling,4,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,UPPER MALONE,2017,New Dwelling,5,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2018,New Dwelling,4,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2019,New Dwelling,7,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2020,New Dwelling,6,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2021,New Dwelling,7,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2022,New Dwelling,3,.,.,.,.,.,.
+BELFAST,UPPER MALONE,2023,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WATER WORKS,2005,New Dwelling,10,.,.,.,.,.,.
+BELFAST,WATER WORKS,2006,New Dwelling,21,.,.,.,.,.,.
+BELFAST,WATER WORKS,2007,New Dwelling,13,.,.,.,.,.,.
+BELFAST,WATER WORKS,2008,New Dwelling,6,.,.,.,.,.,.
+BELFAST,WATER WORKS,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,WATER WORKS,2010,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WATER WORKS,2011,New Dwelling,1,.,.,.,.,.,.
+BELFAST,WATER WORKS,2012,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WATER WORKS,2013,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WATER WORKS,2014,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WATER WORKS,2015,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WATER WORKS,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WATER WORKS,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WATER WORKS,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WATER WORKS,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WATER WORKS,2020,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WATER WORKS,2021,New Dwelling,6,.,.,.,.,.,.
+BELFAST,WATER WORKS,2022,New Dwelling,5,.,.,.,.,.,.
+BELFAST,WATER WORKS,2023,New Dwelling,4,.,.,.,.,.,.
+BELFAST,WINDSOR,2005,New Dwelling,24,.,.,.,.,.,.
+BELFAST,WINDSOR,2006,New Dwelling,7,.,.,.,.,.,.
+BELFAST,WINDSOR,2007,New Dwelling,28,.,.,.,.,.,.
+BELFAST,WINDSOR,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WINDSOR,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WINDSOR,2010,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WINDSOR,2011,New Dwelling,16,.,.,.,.,.,.
+BELFAST,WINDSOR,2012,New Dwelling,14,.,.,.,.,.,.
+BELFAST,WINDSOR,2013,New Dwelling,14,.,.,.,.,.,.
+BELFAST,WINDSOR,2014,New Dwelling,19,.,.,.,.,.,.
+BELFAST,WINDSOR,2015,New Dwelling,27,.,.,.,.,.,.
+BELFAST,WINDSOR,2016,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WINDSOR,2017,New Dwelling,11,.,.,.,.,.,.
+BELFAST,WINDSOR,2018,New Dwelling,4,.,.,.,.,.,.
+BELFAST,WINDSOR,2019,New Dwelling,7,.,.,.,.,.,.
+BELFAST,WINDSOR,2020,New Dwelling,8,.,.,.,.,.,.
+BELFAST,WINDSOR,2021,New Dwelling,33,.,.,.,.,.,.
+BELFAST,WINDSOR,2022,New Dwelling,21,.,.,.,.,.,.
+BELFAST,WINDSOR,2023,New Dwelling,20,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2005,New Dwelling,13,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2006,New Dwelling,29,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2007,New Dwelling,7,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2008,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2009,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2010,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2011,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2012,New Dwelling,5,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2013,New Dwelling,5,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2014,New Dwelling,19,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2015,New Dwelling,9,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODSTOCK,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODSTOCK,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODSTOCK,2019,New Dwelling,1,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2020,New Dwelling,4,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2021,New Dwelling,16,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2022,New Dwelling,5,.,.,.,.,.,.
+BELFAST,WOODSTOCK,2023,New Dwelling,10,.,.,.,.,.,.
+BELFAST,WOODVALE,2005,New Dwelling,2,.,.,.,.,.,.
+BELFAST,WOODVALE,2006,New Dwelling,4,.,.,.,.,.,.
+BELFAST,WOODVALE,2007,New Dwelling,7,.,.,.,.,.,.
+BELFAST,WOODVALE,2008,New Dwelling,1,.,.,.,.,.,.
+BELFAST,WOODVALE,2009,New Dwelling,1,.,.,.,.,.,.
+BELFAST,WOODVALE,2010,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WOODVALE,2011,New Dwelling,10,.,.,.,.,.,.
+BELFAST,WOODVALE,2012,New Dwelling,6,.,.,.,.,.,.
+BELFAST,WOODVALE,2013,New Dwelling,8,.,.,.,.,.,.
+BELFAST,WOODVALE,2014,New Dwelling,17,.,.,.,.,.,.
+BELFAST,WOODVALE,2015,New Dwelling,6,.,.,.,.,.,.
+BELFAST,WOODVALE,2016,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODVALE,2017,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODVALE,2018,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODVALE,2019,New Dwelling,0,0,0,0,0,0,0
+BELFAST,WOODVALE,2020,New Dwelling,18,.,.,.,.,.,.
+BELFAST,WOODVALE,2021,New Dwelling,23,.,.,.,.,.,.
+BELFAST,WOODVALE,2022,New Dwelling,3,.,.,.,.,.,.
+BELFAST,WOODVALE,2023,New Dwelling,3,.,.,.,.,.,.
