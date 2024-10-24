@@ -6,12 +6,24 @@ cur = con.cursor()
 
 #Create the 'files' table
 cur.execute('''
-            CREATE TABLE IF NOT EXISTS files (
-                file_id INTEGER PRIMARY KEY,
-                url TEXT NOT NULL,
-                file_name TEXT UNIQUE,
-                http_response_code INTEGER
-            )
+                CREATE TABLE IF NOT EXISTS files (
+                    file_id INTEGER PRIMARY KEY,
+                    url TEXT UNIQUE,
+                    file_name TEXT UNIQUE,
+                    file_type TEXT,
+                    http_response_code INTEGER,
+                    http_method TEXT,
+                    response_headers TEXT,
+                    request_headers TEXT,
+                    request_time TIMESTAMP,
+                    response_time_ms INTEGER,
+                    content_length INTEGER,
+                    content_type TEXT,
+                    last_modified TIMESTAMP,
+                    redirect_url TEXT,
+                    error_message TEXT,
+                    status_reason TEXT
+                )
             ''')
 
 #Not sure if Boolean is a type in sqlite, so will use integer where 1 and 0 are True and False respectively
@@ -20,7 +32,7 @@ cur.execute('''
                 file_name TEXT,
                 file_id INTEGER,
                 sheet_id INTEGER PRIMARY KEY,
-                sheet TEXT,
+                sheet_type TEXT,
                 number_of_rows INTEGER,
                 percent_nan REAL,
                 percent_bulk REAL,
@@ -43,7 +55,7 @@ def insert_file_metadata(url, response_code, content_type, filename, file_type):
 # Step 4: Function to insert sheet metadata
 def insert_sheet_metadata(filename, sheet, number_of_rows, percent_nan, percent_bulk, empty_top_rows, empty_bottom_rows, title_row, subtitles):
     cur.execute('''
-        INSERT OR REPLACE INTO sheets (filename, sheet, number_of_rows, percent_nan, percent_bulk, empty_top_rows, empty_bottom_rows, title_row, subtitles)
+        INSERT OR REPLACE INTO sheets (filename, sheet_type, number_of_rows, percent_nan, percent_bulk, empty_top_rows, empty_bottom_rows, title_row, subtitles)
         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
     ''', (filename, sheet, number_of_rows, percent_nan, percent_bulk, empty_top_rows, empty_bottom_rows, title_row, subtitles))
     con.commit()

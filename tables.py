@@ -1,3 +1,12 @@
+import pandas as pd
+import os
+import glob
+import json
+from table import Table
+import matplotlib.pyplot as plt
+from IPython import display, Markdown
+
+
 class Tables:
     def __init__(self, directory ):
         self.tables = {}

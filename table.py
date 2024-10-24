@@ -1,3 +1,9 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
+import glob
+
+
 class Table:
     def __init__(self, name, dataframe):
         self.name = name
