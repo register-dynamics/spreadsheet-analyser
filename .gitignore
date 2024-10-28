@@ -12,3 +12,6 @@ sample_csvs*/
 
 # Ignore virtual environment folder
 venv/
+
+# Ignore databases
+*.db
