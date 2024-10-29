@@ -32,8 +32,7 @@ def create_filename(url):
     return filename
 
 def download_func():
-    con = sqlite3.connect('spreadsheets.db', timeout=10)
-    con.autocommit = False
+    con = sqlite3.connect('spreadsheets.db', timeout=10, autocommit=False)
     #create the directory for storing spreadsheet files (in current working directory)
     cwd = os.getcwd()
     full_path = os.path.join(cwd, 'spreadsheet_files')
@@ -41,39 +40,44 @@ def download_func():
         os.mkdir(full_path)
         
     cursor = con.cursor()
+    cursor2 = con.cursor()
 
-    for row in cursor.execute("SELECT url FROM files WHERE file_name IS NULL LIMIT 100"):
+    for row in cursor.execute("SELECT url FROM files WHERE file_name IS NULL LIMIT 1"):
         url = row[0]
         filetype = extract_file_type(url)
         filename = create_filename(url)
         file_path = os.path.join(full_path, filename)
         
         try:
-            r = requests.get(url)  # Add a timeout to the request
+            print("about to perform request...")
+            r = requests.get(url, timeout=5)  # Add a timeout to the request
+            print(f'Have made request: r: {r}')
             if r.status_code == 200:
                 print('Downloading file...')
                 with open(file_path, "wb") as file:
                     file.write(r.content)
                 
                 # Update file details in the database
-                cursor.execute('''UPDATE files SET file_name = ?, http_response_code = ?, response_headers = ?, 
+                cursor2.execute('''UPDATE files SET file_name = ?, http_response_code = ?, response_headers = ?, 
                                 content_length = ?, content_type = ?, status_reason = ? 
                                 WHERE url = ?''', 
                             (filename, r.status_code, str(r.headers), 
                                 len(r.content), r.headers.get('Content-Type'), r.reason, url))
             else:
                 print(f"Bad status code ({r.status_code}). Setting filename to None.")
-                cursor.execute("UPDATE files SET file_name = NULL, http_response_code = ? WHERE url = ?", 
+                cursor2.execute("UPDATE files SET file_name = NULL, http_response_code = ? WHERE url = ?", 
                             (r.status_code, url))
 
         except:
             e = sys.exc_info()[0]
             print(f"Error occured for {url}: {e}")
-            cursor.execute("UPDATE files SET error_message = ? WHERE url = ?", (str(e), url))
+            cursor2.execute("UPDATE files SET error_message = ? WHERE url = ?", (str(e), url))
+    
+    con.commit()
 
     # Close the cursor and connection
     cursor.close()
-    con.commit()
+    cursor2.close()
     con.close()
 
 if __name__ == '__main__':
