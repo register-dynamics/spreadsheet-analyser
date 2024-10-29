@@ -40,7 +40,7 @@ def download_file(row):
                 file.write(r.content)
 
                 print(f"{url}: Success! Got {file_path}")
-                return [url, "SUCCESS", r, file_path]
+                return [url, "SUCCESS", r, filename]
         else:
             print(f"{url}: Failure! Got {r.status_code} / {r.reason}")
             return [url, "FAILURE", r]
