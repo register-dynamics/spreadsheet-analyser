@@ -41,9 +41,13 @@ def download_func():
         
     cursor = con.cursor()
     cursor2 = con.cursor()
+    #olgibbons delete after testing
+    for row in cursor.execute("SELECT url FROM files WHERE file_name IS NULL LIMIT 100"):
+        print(row)
 
     for row in cursor.execute("SELECT url FROM files WHERE file_name IS NULL LIMIT 1"):
         url = row[0]
+        print(f'olgibbons debug: url is currently: {url}')
         filetype = extract_file_type(url)
         filename = create_filename(url)
         file_path = os.path.join(full_path, filename)
@@ -72,8 +76,8 @@ def download_func():
             e = sys.exc_info()[0]
             print(f"Error occured for {url}: {e}")
             cursor2.execute("UPDATE files SET error_message = ? WHERE url = ?", (str(e), url))
-    
-    con.commit()
+
+        con.commit()
 
     # Close the cursor and connection
     cursor.close()
