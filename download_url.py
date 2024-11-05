@@ -83,41 +83,6 @@ def download_batch(pool,con,batchsize):
     for row in cursor.execute("SELECT url FROM files WHERE file_name IS NULL LIMIT 100"):
         print(row)
 
-<<<<<<< HEAD
-    for row in cursor.execute("SELECT url FROM files WHERE file_name IS NULL LIMIT 1"):
-        url = row[0]
-        print(f'olgibbons debug: url is currently: {url}')
-        filetype = extract_file_type(url)
-        filename = create_filename(url)
-        file_path = os.path.join(full_path, filename)
-        
-        try:
-            print("about to perform request...")
-            r = requests.get(url, timeout=5)  # Add a timeout to the request
-            print(f'Have made request: r: {r}')
-            if r.status_code == 200:
-                print('Downloading file...')
-                with open(file_path, "wb") as file:
-                    file.write(r.content)
-                
-                # Update file details in the database
-                cursor2.execute('''UPDATE files SET file_name = ?, http_response_code = ?, response_headers = ?, 
-                                content_length = ?, content_type = ?, status_reason = ? 
-                                WHERE url = ?''', 
-                            (filename, r.status_code, str(r.headers), 
-                                len(r.content), r.headers.get('Content-Type'), r.reason, url))
-            else:
-                print(f"Bad status code ({r.status_code}). Setting filename to None.")
-                cursor2.execute("UPDATE files SET file_name = NULL, http_response_code = ? WHERE url = ?", 
-                            (r.status_code, url))
-
-        except:
-            e = sys.exc_info()[0]
-            print(f"Error occured for {url}: {e}")
-            cursor2.execute("UPDATE files SET error_message = ? WHERE url = ?", (str(e), url))
-
-        con.commit()
-=======
     # Only retry failed attempts if they failed more than 3,600 seconds (an hour) ago
     old_error_time_limit = (datetime.datetime.now(datetime.UTC) - epoch).total_seconds() - 3600
 
@@ -130,7 +95,6 @@ def download_batch(pool,con,batchsize):
         print("Found no URLs left to try, stopping...")
         pool.close()
         return False
->>>>>>> dae617160d05df5516db32d7d39b1882d0ddb390
 
     print(f"Found {len(batch)} URLs to try")
     for result in pool.map(download_file, batch):

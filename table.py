@@ -1,13 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import os
-import glob
-
 
 class Table:
     def __init__(self, name, dataframe):
         self.name = name
         self.dataframe = dataframe
+        self.shape = self.dataframe.shape
         self.percent_nan = self.nan_percentage()
         self.percent_bulk = 100
         self.fingerprint_flags = {
@@ -23,7 +21,7 @@ class Table:
         self.empty_rows = pd.Series()
         self.empty_row_indices = []
         self.delimiter = []
-       
+        self.check_for_empty_rows()
 
     def check_for_empty_rows (self):
         nan_series = self.dataframe.isna().all(axis=1)
@@ -111,17 +109,21 @@ class Table:
                     self.fingerprint_flags['subtitles'] = True
 
     def get_metadata_row(self):
-        """Return a dictionary of metadata for this table."""
+        """Return a dictionary of metadata for this table in sqlite compatible types."""
         metadata_row = {
             'name': self.name,
+            #olgibbons: duplicate here:
+            'number_of_rows': self.dataframe.shape[0],
             'percent_nan': self.percent_nan,
             'percent_bulk': self.fingerprint_flags.get('percent_bulk', None),
             'title_row': self.fingerprint_flags.get('title_row', False),
+            'subtitles': self.fingerprint_flags.get('subtitles', False),
             'full_table': self.fingerprint_flags.get('full_table', False),
             'empty_top_rows': self.fingerprint_flags.get('empty_top_rows', False),
-            'empty_rows_count': len(self.empty_row_indices),
+            'empty_bottom_rows': self.fingerprint_flags.get('empty_bottom_rows', False),
+            'empty_rows_count': len(self.empty_row_indices[0]),
             'empty_rows': self.empty_rows,
-            'fingerprint': self.fingerprint,
+            'fingerprint': self.fingerprint, #convert to string as SQLITE hates lists
             'row_count': self.dataframe.shape[0],
             'column_count': self.dataframe.shape[1]
             # Add more fields as needed
@@ -141,3 +143,4 @@ class Table:
         plt.xticks(ticks=range(df.shape[1]), labels=df.columns)
         plt.title(f"NaN vs Non-NaN values in DataFrame {self.name}")
         plt.show()
+        

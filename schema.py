@@ -14,7 +14,6 @@ cur.execute('''
                     http_response_code INTEGER,
                     http_method TEXT,
                     response_headers TEXT,
-                    request_headers TEXT,
                     request_time TIMESTAMP,
                     response_time_ms INTEGER,
                     content_length INTEGER,
@@ -22,7 +21,8 @@ cur.execute('''
                     last_modified TIMESTAMP,
                     redirect_url TEXT,
                     error_message TEXT,
-                    status_reason TEXT
+                    status_reason TEXT,
+                    parse_error_message
                 )
             ''')
 
@@ -40,6 +40,12 @@ cur.execute('''
                 empty_bottom_rows BOOLEAN,
                 title_row BOOLEAN,
                 subtitles BOOLEAN,
+                full_table BOOLEAN,
+                fingerprint TEXT,
+                row_count INTEGER,
+                column_count INTEGER,
+                empty_rows_count INTEGER,
+                empty_rows TEXT,
                 FOREIGN KEY (file_name) REFERENCES files (file_name),
                 FOREIGN KEY (file_id) REFERENCES files (file_id)
             )
