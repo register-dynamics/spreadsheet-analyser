@@ -118,13 +118,12 @@ with Database('spreadsheets.db') as db:
 
 '''
 
-#trying to analyse csv
-def analyse_csv(file_id, url, file_name, extras):
+def analyse_file(file_id, url, file_name, extras):
    try:
        #olgibbons ask alaric about this:
        dir = 'spreadsheet_files'
-       csv_path = os.path.join(dir, file_name)
-       df = pd.read_csv(csv_path, encoding="ISO-8859-1", header=None, index_col=False, low_memory=False)
+       file_path = os.path.join(dir, file_name)
+       df = pd.read_csv(file_path, encoding="ISO-8859-1", header=None, index_col=False, low_memory=False)
        table = Table(file_name, df)
        results = table.get_metadata_row()
        print(f'The results are: {results}')
@@ -163,7 +162,7 @@ def analyse_csv(file_id, url, file_name, extras):
   
 if __name__ == '__main__':
     with Database('spreadsheets.db') as db:
-        db.scanFiles("(content_type like 'text/csv%' or file_type like '%.csv') and file_name is not null", 100, analyse_csv)
+        db.scanFiles("(content_type like 'text/csv%' or file_type like '%.csv') and file_name is not null", 100, analyse_file)
       
  #scanfiles - where clause, batch size, callback
  #for row in :
