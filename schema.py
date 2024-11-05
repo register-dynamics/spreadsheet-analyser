@@ -46,6 +46,8 @@ cur.execute('''
                 column_count INTEGER,
                 empty_rows_count INTEGER,
                 empty_rows TEXT,
+                sheet_index INTEGER,
+                sheet_name STRING,
                 FOREIGN KEY (file_name) REFERENCES files (file_name),
                 FOREIGN KEY (file_id) REFERENCES files (file_id)
             )
