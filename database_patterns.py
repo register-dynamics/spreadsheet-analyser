@@ -151,7 +151,16 @@ def analyse_csv(file_id, url, file_name, extras):
        #olgibbons ask alaric about this:
        dir = 'spreadsheet_files'
        file_path = os.path.join(dir, file_name)
-       if its_a_csv:
+       content_type = extras['content_type']
+       file_extension = extras['file_type']
+
+       if content_type.startswith("text/csv") or file_extension.endswith('.csv'):
+           file_type = 'csv'
+       elif content_type.startswith("application/vnd.ms-excel") or file_extension.endswith('.xls'):
+           file_type = 'xls'
+       else:
+           file_type = 'UNKNOWN'
+       if file_type == 'csv':
            df = pd.read_csv(file_path, encoding="ISO-8859-1", header=None, index_col=False, low_memory=False)
            table = Table(file_name, df)
            results = table.get_metadata_row()
@@ -187,11 +196,11 @@ def analyse_csv(file_id, url, file_name, extras):
                          results['empty_rows_count'],
                          str(results['empty_rows']),
                          0))
-       elif its_an_xls:
-           thingy = open_xls(file_path)
+       elif file_type == 'xls':
+           thingy = open_xls(file_path) # FIXME
            sheet_summaries = []
-           for index in range(thingy.number_of_sheets):
-               df = thingy.get_sheet_as_df(index)
+           for index in range(thingy.number_of_sheets): # FIXME
+               df = thingy.get_sheet_as_df(index) # FIXME
                table = Table(file_name, df)
                results = table.get_metadata_row()
                sheet_summaries.push(("xls", results['number_of_rows'],
@@ -208,7 +217,7 @@ def analyse_csv(file_id, url, file_name, extras):
                                      results['empty_rows_count'],
                                      str(results['empty_rows']),
                                      index,
-                                     thingy.get_sheet_name(index)))
+                                     thingy.get_sheet_name(index))) # FIXME
            return ("insert-spreadsheets",
                    '''
                    sheet_type,
@@ -228,6 +237,9 @@ def analyse_csv(file_id, url, file_name, extras):
                    sheet_index,
                    sheet_name
                    ''', sheet_summaries)
+       else:
+           # Unknown file type
+           print(f"ERROR: Unknown file type, skipping: {file_name} type={content_type} extension={file_extension}")
             
    except Exception as e:
        print(f'olgibbons: error has occured: {str(e)}')
