@@ -150,40 +150,85 @@ def analyse_csv(file_id, url, file_name, extras):
    try:
        #olgibbons ask alaric about this:
        dir = 'spreadsheet_files'
-       csv_path = os.path.join(dir, file_name)
-       df = pd.read_csv(csv_path, encoding="ISO-8859-1", header=None, index_col=False, low_memory=False)
-       table = Table(file_name, df)
-       results = table.get_metadata_row()
-       print(f'The results are: {results}')
-       return ("insert-spreadsheet",
-               '''
-               sheet_type,
-               number_of_rows,
-               percent_nan,
-               percent_bulk,
-               empty_top_rows,
-               empty_bottom_rows,
-               title_row,
-               subtitles,
-               full_table,
-               fingerprint,
-               row_count,
-               column_count,
-               empty_rows_count,
-               empty_rows
-               ''', ("csv", results['number_of_rows'],
-                              results ['percent_nan'],
-                              results['percent_bulk'],
-                              results['empty_top_rows'],
-                              results['empty_bottom_rows'],
-                              results['title_row'],
-                              results['subtitles'],
-                              results['full_table'],
-                              str(results['fingerprint']),
-                              results['row_count'],
-                              results['column_count'],
-                              results['empty_rows_count'],
-                              str(results['empty_rows'])))
+       file_path = os.path.join(dir, file_name)
+       if its_a_csv:
+           df = pd.read_csv(file_path, encoding="ISO-8859-1", header=None, index_col=False, low_memory=False)
+           table = Table(file_name, df)
+           results = table.get_metadata_row()
+           print(f'The results are: {results}')
+           return ("insert-spreadsheet",
+                   '''
+                   sheet_type,
+                   number_of_rows,
+                   percent_nan,
+                   percent_bulk,
+                   empty_top_rows,
+                   empty_bottom_rows,
+                   title_row,
+                   subtitles,
+                   full_table,
+                   fingerprint,
+                   row_count,
+                   column_count,
+                   empty_rows_count,
+                   empty_rows,
+                   sheet_index
+                   ''', ("csv", results['number_of_rows'],
+                         results ['percent_nan'],
+                         results['percent_bulk'],
+                         results['empty_top_rows'],
+                         results['empty_bottom_rows'],
+                         results['title_row'],
+                         results['subtitles'],
+                         results['full_table'],
+                         str(results['fingerprint']),
+                         results['row_count'],
+                         results['column_count'],
+                         results['empty_rows_count'],
+                         str(results['empty_rows']),
+                         0))
+       elif its_an_xls:
+           thingy = open_xls(file_path)
+           sheet_summaries = []
+           for index in range(thingy.number_of_sheets):
+               df = thingy.get_sheet_as_df(index)
+               table = Table(file_name, df)
+               results = table.get_metadata_row()
+               sheet_summaries.push(("xls", results['number_of_rows'],
+                                     results ['percent_nan'],
+                                     results['percent_bulk'],
+                                     results['empty_top_rows'],
+                                     results['empty_bottom_rows'],
+                                     results['title_row'],
+                                     results['subtitles'],
+                                     results['full_table'],
+                                     str(results['fingerprint']),
+                                     results['row_count'],
+                                     results['column_count'],
+                                     results['empty_rows_count'],
+                                     str(results['empty_rows']),
+                                     index,
+                                     thingy.get_sheet_name(index)))
+           return ("insert-spreadsheets",
+                   '''
+                   sheet_type,
+                   number_of_rows,
+                   percent_nan,
+                   percent_bulk,
+                   empty_top_rows,
+                   empty_bottom_rows,
+                   title_row,
+                   subtitles,
+                   full_table,
+                   fingerprint,
+                   row_count,
+                   column_count,
+                   empty_rows_count,
+                   empty_rows,
+                   sheet_index,
+                   sheet_name
+                   ''', sheet_summaries)
+            
    except Exception as e:
        print(f'olgibbons: error has occured: {str(e)}')
        return ("update-file", "parse_error_message=?", (str(e),))
