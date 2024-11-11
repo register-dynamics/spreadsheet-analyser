@@ -1,16 +1,15 @@
-import requests
-import tempfile
-import string
-import sqlite3
-import re
-import os
 import json
+import os
+import re
+import string
 from datetime import datetime
-from urllib.parse import urlparse
 from random import sample
+from urllib.parse import urlparse
 
+import requests
 
 url_data = {}
+
 
 def printURLinfo(url):
     parsedUrl = urlparse(url)
@@ -49,14 +48,15 @@ def endsWithCsv(url):
     p = re.compile("^.*\.csv(\?.*)?")
     return p.match(url)
 
+
 def endsWithXls(url):
     p = re.compile("^.*\.xls(\?.*)?")
-    return p.match(url) 
+    return p.match(url)
 
 
 def createSampleList(filepath, csvs=0, xls=0, badfile=0, non_csv=0):
     with open(filepath) as file:
-        #very important for removing newlines
+        # very important for removing newlines
         urls = [url.strip() for url in file.readlines()]
     sampleList = sample(urls, 1000)
 
@@ -67,28 +67,28 @@ def createSampleList(filepath, csvs=0, xls=0, badfile=0, non_csv=0):
             url_data[sampleList[i]]["is_csv_Al_code"] = True
         elif endsWithXls(sampleList[i]):
             print(f"url {i} is an xls")
-            #to do: add to json
+            # to do: add to json
             xls += 1
         else:
             print(f"url {i} is not a csv: {sampleList[i]}")
             non_csv += 1
 
     print(
-        f"""{csvs} csv files were found and downloaded`\n 
+        f"""{csvs} csv files were found and downloaded`\n
         {xls} files were found \n
         {badfile} could not be downloaded\n
         {non_csv} files were not csv or xls."""
     )
-    url_data['metadata'] = {
-        'csvs': csvs,
-        'xls' : xls,
-        'badfiles': badfile,
-        'non_csvs': non_csv
-            }
-    
+    url_data["metadata"] = {
+        "csvs": csvs,
+        "xls": xls,
+        "badfiles": badfile,
+        "non_csvs": non_csv,
+    }
+
     print(f"Url Data: {json.dumps(url_data, indent=4)}")
-    
-    #use 'w' for writing json and dump for serialising to file
+
+    # use 'w' for writing json and dump for serialising to file
     with open(json_filepath, "w") as file:
         json.dump(url_data, file, indent=4)
 
@@ -118,7 +118,7 @@ def downloadCsv(url, csvs, badfile):
                 csvs += 1
             url_info["downloaded"] = True
         else:
-            print(f"bad status code")
+            print("bad status code")
             badfile += 1
     except requests.exceptions.RequestException as e:
         print(f"Unable to download file: {str(e)}")
@@ -127,7 +127,7 @@ def downloadCsv(url, csvs, badfile):
 
     # Add the url info to the dictionary, keyed by the URL
     url_data[url] = url_info
-    
+
     return csvs, badfile
 
 
@@ -135,10 +135,10 @@ timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 directory = f"sample_csvs_{timestamp}"
 json_directory = os.path.join(directory, "json")
 json_file = f"sample_csvs_{timestamp}_json"
- # Create the 'json' directory if it doesn't exist
+# Create the 'json' directory if it doesn't exist
 os.makedirs(json_directory, exist_ok=True)
 
- # Full path for the json file
+# Full path for the json file
 json_filepath = os.path.join(json_directory, json_file)
 
 
