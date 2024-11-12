@@ -109,7 +109,7 @@ def download_batch(pool,con,batchsize):
 if __name__ == '__main__':
     # Download up to 10 files at a time, in batches of 1000
     poolsize = 10
-    batchsize = 1000
+    batchsize = 100
 
     con = sqlite3.connect('spreadsheets.db', timeout=10)
     con.autocommit = False

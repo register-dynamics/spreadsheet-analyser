@@ -27,46 +27,24 @@ class Database:
                 'content_length': content_length
             })
             if action:
-                print(f"olgibbons debug: action is true: action : {action}")
                 if action[0] == "update-file":
-                    print("olgibbons DEBUG: action[0] DOES == 'update-file'")
                     arguments = list(action[2])
-                    print(f"olgibbons debug: arguments = list(action[2]) : {arguments}")
                     arguments.append(file_id)
-                    print(f'olgibbons debug: arguments have been appended with file_id: {arguments}')
                     updateCursor.execute(f"UPDATE files SET {action[1]} WHERE file_id = ?", arguments)
-                    print(f'olgibbons debug: if youre reading this the update files SET should have worked')
                 elif action[0] == "insert-spreadsheet":
-                    print(f"olgibbons debug: insert-spreadsheet has been selected")
                     arguments = list(action[2])
-                    print(f'olgibbons debug: arguments = list(action[2]) : {arguments}')
                     arguments.append(file_id)
                     arguments.append(file_name)
-                    print(f'olgibbons debug: we have appended file_id and file_name to arguments: {arguments}')
                     params = ",".join("?"*len(arguments))
-                    print(f'olgibbons len(arguments) = {len(arguments)}')
-                    print(f'olgibbons debug: we have set up params as ",".join("?"*len(arguments)) : {params}')
-                    print(f'''olgibbons debug: this is the sql statement we're trying to execute
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)''')
                     updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)
-                    print(f'''olgibbons if youre reading this update was successful:\n 
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)''')
                 elif action[0] == "insert-spreadsheets":
-                    print(f"olgibbons debug: insert-spreadsheets has been selected")
                     multi_arguments = list(action[2])
                     for arguments in multi_arguments:
-                        print(f'olgibbons debug: arguments = list(action[2]) : {arguments}')
+                        arguments = list(arguments)
                         arguments.append(file_id)
                         arguments.append(file_name)
-                        print(f'olgibbons debug: we have appended file_id and file_name to arguments: {arguments}')
                         params = ",".join("?"*len(arguments))
-                        print(f'olgibbons len(arguments) = {len(arguments)}')
-                        print(f'olgibbons debug: we have set up params as ",".join("?"*len(arguments)) : {params}')
-                        print(f'''olgibbons debug: this is the sql statement we're trying to execute
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)''')
                         updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)
-                        print(f'''olgibbons if youre reading this update was successful:\n 
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)''')
                 else:
                     print(f"ERROR: Unknown action from callback {action}")
         updateCursor.close()
@@ -146,7 +124,7 @@ with Database('spreadsheets.db') as db:
 '''
 
 #trying to analyse csv
-def analyse_csv(file_id, url, file_name, extras):
+def analyse_file(file_id, url, file_name, extras):
    try:
        #olgibbons ask alaric about this:
        dir = 'spreadsheet_files'
@@ -164,7 +142,6 @@ def analyse_csv(file_id, url, file_name, extras):
            df = pd.read_csv(file_path, encoding="ISO-8859-1", header=None, index_col=False, low_memory=False)
            table = Table(file_name, df)
            results = table.get_metadata_row()
-           print(f'The results are: {results}')
            return ("insert-spreadsheet",
                    '''
                    sheet_type,
@@ -197,28 +174,29 @@ def analyse_csv(file_id, url, file_name, extras):
                          str(results['empty_rows']),
                          0))
        elif file_type == 'xls':
-           thingy = open_xls(file_path) # FIXME
            sheet_summaries = []
-           for index in range(thingy.number_of_sheets): # FIXME
-               df = thingy.get_sheet_as_df(index) # FIXME
-               table = Table(file_name, df)
-               results = table.get_metadata_row()
-               sheet_summaries.push(("xls", results['number_of_rows'],
-                                     results ['percent_nan'],
-                                     results['percent_bulk'],
-                                     results['empty_top_rows'],
-                                     results['empty_bottom_rows'],
-                                     results['title_row'],
-                                     results['subtitles'],
-                                     results['full_table'],
-                                     str(results['fingerprint']),
-                                     results['row_count'],
-                                     results['column_count'],
-                                     results['empty_rows_count'],
-                                     str(results['empty_rows']),
-                                     index,
-                                     thingy.get_sheet_name(index))) # FIXME
-           return ("insert-spreadsheets",
+           with pd.ExcelFile(file_path) as xls:
+               sheet_names = xls.sheet_names
+               for index in range(len(sheet_names)): 
+                   df = pd.read_excel(xls, header=None, sheet_name=index)
+                   table = Table(file_name, df)
+                   results = table.get_metadata_row()
+                   sheet_summaries.append(("xls", results['number_of_rows'],
+                                            results ['percent_nan'],
+                                            results['percent_bulk'],
+                                            results['empty_top_rows'],
+                                            results['empty_bottom_rows'],
+                                            results['title_row'],
+                                            results['subtitles'],
+                                            results['full_table'],
+                                            str(results['fingerprint']),
+                                            results['row_count'],
+                                            results['column_count'],
+                                            results['empty_rows_count'],
+                                            str(results['empty_rows']),
+                                            index,
+                                            sheet_names[index])) 
+               return ("insert-spreadsheets",
                    '''
                    sheet_type,
                    number_of_rows,
@@ -242,13 +220,13 @@ def analyse_csv(file_id, url, file_name, extras):
            print(f"ERROR: Unknown file type, skipping: {file_name} type={content_type} extension={file_extension}")
             
    except Exception as e:
-       print(f'olgibbons: error has occured: {str(e)}')
+       print(f'olgibbons: error has occured: {str(e)} for file extension {file_extension} and content type {content_type}')
        return ("update-file", "parse_error_message=?", (str(e),))
   
 if __name__ == '__main__':
     with Database('spreadsheets.db') as db:
-        db.scanFiles("(content_type like 'text/csv%' or file_type like '%.csv') and file_name is not null", 100, analyse_file)
-      
+        db.scanFiles("file_name IS NOT NULL AND (SELECT COUNT(*) FROM spreadsheets WHERE spreadsheets.file_id = files.file_id) = 0", 1000, analyse_file)
+        #db.scanFiles("file_name IS NOT NULL AND file_type like '%xls' and parse_error_message is not null", 100, analyse_file)
  #scanfiles - where clause, batch size, callback
  #for row in :
  #SELECT file_id, url, file_name, file_type, content_type, content_length FROM files WHERE (content_type like 'text/csv%' or file_type like '%.csv') and file_name is not nul ORDER BY random() LIMIT ?", (batchSize,) single element tuple
