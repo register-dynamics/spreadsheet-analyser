@@ -7,6 +7,12 @@
 # Ignore Jupyter Checkpoints (whatever they are)
 .ipynb*/
 
+# Don't want cached python bytecode
+__pycache__
+
+# Don't include the linter's cache
+.ruff_cache
+
 # Ignore all directories starting with 'sample_csvs'
 sample_csvs*/
 
