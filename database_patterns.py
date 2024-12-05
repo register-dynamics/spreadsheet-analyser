@@ -23,6 +23,7 @@ class Database:
     def scanFiles(this, whereClause, batchSize, callback):
         scanCursor = this.con.cursor()
         updateCursor = this.con.cursor()
+        #iterating row by row is memory efficient because it fetches rows lazily (one at a time). Reach row is returned as a tuple
         for row in scanCursor.execute(
             f"SELECT file_id, url, file_name, file_type, content_type, content_length FROM files WHERE {whereClause} ORDER BY random() LIMIT ?",
             (batchSize,),
@@ -56,6 +57,7 @@ class Database:
                     )
                 elif action[0] == "insert-spreadsheets":
                     multi_arguments = list(action[2])
+                    print(f'olgibbons debug: multi_arguments = {multi_arguments}')
                     for arguments in multi_arguments:
                         arguments.append(file_id)
                         arguments.append(file_name)
@@ -246,7 +248,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     table = Table(file_name, df)
                     results = table.get_metadata_row()
                     sheet_summaries.append(
-                        (
+                        [
                             file_type,
                             results["number_of_rows"],
                             results["percent_nan"],
@@ -263,9 +265,9 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                             str(results["empty_rows"]),
                             index,
                             sheet_names[index],
-                        )
+                        ]
                     )
-                return (
+                return [
                     "insert-spreadsheets",
                     """
                     sheet_type,
@@ -286,7 +288,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     sheet_name
                     """,
                     sheet_summaries,
-                )
+                ]
         else:
             # Unknown file type
             print(
