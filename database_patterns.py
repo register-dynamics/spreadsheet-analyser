@@ -1,6 +1,7 @@
 import os
 import sqlite3
 
+from isort import file
 import pandas as pd
 
 from table import Table
@@ -182,6 +183,8 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
             "application/vnd.ms-excel"
         ) or file_extension.endswith(".xls"):
             file_type = "xls"
+        elif content_type.startswith("application/vnd.oasis.opendocument.spreadsheet") or file_extension.endswith(".ods"):
+            file_type = "ods"
         else:
             file_type = "UNKNOWN"
         if file_type == "csv":
@@ -238,11 +241,11 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
             with pd.ExcelFile(file_path) as spreadsheet:
                 sheet_names = spreadsheet.sheet_names
                 sheet_summaries = []
-                for index in range(sheet_names):
+                for index in range(len(sheet_names)):
                     df = pd.read_excel(spreadsheet, header=None, sheet_name=index)
                     table = Table(file_name, df)
                     results = table.get_metadata_row()
-                    sheet_summaries.push(
+                    sheet_summaries.append(
                         (
                             file_type,
                             results["number_of_rows"],
@@ -298,7 +301,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
 if __name__ == "__main__":
     with Database("spreadsheets.db") as db:
         db.scanFiles(
-            "file_name is not null",
+            "file_name is not null and file_type == '.ods'",
             100,
             analyse_spreadsheet,
         )
