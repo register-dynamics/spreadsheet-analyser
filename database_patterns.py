@@ -41,69 +41,27 @@ class Database:
                 if action[0] == "update-file":
                     arguments = list(action[2])
                     arguments.append(file_id)
-                    print(
-                        f"olgibbons debug: arguments have been appended with file_id: {arguments}"
-                    )
                     updateCursor.execute(
                         f"UPDATE files SET {action[1]} WHERE file_id = ?", arguments
                     )
-                    print(
-                        "olgibbons debug: if youre reading this the update files SET should have worked"
-                    )
                 elif action[0] == "insert-spreadsheet":
-                    print("olgibbons debug: insert-spreadsheet has been selected")
                     arguments = list(action[2])
-                    print(f"olgibbons debug: arguments = list(action[2]) : {arguments}")
                     arguments.append(file_id)
                     arguments.append(file_name)
-                    print(
-                        f"olgibbons debug: we have appended file_id and file_name to arguments: {arguments}"
-                    )
                     params = ",".join("?" * len(arguments))
-                    print(f"olgibbons len(arguments) = {len(arguments)}")
-                    print(
-                        f'olgibbons debug: we have set up params as ",".join("?"*len(arguments)) : {params}'
-                    )
-                    print(
-                        f"""olgibbons debug: this is the sql statement we're trying to execute
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)"""
-                    )
                     updateCursor.execute(
                         f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})",
                         arguments,
                     )
-                    print(
-                        f"""olgibbons if youre reading this update was successful:\n
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)"""
-                    )
                 elif action[0] == "insert-spreadsheets":
-                    print("olgibbons debug: insert-spreadsheets has been selected")
                     multi_arguments = list(action[2])
                     for arguments in multi_arguments:
-                        print(
-                            f"olgibbons debug: arguments = list(action[2]) : {arguments}"
-                        )
                         arguments.append(file_id)
                         arguments.append(file_name)
-                        print(
-                            f"olgibbons debug: we have appended file_id and file_name to arguments: {arguments}"
-                        )
                         params = ",".join("?" * len(arguments))
-                        print(f"olgibbons len(arguments) = {len(arguments)}")
-                        print(
-                            f'olgibbons debug: we have set up params as ",".join("?"*len(arguments)) : {params}'
-                        )
-                        print(
-                            f"""olgibbons debug: this is the sql statement we're trying to execute
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)"""
-                        )
                         updateCursor.execute(
                             f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})",
                             arguments,
-                        )
-                        print(
-                            f"""olgibbons if youre reading this update was successful:\n
-                          updateCursor.execute(f"INSERT INTO spreadsheets ({action[1]}, file_id, file_name) VALUES ({params})", arguments)"""
                         )
                 else:
                     print(f"ERROR: Unknown action from callback {action}")
@@ -207,10 +165,10 @@ with Database('spreadsheets.db') as db:
     db.scanFiles("file_name is not null", 100, handle_file_3)
 
 """
-
+EXCELFILETYPES = ['xls', 'xlsx', 'xlsb', 'xlsm', 'odf', 'ods', 'odt']
 
 # trying to analyse csv
-def analyse_csv(file_id, url, file_name, extras):
+def analyse_spreadsheet(file_id, url, file_name, extras):
     try:
         # olgibbons ask alaric about this:
         dir = "spreadsheet_files"
@@ -274,56 +232,58 @@ def analyse_csv(file_id, url, file_name, extras):
                     0,
                 ),
             )
-        elif file_type == "xls":
-            # TODO: open_xls doesn't exist
-            thingy = open_xls(file_path)  # FIXME
-            sheet_summaries = []
-            for index in range(thingy.number_of_sheets):  # FIXME
-                df = thingy.get_sheet_as_df(index)  # FIXME
-                table = Table(file_name, df)
-                results = table.get_metadata_row()
-                sheet_summaries.push(
-                    (
-                        "xls",
-                        results["number_of_rows"],
-                        results["percent_nan"],
-                        results["percent_bulk"],
-                        results["empty_top_rows"],
-                        results["empty_bottom_rows"],
-                        results["title_row"],
-                        results["subtitles"],
-                        results["full_table"],
-                        str(results["fingerprint"]),
-                        results["row_count"],
-                        results["column_count"],
-                        results["empty_rows_count"],
-                        str(results["empty_rows"]),
-                        index,
-                        thingy.get_sheet_name(index),
+        elif file_type in EXCELFILETYPES:
+            print(f'olgibbons DEBUG: file type {file_type} detected...')
+            #olgibbons: engine should be inferred, but if it doesn't work, we might need to handle the cases manually
+            with pd.ExcelFile(file_path) as spreadsheet:
+                sheet_names = spreadsheet.sheet_names
+                sheet_summaries = []
+                for index in range(sheet_names):
+                    df = pd.read_excel(spreadsheet, header=None, sheet_name=index)
+                    table = Table(file_name, df)
+                    results = table.get_metadata_row()
+                    sheet_summaries.push(
+                        (
+                            file_type,
+                            results["number_of_rows"],
+                            results["percent_nan"],
+                            results["percent_bulk"],
+                            results["empty_top_rows"],
+                            results["empty_bottom_rows"],
+                            results["title_row"],
+                            results["subtitles"],
+                            results["full_table"],
+                            str(results["fingerprint"]),
+                            results["row_count"],
+                            results["column_count"],
+                            results["empty_rows_count"],
+                            str(results["empty_rows"]),
+                            index,
+                            sheet_names[index],
+                        )
                     )
-                )  # FIXME
-            return (
-                "insert-spreadsheets",
-                """
-                   sheet_type,
-                   number_of_rows,
-                   percent_nan,
-                   percent_bulk,
-                   empty_top_rows,
-                   empty_bottom_rows,
-                   title_row,
-                   subtitles,
-                   full_table,
-                   fingerprint,
-                   row_count,
-                   column_count,
-                   empty_rows_count,
-                   empty_rows,
-                   sheet_index,
-                   sheet_name
-                   """,
-                sheet_summaries,
-            )
+                return (
+                    "insert-spreadsheets",
+                    """
+                    sheet_type,
+                    number_of_rows,
+                    percent_nan,
+                    percent_bulk,
+                    empty_top_rows,
+                    empty_bottom_rows,
+                    title_row,
+                    subtitles,
+                    full_table,
+                    fingerprint,
+                    row_count,
+                    column_count,
+                    empty_rows_count,
+                    empty_rows,
+                    sheet_index,
+                    sheet_name
+                    """,
+                    sheet_summaries,
+                )
         else:
             # Unknown file type
             print(
@@ -338,9 +298,9 @@ def analyse_csv(file_id, url, file_name, extras):
 if __name__ == "__main__":
     with Database("spreadsheets.db") as db:
         db.scanFiles(
-            "(content_type like 'text/csv%' or file_type like '%.csv') and file_name is not null",
+            "file_name is not null",
             100,
-            analyse_csv,
+            analyse_spreadsheet,
         )
 
 # scanfiles - where clause, batch size, callback
