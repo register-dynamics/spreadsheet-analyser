@@ -112,7 +112,7 @@ def generate_heatmaps(df_with_filenames, file_column='file_name', file_id_column
 def db_query(query):
     with Database('spreadsheets.db') as db:
         df = pd.read_sql(query, db.con)
-        display(df.reset_index(drop=True))
+        #display(df.reset_index(drop=True))
         return df
 
 if __name__ == '__main__':

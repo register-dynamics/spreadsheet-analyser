@@ -303,7 +303,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
 if __name__ == "__main__":
     with Database("spreadsheets.db") as db:
         db.scanFiles(
-            "file_name is not null and file_type == '.ods'",
+            "file_name is not null and file_type == '.xlsx'",
             100,
             analyse_spreadsheet,
         )
