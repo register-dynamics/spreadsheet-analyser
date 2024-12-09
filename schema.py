@@ -23,7 +23,9 @@ cur.execute(
                     redirect_url TEXT,
                     error_message TEXT,
                     status_reason TEXT,
-                    parse_error_message
+                    parse_error_message TEXT,
+                    detected_file_type TEXT,
+                    detected_mime_type TEXT
                 )
             """
 )

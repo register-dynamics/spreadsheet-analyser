@@ -1,5 +1,6 @@
 import os
 import sqlite3
+import magic
 
 from isort import file
 import pandas as pd
@@ -163,7 +164,6 @@ with Database('spreadsheets.db') as db:
 def handle_file_3(file_id, url, file_name, extras):
     return ("insert-spreadsheets", "sheet_type,sheet_index,sheet_name", (("test1",0,"hello"), ("test2",1,"goodbye")))
 
-
 with Database('spreadsheets.db') as db:
     db.scanFiles("file_name is not null", 100, handle_file_3)
 
@@ -179,13 +179,14 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
         content_type = extras["content_type"]
         file_extension = extras["file_type"]
 
-        if content_type.startswith("text/csv") or file_extension.endswith(".csv"):
+        #olgibbons: FIX LATER: We are naively assuming that filetypes correspond to their file extensions and ignoring content type for now
+        if file_extension.endswith(".csv"):
             file_type = "csv"
-        elif content_type.startswith(
-            "application/vnd.ms-excel"
-        ) or file_extension.endswith(".xls"):
+        elif file_extension.endswith(".xls"):
             file_type = "xls"
-        elif content_type.startswith("application/vnd.oasis.opendocument.spreadsheet") or file_extension.endswith(".ods"):
+        elif file_extension.endswith(".xlsx"):
+            file_type = 'xlsx'
+        elif file_extension.endswith(".ods"):
             file_type = "ods"
         else:
             file_type = "UNKNOWN"
@@ -299,13 +300,43 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
         print(f"olgibbons: error has occured: {str(e)}")
         return ("update-file", "parse_error_message=?", (str(e),))
 
+def detect_file_type(file_id, url, file_name, extras):
+    try:
+        dir = "spreadsheet_files"
+        file_path = os.path.join(dir, file_name)
+        # Open and read the file to detect its type
+        with open(file_path, 'rb') as f:
+            mime_detector = magic.Magic(mime=True)
+            type_detector = magic.Magic()
+            
+            detected_mime = mime_detector.from_buffer(f.read(2048))  # MIME type
+            f.seek(0)  # Reset the file pointer
+            detected_type = type_detector.from_buffer(f.read(2048))  # File type
+        
+        return (
+            "update-file",
+            "detected_file_type = ?, detected_mime_type = ?",
+            (detected_type, detected_mime),
+        )
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+        return None
+    except Exception as e:
+        print(f"Error processing file {file_path}: {e}")
+        return None
 
 if __name__ == "__main__":
+    '''with Database("spreadsheets.db") as db:
+        db.scanFiles(
+            "file_name is not null and file_type == '.xls'",
+            391,
+            analyse_spreadsheet,
+        )'''
     with Database("spreadsheets.db") as db:
         db.scanFiles(
-            "file_name is not null and file_type == '.xlsx'",
-            100,
-            analyse_spreadsheet,
+            "file_name is not null and file_type is null",
+            2897,
+            detect_file_type
         )
 
 # scanfiles - where clause, batch size, callback
