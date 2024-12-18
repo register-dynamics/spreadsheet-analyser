@@ -1,16 +1,28 @@
 from openpyxl import load_workbook
 
-def check_merged_cells_xlsx(file_path):
-    workbook = load_workbook(file_path)
-    merged_cells_info = []
-
-    for sheet_name in workbook.sheetnames:
-        sheet = workbook[sheet_name]
-        for merged_range in sheet.merged_cells.ranges:
-            print(f"Merged cells found in sheet '{sheet_name}': {merged_range}")
-            merged_cells_info.append((sheet_name, str(merged_range)))
-
-    return merged_cells_info
+def check_cells_xlsx(file_path):
+    wb = load_workbook(file_path)  
+    for sheet_name in wb.sheetnames:
+        sheet = wb[sheet_name]
+        empty_cell_count = 0
+        for row in sheet.iter_rows():
+            for cell in row:
+                if cell.value is not None:
+                    print('------------------------\n')
+                    print(f'cell value is {cell.value}')
+                    print(f'cell fill is {cell.fill}')
+                    print(f'cell fill patterntype: {cell.fill.patternType}')
+                    print(f'indexed color: {cell.fill.fgColor.indexed}')
+                    print('-------------------------\n')
+                elif cell.value is None and empty_cell_count <= 1:
+                    print('--------------------\n')
+                    print(f'EMPTY CELL\n')
+                    print(f'cell fill is {cell.fill}')
+                    print(f'cell fill patterntype: {cell.fill.patternType}')
+                    print(f'indexed color: {cell.fill.fgColor.indexed}')
+                    print('---------------------\n')
+                    empty_cell_count += 1
+                    
 
 def check_colored_cells_xlsx(file_path):
     wb = load_workbook(file_path)  
@@ -19,9 +31,14 @@ def check_colored_cells_xlsx(file_path):
         sheet = wb[sheet_name]
         for row in sheet.iter_rows():
             for cell in row:
-                if cell.fill.start_color.index != '00000000':
-                    print(f"Styling color {cell.fill.start_color.index} found in cell {cell.coordinate} of sheet '{sheet_name}'")
-                    has_styling = True
+                # Check if the cell has a fill and the fill is not "none"
+                if cell.fill and cell.fill.patternType != 'none':
+                    # Get the start color
+                    color = cell.fill.start_color
+                    # Check if the color is not default (e.g., transparent or white)
+                    if color.index not in ['00000000', 'FFFFFFFF']:
+                        print(f"Color {color.index} found in cell {cell.coordinate} of sheet '{sheet_name}'")
+                        has_color = True
 
     return has_color
 
@@ -49,4 +66,4 @@ if __name__ == '__main__':
             print(f"- {merged_range} in sheet '{sheet_name}'")
     else:
         print("No merged cells found.")'''
-    check_colored_cells_xlsx(file_path)
+    check_cells_xlsx(file_path)
