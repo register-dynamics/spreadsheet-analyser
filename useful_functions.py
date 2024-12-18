@@ -4,6 +4,7 @@ from table import Table
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
+import magic
 
 
 def df_by_file_id(file_id, sheet_index=None):
@@ -115,5 +116,6 @@ def db_query(query):
         #display(df.reset_index(drop=True))
         return df
 
-if __name__ == '__main__':
-    db_query('SELECT * from files LIMIT 1')
+def detect_file():
+    if __name__ == '__main__':
+        db_query('SELECT * from files LIMIT 1')
