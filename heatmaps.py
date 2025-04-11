@@ -35,9 +35,9 @@ def generate_heatmaps(df_with_filenames, color='cool', file_column='file_name', 
             if file_path.lower().endswith('_csv'):
                 file_df = pd.read_csv(file_path, encoding="ISO-8859-1") 
             elif file_path.lower().endswith('_xls'):
-                file_df = pd.read_excel(file_path, sheet_name=sheet_index)
+                file_df = pd.read_excel(file_path, sheet_name=sheet_index,header=None)
             elif file_path.lower().endswith(('_xlsx','_ods')):
-                file_df = pd.read_excel(file_path, sheet_name=sheet_index)
+                file_df = pd.read_excel(file_path, sheet_name=sheet_index,header=None)
             else:
                 print(f"Unsupported file type for {file_path}. Skipping.")
                 continue

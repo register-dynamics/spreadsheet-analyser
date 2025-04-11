@@ -4,6 +4,8 @@ import magic
 
 from isort import file
 import pandas as pd
+import xlrd
+import openpyxl
 
 from table import Table
 
@@ -170,6 +172,21 @@ with Database('spreadsheets.db') as db:
 """
 EXCELFILETYPES = ['xls', 'xlsx', 'xlsb', 'xlsm', 'odf', 'ods', 'odt']
 
+# oj testing merged cells checker
+def check_for_merged_cells(path, type, sheet):
+    if type == 'xls':
+        wb = xlrd.open_workbook(path, formatting_info=True)
+        sheet = wb[sheet]
+        return len(sheet.merged_cells)
+    elif type == 'xlsx':
+        wbook = open(path, "rb")
+        wb = openpyxl.load_workbook(wbook)
+        sheet = wb[sheet]
+        return len(sheet.merged_cells.ranges)
+    
+
+
+
 # trying to analyse csv
 def analyse_spreadsheet(file_id, url, file_name, extras):
     try:
@@ -248,6 +265,9 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     df = pd.read_excel(spreadsheet, header=None, sheet_name=index)
                     table = Table(file_name, df)
                     results = table.get_metadata_row()
+                    #oj testing for merged cells
+                    merged_cells_count = check_for_merged_cells(file_path, file_type, sheet_names[index])
+
                     sheet_summaries.append(
                         [
                             file_type,
@@ -266,6 +286,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                             str(results["empty_rows"]),
                             index,
                             sheet_names[index],
+                            merged_cells_count,
                         ]
                     )
                 return [
@@ -286,7 +307,8 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     empty_rows_count,
                     empty_rows,
                     sheet_index,
-                    sheet_name
+                    sheet_name,
+                    merged_cells_instances
                     """,
                     sheet_summaries,
                 ]

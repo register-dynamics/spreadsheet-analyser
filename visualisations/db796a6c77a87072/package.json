@@ -1,0 +1,14 @@
+{
+  "name": "db796a6c77a87072",
+  "main": "db796a6c77a87072@45.js",
+  "version": "45.0.0",
+  "homepage": "https://observablehq.com/d/db796a6c77a87072",
+  "author": {
+    "name": "Register Dynamics",
+    "url": "https://observablehq.com/@register-dynamics"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

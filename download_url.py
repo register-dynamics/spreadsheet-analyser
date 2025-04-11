@@ -89,7 +89,7 @@ def update_db(cursor, result):
         e = result[2]
         cursor.execute(
             "UPDATE files SET error_message = ?, last_modified = ? WHERE url = ?",
-            (e, now, url),
+            (str(e), now, url),
         )
 
     return result
