@@ -1,0 +1,14 @@
+{
+  "name": "69784fe59c63206f",
+  "main": "69784fe59c63206f@340.js",
+  "version": "340.0.0",
+  "homepage": "https://observablehq.com/d/69784fe59c63206f",
+  "author": {
+    "name": "Register Dynamics",
+    "url": "https://observablehq.com/@register-dynamics"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

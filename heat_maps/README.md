@@ -1,6 +1,6 @@
-# Spreadsheet Analysis (row number)
+# Heat Maps
 
-https://observablehq.com/d/db796a6c77a87072@45
+https://observablehq.com/d/69784fe59c63206f@340
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +14,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/db796a6c77a87072@45.tgz?v=3
+npm install https://api.observablehq.com/d/69784fe59c63206f@340.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "db796a6c77a87072";
+import define from "69784fe59c63206f";
 ~~~
 
 To log the value of the cell named “foo”:
