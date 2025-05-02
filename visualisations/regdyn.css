@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "DM Serif Display";
+    font-style: normal;
+    src: local("DM Serif Display"), url(assets/DMSerifDisplay-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "DM Serif Display";
+    font-style: italic;
+    src: local("DM Serif Display"), url(assets/DMSerifDisplay-Italic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Chivo";
+    font-style: normal;
+    src: local("Chivo"), url(assets/Chivo-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Chivo";
+    font-style: italic;
+    src: local("Chivo"), url(assets/Chivo-Italic-VariableFont_wght.ttf) format('truetype');
+}
+
+:root {
+    --dark-green: rgb(0, 70, 30);
+    --lite-green: rgb(200, 250, 100);
+    --text-green: rgb(75, 95, 90);
+
+    --accent-cyan: rgb(180, 250, 255);
+    --accent-orange: rgb(250, 212, 100);
+    --accent-red: rgb(250, 130, 130);
+    --accent-purple: rgb(159, 107, 255);
+
+    --body-width: 1024px;
+}
+
+body {
+    max-width: var(--body-width);
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: "Chivo";
+    color: var(--text-green);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "DM Serif Display";
+    font-weight: normal;
+    color: var(--dark-green);
+}
+
+h1 {
+    font-size: 300%;
+}
+
+body > div {
+    margin-bottom: 2em;
+    position: relative;
+
+    h2, h3, h4, h5, h6 {
+        margin-top: 4em;
+        margin-bottom: 0;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+body > div:first-of-type {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 7em max(2ch, calc((100vw - var(--body-width))/2)) 0;
+    margin-top: 0;
+    background-color: var(--dark-green);
+
+    & h1, p {
+        color: white;
+    }
+
+    + * {
+        margin-top: 13em;
+    }
+}
+
+table {
+    margin-bottom: 1em;
+}
+
+a[download] {
+    position: unset !important;
+    border-radius: 5px !important;
+    width: unset !important;
+    padding: 5px 1ch;
+    margin-top: 1em;
+
+    background-color: white !important;
+    border: 1px solid var(--dark-green);
+    color: var(--text-green) !important;
+    cursor: pointer;
+
+    & button {
+        cursor: inherit;
+    }
+
+    & button::before {
+        content: "Download";
+        padding-right: 1ch;
+    }
+}
+
+img[src="assets/banner.svg"] {
+    position: relative;
+    max-width: 250px;
+    top: 2em;
+    left: 1ch;
+    z-index: 1;
+}
