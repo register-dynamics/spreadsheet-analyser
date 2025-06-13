@@ -1,5 +1,5 @@
 # Ignore CSV files
-*.csv
+./*.csv
 
 # Ignore Jupyter Notebooks
 *.ipynb
@@ -28,3 +28,6 @@ venv/
 
 # Ignore spreadsheet files
 spreadsheet*/
+
+# Mac stuff
+.DS_Store
