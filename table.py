@@ -15,9 +15,14 @@ class Table:
             "empty_bottom_rows": False,
             "title_row": False,
             "subtitles": False,
+            "data_not_in_A1": False,
             "percent_bulk": None,
+            "multiple_tables": False
         }
         self.fingerprint = self.fingerprint()
+        self.footprint = self.footprint()
+        self.fingerprint_numeric = self.fingerprint_numeric()
+        self.footprint_numeric = self.footprint_numeric()
         self.fingerprint_analyse()
         self.empty_rows = pd.Series()
         self.empty_row_indices = []
@@ -79,6 +84,126 @@ class Table:
         # add last tuple
         fingerprint.append((blank_row_count, filled_row_count))
         return fingerprint
+    
+    def footprint(self):
+        """Create a footprint of empty and non empty columns as a list of tuples"""
+        """The footprint is best understood as each tuple representing (n blank columns, followed by n non blank columns)"""
+        # Create a series/list of value counts where count > 0 is a non empty column
+        value_count = self.dataframe.notna().sum(axis=0)
+
+        footprint = []
+        blank_row_count = 0
+        filled_row_count = 0
+        blank_row = False
+
+        # First check if top row is empty
+        if value_count[0] == 0:
+            blank_row = True
+
+        for count in value_count:
+            # new blank row detected, update the footprint list
+            if count == 0 and blank_row is False:
+                footprint.append((blank_row_count, filled_row_count))
+                # reset counts
+                blank_row_count = 1
+                filled_row_count = 0
+                blank_row = True
+            # An additional (or top) blank row detected, increment the count
+            elif count == 0 and blank_row is True:
+                blank_row_count += 1
+            # non empty row detected, update footprint list
+            elif count != 0 and blank_row is True:
+                # reset the counts
+                filled_row_count = 1
+                blank_row = False
+            # An additional non empty row detected, increment the count
+            elif count != 0 and blank_row is False:
+                filled_row_count += 1
+        # add last tuple
+        footprint.append((blank_row_count, filled_row_count))
+        return footprint
+    
+    def fingerprint_numeric(self):
+        """Create a fingerprint of empty and non empty rows as a list of tuples"""
+        """The fingerprint is best understood as each tuple representing (n blank rows, followed by n non blank rows)"""
+        # Attempt to convert all values to numeric
+        numeric_df = self.dataframe.apply(pd.to_numeric, errors='coerce')
+
+        # Create a series/list of value counts where count > 0 is a non empty row
+        value_count = numeric_df.notna().sum(axis=1)
+
+        fingerprint = []
+        blank_row_count = 0
+        filled_row_count = 0
+        blank_row = False
+
+        # First check if top row is empty
+        if value_count[0] == 0:
+            blank_row = True
+
+        for count in value_count:
+            # new blank row detected, update the fingerprint list
+            if count == 0 and blank_row is False:
+                fingerprint.append((blank_row_count, filled_row_count))
+                # reset counts
+                blank_row_count = 1
+                filled_row_count = 0
+                blank_row = True
+            # An additional (or top) blank row detected, increment the count
+            elif count == 0 and blank_row is True:
+                blank_row_count += 1
+            # non empty row detected, update fingerprint list
+            elif count != 0 and blank_row is True:
+                # reset the counts
+                filled_row_count = 1
+                blank_row = False
+            # An additional non empty row detected, increment the count
+            elif count != 0 and blank_row is False:
+                filled_row_count += 1
+        # add last tuple
+        fingerprint.append((blank_row_count, filled_row_count))
+        return fingerprint
+    
+    def footprint_numeric(self):
+        """Create a footprint of empty and non empty columns as a list of tuples"""
+        """The footprint is best understood as each tuple representing (n blank columns, followed by n non blank columns)"""
+        # Attempt to convert all values to numeric
+        numeric_df = self.dataframe.apply(pd.to_numeric, errors='coerce')
+
+        # Create a series/list of value counts where count > 0 is a non empty column
+        value_count = self.dataframe.notna().sum(axis=0)
+
+        footprint = []
+        blank_row_count = 0
+        filled_row_count = 0
+        blank_row = False
+
+        # First check if top row is empty
+        if value_count[0] == 0:
+            blank_row = True
+
+        for count in value_count:
+            # new blank row detected, update the footprint list
+            if count == 0 and blank_row is False:
+                footprint.append((blank_row_count, filled_row_count))
+                # reset counts
+                blank_row_count = 1
+                filled_row_count = 0
+                blank_row = True
+            # An additional (or top) blank row detected, increment the count
+            elif count == 0 and blank_row is True:
+                blank_row_count += 1
+            # non empty row detected, update footprint list
+            elif count != 0 and blank_row is True:
+                # reset the counts
+                filled_row_count = 1
+                blank_row = False
+            # An additional non empty row detected, increment the count
+            elif count != 0 and blank_row is False:
+                filled_row_count += 1
+        # add last tuple
+        footprint.append((blank_row_count, filled_row_count))
+        return footprint
 
     def fingerprint_analyse(self):
         # Find bulk data
@@ -97,7 +222,8 @@ class Table:
             self.fingerprint_flags["full_table"] = True
 
         # Split data if there are multiple sections
-        if len(self.fingerprint) > 1:
+        print(self.name)
+        if len(self.fingerprint) > 1 or len(self.footprint) > 1:
             # Check if the non-nan rows are less than the bulk data
             if self.fingerprint[0][1] > 1 and self.fingerprint[0][1] < bulk:
                 self.fingerprint_flags["title_row"] = True
@@ -107,6 +233,24 @@ class Table:
             for i in range(1, len(self.fingerprint) - 2):
                 if self.fingerprint[i][1] < bulk:
                     self.fingerprint_flags["subtitles"] = True
+
+            
+
+        # Does data start in A1
+        if self.fingerprint[0][0] > 0 or self.footprint[0][0] >0:
+            self.fingerprint_flags["data_not_in_A1"] = True
+
+        # Try to find multiple logical tables
+        table_count = 0
+        for i in range(0, len(self.fingerprint_numeric)):
+            if self.fingerprint_numeric[i][1] > 1 and len(self.fingerprint_numeric) > 1:
+                table_count += 1
+        for i in range(0, len(self.footprint_numeric)):
+            if self.footprint_numeric[i][1] > 1 and len(self.footprint_numeric) > 1:
+                table_count += 1
+
+        if table_count > 1:
+            self.fingerprint_flags["multiple_tables"] = True       
 
     def get_metadata_row(self):
         """Return a dictionary of metadata for this table in sqlite compatible types."""
@@ -124,8 +268,13 @@ class Table:
             "empty_rows_count": len(self.empty_row_indices[0]),
             "empty_rows": self.empty_rows,
             "fingerprint": self.fingerprint,  # convert to string as SQLITE hates lists
+            "footprint": self.footprint,  # convert to string as SQLITE hates lists
+            "fingerprint_numeric": self.fingerprint_numeric,  # convert to string as SQLITE hates lists
+            "footprint_numeric": self.footprint_numeric,  # convert to string as SQLITE hates lists
             "row_count": self.dataframe.shape[0],
             "column_count": self.dataframe.shape[1],
+            "data_not_in_A1": self.fingerprint_flags.get("data_not_in_A1", False),
+            "multiple_tables": self.fingerprint_flags.get("multiple_tables", False),
             # Add more fields as needed
         }
         return metadata_row

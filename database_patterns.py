@@ -172,7 +172,7 @@ with Database('spreadsheets.db') as db:
 """
 EXCELFILETYPES = ['xls', 'xlsx', 'xlsb', 'xlsm', 'odf', 'ods', 'odt']
 
-# oj testing merged cells checker
+# oj testing merged cells checker and table count (for xlsx)
 def check_for_merged_cells(path, type, sheet):
     if type == 'xls':
         wb = xlrd.open_workbook(path, formatting_info=True)
@@ -183,6 +183,15 @@ def check_for_merged_cells(path, type, sheet):
         wb = openpyxl.load_workbook(wbook)
         sheet = wb[sheet]
         return len(sheet.merged_cells.ranges)
+    
+def count_user_defined_tables(path, type, sheet):
+    if type == 'xlsx':
+        wbook = open(path, "rb")
+        wb = openpyxl.load_workbook(wbook)
+        sheet = wb[sheet]
+        return len(sheet.tables)
+    else:
+        return 0
     
 
 
@@ -231,10 +240,15 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                    subtitles,
                    full_table,
                    fingerprint,
+                   footprint,
+                   fingerprint_numeric,
+                   footprint_numeric,
                    row_count,
                    column_count,
                    empty_rows_count,
                    empty_rows,
+                   data_not_in_A1,
+                   multiple_tables,
                    sheet_index
                    """,
                 (
@@ -248,10 +262,15 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     results["subtitles"],
                     results["full_table"],
                     str(results["fingerprint"]),
+                    str(results["footprint"]),
+                    str(results["fingerprint_numeric"]),
+                    str(results["footprint_numeric"]),
                     results["row_count"],
                     results["column_count"],
                     results["empty_rows_count"],
                     str(results["empty_rows"]),
+                    results["data_not_in_A1"],
+                    results["multiple_tables"],
                     0,
                 ),
             )
@@ -267,6 +286,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     results = table.get_metadata_row()
                     #oj testing for merged cells
                     merged_cells_count = check_for_merged_cells(file_path, file_type, sheet_names[index])
+                    table_count = count_user_defined_tables(file_path, file_type, sheet_names[index])
 
                     sheet_summaries.append(
                         [
@@ -280,6 +300,9 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                             results["subtitles"],
                             results["full_table"],
                             str(results["fingerprint"]),
+                            str(results["footprint"]),
+                            str(results["fingerprint_numeric"]),
+                            str(results["footprint_numeric"]),
                             results["row_count"],
                             results["column_count"],
                             results["empty_rows_count"],
@@ -287,6 +310,9 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                             index,
                             sheet_names[index],
                             merged_cells_count,
+                            results["data_not_in_A1"],
+                            table_count,
+                            results["multiple_tables"],
                         ]
                     )
                 return [
@@ -302,13 +328,19 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     subtitles,
                     full_table,
                     fingerprint,
+                    footprint,
+                    fingerprint_numeric,
+                    footprint_numeric,
                     row_count,
                     column_count,
                     empty_rows_count,
                     empty_rows,
                     sheet_index,
                     sheet_name,
-                    merged_cells_instances
+                    merged_cells_instances,
+                    data_not_in_A1,
+                    no_of_user_defined_tables,
+                    multiple_tables
                     """,
                     sheet_summaries,
                 ]

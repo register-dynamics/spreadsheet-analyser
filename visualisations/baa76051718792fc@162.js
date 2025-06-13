@@ -44,7 +44,7 @@ function _chart_1(d3,row_no)
 
   const color = d3.scaleOrdinal()
       .domain(metrics)
-      .range(["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2","#7f7f7f","#bcbd22","#17becf"])
+      .range(["#c8fa64","#00461e"])
       .unknown("#ccc");
 
   // Y encodes the height of the bar.
@@ -147,7 +147,7 @@ function _chart_2(d3,titles)
 
   const color = d3.scaleOrdinal()
       .domain(metrics)
-      .range(["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2","#7f7f7f","#bcbd22","#17becf"])
+      .range(["#c8fa64","#00461e"])
       .unknown("#ccc");
 
   // Y encodes the height of the bar.
@@ -248,7 +248,7 @@ function _chart_3(d3,empty_row)
 
   const color = d3.scaleOrdinal()
       .domain(metrics)
-      .range(["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2","#7f7f7f","#bcbd22","#17becf"])
+      .range(["#c8fa64","#00461e"])
       .unknown("#ccc");
 
   // Y encodes the height of the bar.

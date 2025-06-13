@@ -47,6 +47,7 @@ cur.execute(
                 subtitles BOOLEAN,
                 full_table BOOLEAN,
                 fingerprint TEXT,
+                footprint TEXT,
                 row_count INTEGER,
                 column_count INTEGER,
                 empty_rows_count INTEGER,

@@ -1,0 +1,41 @@
+# title pages 
+SELECT * 
+FROM spreadsheets 
+WHERE LOWER(sheet_name) LIKE "%cover%"
+OR LOWER(sheet_name) LIKE "%summary%"
+OR LOWER(sheet_name) LIKE "%content%"
+OR LOWER(sheet_name) LIKE "%note%"
+OR LOWER(sheet_name) LIKE "%title%"
+OR LOWER(sheet_name) LIKE "%chart%"
+OR LOWER(sheet_name) LIKE "%drop down list%"
+OR LOWER(sheet_name) LIKE "%glossary%"
+OR LOWER(sheet_name) LIKE "%about%"
+OR LOWER(sheet_name) LIKE "%info%"
+OR LOWER(sheet_name) LIKE "%commentary%"
+OR LOWER(sheet_name) LIKE "%intro%"
+OR LOWER(sheet_name) LIKE "%appendix%"
+OR LOWER(sheet_name) LIKE "%highlight%"
+OR LOWER(sheet_name) LIKE "%explanation%"
+
+# multiple tuples in a fingerprint
+SELECT COUNT(*)
+FROM spreadsheets
+WHERE fingerprint LIKE "%), (%"
+
+# multiple tuples and first tuple not (0, 1)
+SELECT COUNT(*)
+FROM spreadsheets
+WHERE fingerprint LIKE "%), (%"
+AND fingerprint NOT LIKE "[(0, 1),%"
+
+# >=3 tuples
+SELECT COUNT(*)
+FROM spreadsheets
+WHERE fingerprint LIKE "%), (%), (%"
+
+#fingerprints length
+SELECT file_id, file_name, sheet_id, sheet_type, sheet_name, length(fingerprint)
+FROM spreadsheets
+ORDER BY length(fingerprint)
+
+#data not in A1
