@@ -1,0 +1,4 @@
+Description,Count,Percentage
+Multiple tuples in fingerprint (i.e. potentially multiple tables),8304,0.5653979709947573
+"Multiple tuples in fingerprint and 1st tuple not (0, 1) (i.e. first is probably a title)",4662,0.3174235718662763
+3 or more tuples (i.e. almost certainly more than one table even if titles),5632,0.3834683733914346
