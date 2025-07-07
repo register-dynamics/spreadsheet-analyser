@@ -226,6 +226,26 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
             )
             table = Table(file_name, df)
             results = table.get_metadata_row()
+
+            machine_unfriend = 0
+
+            if str(results["empty_rows"]) != "0":
+                machine_unfriend += 1
+            if results["title_row"] == True:
+                machine_unfriend += 1
+            if results["subtitles"] == True:
+                machine_unfriend += 1
+            if results["empty_top_rows"] == True:
+                machine_unfriend += 1
+            if results["empty_bottom_rows"] == True:
+                machine_unfriend += 1
+            if results["data_not_in_A1"] == True:
+                machine_unfriend += 1
+            if results["multiple_tables"] == True:
+                machine_unfriend += 1
+            
+                       
+
             print(f"The results are: {results}")
             return (
                 "insert-spreadsheet",
@@ -249,7 +269,8 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                    empty_rows,
                    data_not_in_A1,
                    multiple_tables,
-                   sheet_index
+                   sheet_index,
+                   machine_unfriendliness
                    """,
                 (
                     "csv",
@@ -272,6 +293,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     results["data_not_in_A1"],
                     results["multiple_tables"],
                     0,
+                    machine_unfriend,
                 ),
             )
         elif file_type in EXCELFILETYPES:
@@ -287,7 +309,26 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     #oj testing for merged cells
                     merged_cells_count = check_for_merged_cells(file_path, file_type, sheet_names[index])
                     table_count = count_user_defined_tables(file_path, file_type, sheet_names[index])
+                    machine_unfriend = 0
 
+                    if str(results["empty_rows"]) != "0":
+                        machine_unfriend += 1
+                    if results["title_row"] == True:
+                        machine_unfriend += 1
+                    if results["subtitles"] == True:
+                        machine_unfriend += 1
+                    if results["empty_top_rows"] == True:
+                        machine_unfriend += 1
+                    if results["empty_bottom_rows"] == True:
+                        machine_unfriend += 1
+                    if results["data_not_in_A1"] == True:
+                        machine_unfriend += 1
+                    if results["multiple_tables"] == True:
+                        machine_unfriend += 1
+                    if merged_cells_count != 0:
+                        machine_unfriend += 1
+             
+                  
                     sheet_summaries.append(
                         [
                             file_type,
@@ -313,6 +354,7 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                             results["data_not_in_A1"],
                             table_count,
                             results["multiple_tables"],
+                            machine_unfriend,
                         ]
                     )
                 return [
@@ -340,7 +382,8 @@ def analyse_spreadsheet(file_id, url, file_name, extras):
                     merged_cells_instances,
                     data_not_in_A1,
                     no_of_user_defined_tables,
-                    multiple_tables
+                    multiple_tables,
+                    machine_unfriendliness
                     """,
                     sheet_summaries,
                 ]

@@ -33,8 +33,8 @@ class Table:
         nan_series = self.dataframe.isna().all(axis=1)
         empty_row_indices = self.dataframe.index[nan_series]
         self.empty_row_indices.append(empty_row_indices)
-        if nan_series.any() is True:
-            empty_rows = nan_series[nan_series is True]
+        if nan_series.any()==True:
+            empty_rows = nan_series[nan_series==True]
             self.empty_rows = pd.Series(empty_rows)
             return True
         else:
@@ -242,11 +242,8 @@ class Table:
 
         # Try to find multiple logical tables
         table_count = 0
-        for i in range(0, len(self.fingerprint_numeric)):
-            if self.fingerprint_numeric[i][1] > 1 and len(self.fingerprint_numeric) > 1:
-                table_count += 1
-        for i in range(0, len(self.footprint_numeric)):
-            if self.footprint_numeric[i][1] > 1 and len(self.footprint_numeric) > 1:
+        for i in range(0, len(self.fingerprint)):
+            if self.fingerprint[i][1] > 1 and len(self.fingerprint) > 1:
                 table_count += 1
 
         if table_count > 1:

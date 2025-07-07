@@ -1,0 +1,59 @@
+﻿Title:,,,Note on data and methodology,,,,,,,,,,
+"Borough by sector employee jobs, 1971-2021. April 2023 Update",,,"
+Methodology
+Borough employee data from the ONS Business Register and Employment Survey (BRES) differs from ONS Workforce Jobs (WFJ) (which does not have a geographic component below the London level) due to differences in methodology and coverage. To create a jobs series for boroughs and sectors that is consistent over time, we use the technique of Iterative Proportion Fitting (IPF). 
+
+We start with the borough-by-sector shares obtained from BRES (or earlier sources, see left) and calibrate these with control totals for London borough employees and London sector employees. The borough control totals are obtained by taking borough shares of London employee jobs from BRES and applying these to London employee jobs from WFJ. The sector control totals are obtained from WFJ.
+
+The IPF algorithm then adjusts each of the borough-by-sector shares until they sum to the control totals.
+
+In the last update (May 2022) we re-calculated all years from 1996-2015 using revisions to the WFJ series, as well as adding the latest data for 2016-2020. In this update we re-calculate 2016-2019 and confirm there are no changes. Data for 2020 uses revised rather than provisional BRES estimates so contains minor changes. 2021 estimates are new to the series and based on provisional BRES data.
+
+Disclosure and rounding
+
+Estimates have been rounded in line with standard BRES disclosure rules.
+
+Margin of error
+
+This series is experimental and based on the interaction of two estimated series which both have significant sampling errors.
+
+For BRES, coefficients of variation (CVs) are published at the level of total employees at the borough level and range from 0.8% to 2.3% For Workforce Jobs, CVs are published at the region-by-sector level, and for London range from 1.0% to 11.8%. 
+
+The series is experimental and should be used with caution.
+
+",,,,,,,,,,
+,,,,,,,,,,,,,
+Contents of this workbook:,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Worksheet,Description,,,,,,,,,,,,
+Employee Jobs,"Estimated employee jobs by for industry sections (SIC 2007, A-S), 1971 to 2021",,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data sources used:,,,,,,,,,,,,,
+- BRES outputs 2016-2021,,,,,,,,,,,,,
+- WFJ outputs 1996-2021,,,,,,,,,,,,,
+- Previous GLA Economics borough-by-sector and borough employee jobs estimates,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Borough by Sector page on the London Datastore:,,,,,,,,,,,,,
+https://data.london.gov.uk/dataset/borough-by-sector,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Previous update:,,,,,,,,,,,,,
+May-22,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Contact details:,,,,,,,,,,,,,
+"Nick Jacob, GLA Economics",,,,,,,,,,,,,
+nick.jacob@london.gov.uk,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

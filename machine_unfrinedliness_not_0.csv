@@ -1,0 +1,35 @@
+file_name,file_id,sheet_id,sheet_type,number_of_rows,percent_nan,percent_bulk,empty_top_rows,empty_bottom_rows,title_row,subtitles,full_table,fingerprint,row_count,column_count,empty_rows_count,empty_rows,sheet_index,sheet_name,merged_cells_instances,footprint,data_not_in_A1,multiple_tables,fingerprint_numeric,footprint_numeric,no_of_user_defined_tables,machine_unfriendliness
+19265__s3_eu_west_1_amazonaws_com_data_defra_gov_uk_Forestry_FC_OpenData_Stats_Woodproduction1976_2015final_xls,19265,26072,xls,57,24.06015038,92.98245614,0,0,0,0,0,"[(0, 1), (1, 53), (1, 1)]",57,7,2,"1     True
+55    True
+dtype: bool",0,England,0,"[(0, 7)]",0,0,"[(5, 40), (12, 0)]","[(0, 7)]",0,1
+5338__assets_publishing_service_gov_uk_government_uploads_system_uploads_attachment_data_file_1072034_fuel_poverty_sub_regional_2022_tables_xlsx,5338,20984,xlsx,539,0.834879406,99.25788497,0,0,0,0,0,"[(0, 1), (1, 535), (1, 1)]",539,6,2,"1      True
+537    True
+dtype: bool",7,Table 4,1,"[(0, 6)]",0,0,"[(3, 533), (3, 0)]","[(0, 6)]",0,2
+8057__assets_publishing_service_gov_uk_media_662128a577a30aa0c4757ed3_GBIS_Release_April_2024_xlsx,8057,19894,xlsx,13,53.84615385,76.92307692,0,1,0,0,0,"[(0, 10), (1, 2)]",13,5,1,"10    True
+dtype: bool",11,T8,0,"[(0, 5)]",0,1,"[(5, 3), (5, 0)]","[(0, 5)]",1,3
+12261__data_london_gov_uk_download_housing_london_951398a1_fe73_462e_bb1d_a14155ae7d7f_HIL_25202015_2520tables_2520__2520no_2520charts_xls,12261,24936,xls,12,49.30555556,58.33333333,0,1,1,0,0,"[(0, 3), (2, 7)]",12,12,2,"3    True
+4    True
+dtype: bool",96,6.8 Dwelling age by tenure,0,"[(0, 12)]",0,1,"[(0, 1), (6, 5)]","[(0, 12)]",0,4
+7604__assets_publishing_service_gov_uk_media_5fb3ca77e90e07208d0d5de1_RHI_monthly_official_stats_tables_Oct_20_final_xlsx,7604,27251,xlsx,32,43.75,34.375,0,1,1,1,0,"[(0, 2), (1, 1), (1, 11), (1, 3), (1, 8), (1, 2)]",32,4,5,"2     True
+4     True
+16    True
+20    True
+29    True
+dtype: bool",1,Contents,0,"[(0, 4)]",0,1,"[(6, 7), (19, 0)]","[(0, 4)]",0,5
+21681__s3_eu_west_1_amazonaws_com_data_defra_gov_uk_ENCA_ENCA_Case_Studies_3_0_July_2023_Final_xlsx,21681,20756,xlsx,11,50,63.63636364,0,1,1,0,0,"[(0, 3), (1, 7)]",11,6,1,"3    True
+dtype: bool",4,3. Other collections,1,"[(1, 5)]",1,1,"[(11, 0)]","[(1, 5)]",0,6
+12272__data_london_gov_uk_download_leggi_4b951dff_7512_4ad1_af97_b6498460596d_LEGGI_2017_xls,12272,16307,xls,89,34.1994382,41.57303371,1,1,0,1,0,"[(1, 1), (1, 37), (1, 3), (1, 1), (1, 37), (1, 4)]",89,16,6,"0     True
+2     True
+40    True
+44    True
+46    True
+84    True
+dtype: bool",5,03b Data_Residual,19,"[(1, 15)]",1,1,"[(6, 34), (2, 2), (6, 34), (5, 0)]","[(1, 15)]",0,7
+12135__data_london_gov_uk_download_climate___equalities_tool_85c59217_52ed_4189_a700_699fa900cde1_C_2526E_2520Tool_Template_xlsx,12135,20323,xlsx,29,54.67980296,34.48275862,1,1,1,1,0,"[(1, 4), (1, 10), (3, 5), (1, 1), (1, 2)]",29,7,7,"0     True
+5     True
+16    True
+17    True
+18    True
+24    True
+26    True
+dtype: bool",4,Buildings & Energy,1,"[(1, 6)]",1,1,"[(29, 0)]","[(1, 6)]",0,8
