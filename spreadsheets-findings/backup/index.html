@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Spreadsheets - good for humans, difficult for machine reading</title>
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<link rel="stylesheet" type="text/css" href="./regdyn.css">
+<link rel="icon" type="image/png" href="assets/logo.png">
+<body>
+<img src="assets/banner.svg">
+<script type="module">
+
+import define from "./index.js";
+import {Runtime, Library, Inspector} from "./runtime.js";
+
+const runtime = new Runtime();
+const inspect = Inspector.into(document.body)
+
+const cells = new Set(["title","text_1","heat_map_grid","text_2","subtitle_1","text_3","key_1","chart_1","table_1","subtitle_2","text_4","key_2","chart_2","subtitle_3","text_5","key_3","chart_3","text_6"]); // The cells that you want to display.
+const main = runtime.module(define, name => cells.has(name) ? inspect() : undefined);
+
+</script>
