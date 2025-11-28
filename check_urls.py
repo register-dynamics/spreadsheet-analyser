@@ -1,4 +1,8 @@
+import argparse
+import os
 import time
+
+from urllib3.exceptions import LocationParseError
 from urllib.parse import urlparse
 
 import requests
@@ -11,6 +15,8 @@ def is_url_working(url):
         # Check if the response status code is 2xx or 3xx (success and redirects)
         return response.status_code < 400
     except requests.RequestException:
+        return False
+    except LocationParseError:
         return False
 
 
@@ -53,11 +59,44 @@ def filter_working_urls(file_path, delay=1):
 
 # Prompt the user for a file name and optional delay
 if __name__ == "__main__":
-    file_path = input("Please enter the path to the file containing URLs: ")
+    parser = argparse.ArgumentParser(
+        prog="check_urls",
+        description="When provided a list of links, determines which are valid and writes to valid_urls.txt",
+    )
+
+    parser.add_argument(
+        "-f",
+        "--file",
+        dest="filename",
+        help="A newline separated list of links",
+        metavar="FILE",
+    )
+
+    # Argparse type for allowing optional floats, if flag not present or not a float,
+    # will return None
+    def optional_float(x):
+        try:
+            x = float(x)
+        except ValueError:
+            return None
+        return x
+
+    parser.add_argument(
+        "-d",
+        "--delay",
+        dest="delay",
+        help="delay between requests, in seconds, default is 1",
+        type=optional_float,
+    )
+    args = parser.parse_args()
+
+    file_path = args.filename or input(
+        "Please enter the path to the file containing URLs: "
+    )
+
     try:
-        delay = float(
+        delay = args.delay or float(
             input("Enter delay between requests (in seconds, default is 1 second): ")
-            or 1
         )
     except ValueError:
         delay = 1  # Default to 1 second if invalid input
